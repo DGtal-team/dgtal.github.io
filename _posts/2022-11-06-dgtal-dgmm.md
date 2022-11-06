@@ -3,7 +3,7 @@ layout: post
 title: DGtal tutorial at DGMM 2022
 ---
 
-During the second [IAPR Second International Conference on Discrete Geometry and Mathematical Morphology 2022](https://dgmm2022.sciencesconf.org), we had a DGtal tutorial session with many exercises and demos. The material is now available: 
+During the second [IAPR International Conference on Discrete Geometry and Mathematical Morphology 2022](https://dgmm2022.sciencesconf.org), we had a DGtal tutorial session with many exercises and demos. The material is now available: 
 
  * [Code and exercises](https://github.com/DGtal-team/DGtal-Tutorials-DGMM2022)
  * Slides:
