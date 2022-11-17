@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['eucliddiv_15667',['euclidDiv',['../classDGtal_1_1MPolynomial.html#aff2d57346a0bbc8eced006c9f9b059ee',1,'DGtal::MPolynomial']]]
+  ['eucliddiv_0',['euclidDiv',['../classDGtal_1_1MPolynomial.html#aff2d57346a0bbc8eced006c9f9b059ee',1,'DGtal::MPolynomial']]]
 ];

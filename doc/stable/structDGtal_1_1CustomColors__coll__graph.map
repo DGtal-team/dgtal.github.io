@@ -1,5 +1,0 @@
-<map id="DGtal::CustomColors" name="DGtal::CustomColors">
-<area shape="rect" id="node1" title="Custom style class redefining the pen color and the fill color. You may use Board2D::Color::None for ..." alt="" coords="51,244,199,271"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1DrawableWithBoard2D.html" title=" " alt="" coords="5,73,203,99"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1Color.html" title="Structure representing an RGB triple with alpha component." alt="" coords="227,73,322,99"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="DGtal::functors::PolarPointComparatorBy2x2DetComputer&lt; TPoint, TDetComputer &gt;" name="DGtal::functors::PolarPointComparatorBy2x2DetComputer&lt; TPoint, TDetComputer &gt;">
-<area shape="rect" id="node1" title="Aim: Class that implements a binary point predicate, which is able to compare the position of two giv..." alt="" coords="936,44,1141,100"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1functors_1_1Thresholder.html" title=" " alt="" coords="585,14,780,55"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1functors_1_1Thresholder.html" title="Aim: A small functor with an operator () that compares one value to a threshold value according to tw..." alt="" coords="151,14,337,55"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,21,44,48"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1Simple2x2DetComputer.html" title=" " alt="" coords="579,80,787,136"/>
-<area shape="rect" id="node6" href="$classDGtal_1_1Simple2x2DetComputer.html" title="Aim: Small class useful to compute the determinant of a 2x2 matrix from its four coefficients,..." alt="" coords="123,87,365,129"/>
-</map>

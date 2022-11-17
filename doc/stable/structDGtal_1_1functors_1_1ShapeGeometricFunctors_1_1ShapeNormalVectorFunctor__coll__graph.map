@@ -1,5 +1,0 @@
-<map id="DGtal::functors::ShapeGeometricFunctors::ShapeNormalVectorFunctor&lt; TShape &gt;" name="DGtal::functors::ShapeGeometricFunctors::ShapeNormalVectorFunctor&lt; TShape &gt;">
-<area shape="rect" id="node1" title="Aim: A functor RealPoint &#45;&gt; Quantity that returns the normal vector at given point." alt="" coords="5,213,248,269"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="37,109,216,151"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title="Aim: Smart or simple const pointer on T. It can be a smart pointer based on reference counts or a sim..." alt="" coords="37,5,216,47"/>
-</map>

@@ -1,5 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,113,61"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1IsAPointVector.html" title="Type trait to check if a given type is a PointVector." alt="" coords="169,5,353,32"/>
-<area shape="rect" id="node3" href="$structDGtal_1_1IsArithmeticConversionValid.html" title="Helper to determine if an arithmetic operation between two given types has a valid result type (ie is..." alt="" coords="161,57,361,98"/>
+<area shape="rect" id="node1" href="$classDGtal_1_1IndexedDigitalSurface.html" title="Aim: Represents a digital surface with the topology of its dual surface. Its aim is to mimick the sta..." alt="" coords="5,5,197,45"/>
 </map>

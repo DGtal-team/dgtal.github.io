@@ -1,7 +1,0 @@
-<map id="DGtal::KhalimskyCell&lt; dim, TInteger &gt;" name="DGtal::KhalimskyCell&lt; dim, TInteger &gt;">
-<area shape="rect" id="node1" title="Represents an (unsigned) cell in a cellular grid space by its Khalimsky coordinates." alt="" coords="15,436,163,477"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1KhalimskyPreCell.html" title=" " alt="" coords="5,332,173,373"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1PointVector.html" title=" " alt="" coords="23,124,155,165"/>
-<area shape="rect" id="node5" href="$structDGtal_1_1KhalimskyPreCell.html" title="Represents an unsigned cell in an unbounded cellular grid space by its Khalimsky coordinates." alt="" coords="164,228,332,269"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="10,5,169,61"/>
-</map>

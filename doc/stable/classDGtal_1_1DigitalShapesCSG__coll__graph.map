@@ -1,8 +1,0 @@
-<map id="DGtal::DigitalShapesCSG&lt; ShapeA, ShapeB &gt;" name="DGtal::DigitalShapesCSG&lt; ShapeA, ShapeB &gt;">
-<area shape="rect" id="node1" title="Aim: Constructive Solid Geometry (CSG) between models of CDigitalBoundedShape and CDigitalOrientedSha..." alt="" coords="925,66,1100,107"/>
-<area shape="rect" id="node2" title=" " alt="" coords="573,21,808,77"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="181,36,297,63"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,36,44,63"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="601,102,780,143"/>
-<area shape="rect" id="node6" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title="Aim: Smart or simple const pointer on T. It can be a smart pointer based on reference counts or a sim..." alt="" coords="149,102,328,143"/>
-</map>

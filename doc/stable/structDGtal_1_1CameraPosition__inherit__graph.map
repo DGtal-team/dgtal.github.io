@@ -1,7 +1,7 @@
 <map id="DGtal::CameraPosition" name="DGtal::CameraPosition">
-<area shape="rect" id="node1" title="CameraPosition class to set camera position." alt="" coords="151,169,309,196"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1DrawWithBoard3DTo2DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="15,80,210,121"/>
-<area shape="rect" id="node3" href="$structDGtal_1_1DrawableWithDisplay3D.html" title=" " alt="" coords="5,5,212,32"/>
-<area shape="rect" id="node4" href="$structDGtal_1_1DrawWithViewer3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="236,87,461,114"/>
-<area shape="rect" id="node5" href="$structDGtal_1_1DrawWithDisplay3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="237,5,466,32"/>
+<area shape="rect" id="node1" title="CameraPosition class to set camera position." alt="" coords="151,167,309,192"/>
+<area shape="rect" id="node2" href="$structDGtal_1_1DrawWithBoard3DTo2DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="15,79,210,119"/>
+<area shape="rect" id="node3" href="$structDGtal_1_1DrawableWithDisplay3D.html" title=" " alt="" coords="5,5,212,31"/>
+<area shape="rect" id="node4" href="$structDGtal_1_1DrawWithViewer3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="236,86,461,111"/>
+<area shape="rect" id="node5" href="$structDGtal_1_1DrawWithDisplay3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="237,5,466,31"/>
 </map>

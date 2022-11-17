@@ -1,8 +1,0 @@
-<map id="DGtal::experimental::ChamferNorm2D&lt; TSpace &gt;" name="DGtal::experimental::ChamferNorm2D&lt; TSpace &gt;">
-<area shape="rect" id="node1" title="Aim: implements a model of CSeparableMetric for Chamfer and path based norms." alt="" coords="781,53,980,94"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1experimental_1_1ChamferNorm2D_1_1LessThanAngular.html" title=" " alt="" coords="423,12,609,68"/>
-<area shape="rect" id="node3" title=" " alt="" coords="443,92,589,119"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="149,44,308,100"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="171,124,287,151"/>
-<area shape="rect" id="node6" title=" " alt="" coords="5,124,44,151"/>
-</map>

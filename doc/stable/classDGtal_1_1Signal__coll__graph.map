@@ -1,8 +1,0 @@
-<map id="DGtal::Signal&lt; TValue &gt;" name="DGtal::Signal&lt; TValue &gt;">
-<area shape="rect" id="node1" title="Aim: Represents a discrete signal, periodic or not. The signal can be passed by value since it is onl..." alt="" coords="116,451,280,477"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="113,347,283,388"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1CountedPtr.html" title=" " alt="" coords="5,213,145,269"/>
-<area shape="rect" id="node4" href="$structDGtal_1_1CountedPtr_1_1Counter.html" title=" " alt="" coords="6,5,145,47"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts." alt="" coords="147,109,310,136"/>
-<area shape="rect" id="node6" href="$classDGtal_1_1CowPtr.html" title="Aim: Copy on write shared pointer." alt="" coords="169,228,309,255"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="DGtal::functors::Projector&lt; S &gt;" name="DGtal::functors::Projector&lt; S &gt;">
-<area shape="rect" id="node1" title="Aim: Functor that maps a point P of dimension i to a point Q of dimension j. The member myDims is an ..." alt="" coords="5,288,209,315"/>
-<area shape="rect" id="node2" title=" " alt="" coords="30,184,185,225"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="53,95,162,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="88,5,127,32"/>
-</map>

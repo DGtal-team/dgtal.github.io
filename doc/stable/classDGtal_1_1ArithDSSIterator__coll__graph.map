@@ -1,5 +1,0 @@
-<map id="DGtal::ArithDSSIterator&lt; TInteger, connectivity &gt;" name="DGtal::ArithDSSIterator&lt; TInteger, connectivity &gt;">
-<area shape="rect" id="node1" title="Aim: An iterator on the points of a Digital Straight Segment. Template parameters are the integer typ..." alt="" coords="5,228,176,269"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1PointVector.html" title=" " alt="" coords="25,124,157,165"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="11,5,170,61"/>
-</map>

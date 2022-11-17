@@ -1,4 +1,0 @@
-<map id="DGtal::VoronoiCovarianceMeasureOnDigitalSurface&lt; TDigitalSurfaceContainer, TSeparableMetric, TKernelFunction &gt;::Normals" name="DGtal::VoronoiCovarianceMeasureOnDigitalSurface&lt; TDigitalSurfaceContainer, TSeparableMetric, TKernelFunction &gt;::Normals">
-<area shape="rect" id="node1" title="Structure to hold the normals for each surfel (the VCM one and the trivial one)." alt="" coords="5,139,236,224"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="41,5,200,61"/>
-</map>

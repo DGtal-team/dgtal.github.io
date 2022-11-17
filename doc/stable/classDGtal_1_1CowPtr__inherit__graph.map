@@ -1,15 +1,16 @@
 <map id="DGtal::CowPtr&lt; T &gt;" name="DGtal::CowPtr&lt; T &gt;">
-<area shape="rect" id="node1" title="Aim: Copy on write shared pointer." alt="" coords="5,352,145,379"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="361,27,556,69"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="383,93,535,134"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="385,159,532,185"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="364,209,553,236"/>
-<area shape="rect" id="node6" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="373,261,544,302"/>
-<area shape="rect" id="node7" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="361,327,557,353"/>
-<area shape="rect" id="node8" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="377,377,540,404"/>
-<area shape="rect" id="node9" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="369,429,549,470"/>
-<area shape="rect" id="node10" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="365,495,552,521"/>
-<area shape="rect" id="node11" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="348,545,569,572"/>
-<area shape="rect" id="node12" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="343,596,575,623"/>
-<area shape="rect" id="node13" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="370,647,547,673"/>
+<area shape="rect" id="node1" title="Aim: Copy on write shared pointer." alt="" coords="5,350,145,375"/>
+<area shape="rect" id="node2" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="361,23,557,49"/>
+<area shape="rect" id="node3" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="377,75,540,115"/>
+<area shape="rect" id="node4" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="370,139,547,165"/>
+<area shape="rect" id="node5" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="343,189,575,214"/>
+<area shape="rect" id="node6" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="383,239,535,279"/>
+<area shape="rect" id="node7" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="348,303,569,329"/>
+<area shape="rect" id="node8" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="364,353,553,378"/>
+<area shape="rect" id="node9" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="373,403,544,443"/>
+<area shape="rect" id="node10" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="361,467,556,507"/>
+<area shape="rect" id="node11" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="365,531,552,557"/>
+<area shape="rect" id="node12" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="369,581,549,621"/>
+<area shape="rect" id="node13" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="385,646,532,671"/>
+<area shape="rect" id="node14" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="377,695,540,721"/>
 </map>

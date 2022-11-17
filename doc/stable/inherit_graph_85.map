@@ -1,4 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classDGtal_1_1ArithmeticalDSS.html" title=" " alt="" coords="5,5,216,47"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1NaiveDSS8.html" title="Aim: This class represents a standard digital straight segment (DSS), ie. the sequence of simply 8&#45;co..." alt="" coords="264,5,484,47"/>
+<area shape="rect" id="node1" href="$classDGtal_1_1AngleLinearMinimizer.html" title="Aim: Used to minimize the angle variation between different angles while taking into accounts min and..." alt="" coords="5,77,193,102"/>
+<area shape="rect" id="node2" href="$classDGtal_1_1AngleLinearMinimizerByAdaptiveStepGradientDescent.html" title=" " alt="" coords="241,5,456,45"/>
+<area shape="rect" id="node3" href="$classDGtal_1_1AngleLinearMinimizerByGradientDescent.html" title=" " alt="" coords="255,69,443,109"/>
+<area shape="rect" id="node4" href="$classDGtal_1_1AngleLinearMinimizerByRelaxation.html" title=" " alt="" coords="255,133,443,173"/>
 </map>

@@ -1,6 +1,0 @@
-<map id="DGtal::LabelledMap&lt; TData, L, TWord, N, M &gt;::BlockPointer" name="DGtal::LabelledMap&lt; TData, L, TWord, N, M &gt;::BlockPointer">
-<area shape="rect" id="node1" title="Forward declaration." alt="" coords="748,37,901,93"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1LabelledMap_1_1____AnyBlock.html" title=" " alt="" coords="5,44,159,100"/>
-<area shape="rect" id="node4" href="$unionDGtal_1_1LabelledMap_1_1DataOrBlockPointer.html" title="Used in first block to finish it or to point to the next block." alt="" coords="269,77,443,133"/>
-<area shape="rect" id="node3" href="$structDGtal_1_1LabelledMap_1_1____FirstBlock.html" title=" " alt="" coords="520,77,673,133"/>
-</map>

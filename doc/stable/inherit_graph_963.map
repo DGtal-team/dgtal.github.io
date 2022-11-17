@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structDGtal_1_1PlaneProbingDigitalSurfaceLocalEstimator_1_1ProbingFrame.html" title=" " alt="" coords="5,5,243,76"/>
+<area shape="rect" id="node1" href="$structDGtal_1_1NumberTraitsImpl.html" title="Aim: The traits class for all models of Cinteger (implementation)" alt="" coords="5,37,173,77"/>
+<area shape="rect" id="node2" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="221,5,364,45"/>
+<area shape="rect" id="node3" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="221,69,364,109"/>
 </map>

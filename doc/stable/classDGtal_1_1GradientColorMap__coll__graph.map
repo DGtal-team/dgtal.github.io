@@ -1,7 +1,0 @@
-<map id="DGtal::GradientColorMap&lt; PValue, PDefaultPreset, PDefaultFirstColor, PDefaultLastColor &gt;" name="DGtal::GradientColorMap&lt; PValue, PDefaultPreset, PDefaultFirstColor, PDefaultLastColor &gt;">
-<area shape="rect" id="node1" title="Aim: This class template may be used to (linearly) convert scalar values in a given range into a colo..." alt="" coords="45,423,263,493"/>
-<area shape="rect" id="node2" title=" " alt="" coords="89,319,219,360"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1Color.html" title="Structure representing an RGB triple with alpha component." alt="" coords="5,162,100,189"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="199,162,315,189"/>
-<area shape="rect" id="node5" title=" " alt="" coords="237,5,276,32"/>
-</map>
