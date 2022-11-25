@@ -1,0 +1,52 @@
+<map id="testPolygon3D.cpp" name="testPolygon3D.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1871,5,2004,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1331,871,1403,896"/>
+<area shape="rect" id="node3" href="$Common_8h_source.html" title=" " alt="" coords="1447,563,1603,588"/>
+<area shape="rect" id="node23" href="$Color_8h_source.html" title=" " alt="" coords="2483,724,2597,749"/>
+<area shape="rect" id="node29" href="$Viewer3D_8h_source.html" title=" " alt="" coords="2379,79,2570,104"/>
+<area shape="rect" id="node42" href="$StdDefs_8h_source.html" title=" " alt="" coords="2203,321,2368,346"/>
+<area shape="rect" id="node43" href="$DrawWithDisplay3DModifier_8h_source.html" title=" " alt="" coords="1767,225,1950,265"/>
+<area shape="rect" id="node50" href="$DGtal_2shapes_2Shapes_8h_source.html" title=" " alt="" coords="1121,321,1282,346"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1563,643,1642,669"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2699,797,2773,823"/>
+<area shape="rect" id="node6" title=" " alt="" coords="659,643,784,669"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2232,643,2403,669"/>
+<area shape="rect" id="node8" title=" " alt="" coords="809,643,967,669"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2427,643,2597,669"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2029,643,2208,669"/>
+<area shape="rect" id="node11" title=" " alt="" coords="991,636,1134,676"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1158,643,1351,669"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1775,724,1833,749"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1376,643,1437,669"/>
+<area shape="rect" id="node15" href="$Config_8h_source.html" title=" " alt="" coords="597,797,739,823"/>
+<area shape="rect" id="node16" href="$Trace_8h_source.html" title=" " alt="" coords="397,643,533,669"/>
+<area shape="rect" id="node17" href="$TraceWriterTerm_8h_source.html" title=" " alt="" coords="438,724,637,749"/>
+<area shape="rect" id="node18" href="$Assert_8h_source.html" title=" " alt="" coords="813,724,955,749"/>
+<area shape="rect" id="node19" href="$TraceWriterFile_8h_source.html" title=" " alt="" coords="979,724,1170,749"/>
+<area shape="rect" id="node20" href="$ConceptUtils_8h_source.html" title=" " alt="" coords="2976,643,3155,669"/>
+<area shape="rect" id="node21" href="$BasicTypes_8h_source.html" title=" " alt="" coords="1361,724,1532,749"/>
+<area shape="rect" id="node22" href="$BasicFunctors_8h_source.html" title=" " alt="" coords="1768,643,1955,669"/>
+<area shape="rect" id="node27" href="$BasicArchetypes_8h_source.html" title=" " alt="" coords="219,797,421,823"/>
+<area shape="rect" id="node28" href="$Exceptions_8h_source.html" title=" " alt="" coords="245,724,413,749"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2304,797,2456,823"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2624,797,2675,823"/>
+<area shape="rect" id="node26" href="$Color_8ih_source.html" title=" " alt="" coords="2481,797,2599,823"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2127,233,2185,258"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2297,152,2361,177"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2386,152,2457,177"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2481,152,2577,177"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2601,152,2759,177"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2783,152,2873,177"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2897,152,2986,177"/>
+<area shape="rect" id="node37" href="$SpaceND_8h_source.html" title=" " alt="" coords="2650,489,2817,515"/>
+<area shape="rect" id="node38" href="$KhalimskySpaceND_8h_source.html" title=" " alt="" coords="1994,401,2169,441"/>
+<area shape="rect" id="node39" href="$CountedPtr_8h_source.html" title=" " alt="" coords="1411,489,1579,515"/>
+<area shape="rect" id="node40" href="$Display3D_8h_source.html" title=" " alt="" coords="2127,152,2273,177"/>
+<area shape="rect" id="node47" href="$CSpace_8h_source.html" title=" " alt="" coords="3044,489,3201,515"/>
+<area shape="rect" id="node48" href="$BasicMathFunctions_8h_source.html" title=" " alt="" coords="2351,489,2574,515"/>
+<area shape="rect" id="node49" href="$Viewer3D_8ih_source.html" title=" " alt="" coords="3011,152,3205,177"/>
+<area shape="rect" id="node41" href="$CConstImage_8h_source.html" title=" " alt="" coords="2218,563,2417,588"/>
+<area shape="rect" id="node44" href="$Alias_8h_source.html" title=" " alt="" coords="1634,409,1766,434"/>
+<area shape="rect" id="node45" href="$ConstAlias_8h_source.html" title=" " alt="" coords="1290,409,1457,434"/>
+<area shape="rect" id="node46" href="$DrawWithDisplay3DModifier_8ih_source.html" title=" " alt="" coords="1634,313,1817,353"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="DGtal::concepts::CPointPredicate&lt; T &gt;" name="DGtal::concepts::CPointPredicate&lt; T &gt;">
+<area shape="rect" id="node1" title="Aim: Defines a predicate on a point." alt="" coords="1764,99,2016,125"/>
+<area shape="rect" id="node10" href="$structDGtal_1_1concepts_1_1CDigitalSet.html" title="Aim: Represents a set of points within the given domain. This set of points is modifiable by the user..." alt="" coords="2065,92,2237,132"/>
+<area shape="rect" id="node2" href="$structDGtal_1_1concepts_1_1CPredicate.html" title=" " alt="" coords="1524,92,1715,132"/>
+<area shape="rect" id="node3" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title="Aim: Defines a unary functor, which associates arguments to results." alt="" coords="696,113,911,153"/>
+<area shape="rect" id="node4" href="$structboost_1_1Assignable.html" title=" " alt="" coords="249,105,408,130"/>
+<area shape="rect" id="node9" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title="Aim: Defines a unary functor, which associates arguments to results." alt="" coords="457,5,672,45"/>
+<area shape="rect" id="node5" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="5,105,164,130"/>
+<area shape="rect" id="node6" href="$structDGtal_1_1concepts_1_1CPredicate.html" title="Aim: Defines a predicate function, ie. a functor mapping a domain into the set of booleans." alt="" coords="1199,56,1389,96"/>
+<area shape="rect" id="node7" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="935,56,1149,96"/>
+<area shape="rect" id="node8" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="485,70,644,95"/>
+</map>

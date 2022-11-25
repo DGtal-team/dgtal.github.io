@@ -1,0 +1,12 @@
+<map id="DGtal::StarShaped2D&lt; TSpace &gt;" name="DGtal::StarShaped2D&lt; TSpace &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,194,155,234"/>
+<area shape="rect" id="node2" href="$classDGtal_1_1Astroid2D.html" title=" " alt="" coords="572,46,755,71"/>
+<area shape="rect" id="node3" href="$classDGtal_1_1AccFlower2D.html" title="Aim: Model of the concept StarShaped represents any accelerated flower in the plane." alt="" coords="292,38,435,78"/>
+<area shape="rect" id="node4" href="$classDGtal_1_1Astroid2D.html" title="Aim: Model of the concept StarShaped represents an astroid." alt="" coords="268,103,459,128"/>
+<area shape="rect" id="node5" href="$classDGtal_1_1Ball2D.html" title="Aim: Model of the concept StarShaped represents any circle in the plane." alt="" coords="277,152,449,178"/>
+<area shape="rect" id="node6" href="$classDGtal_1_1Ellipse2D.html" title="Aim: Model of the concept StarShaped represents any ellipse in the plane." alt="" coords="269,202,458,227"/>
+<area shape="rect" id="node7" href="$classDGtal_1_1Flower2D.html" title="Aim: Model of the concept StarShaped represents any flower with k&#45;petals in the plane." alt="" coords="269,251,458,276"/>
+<area shape="rect" id="node8" href="$classDGtal_1_1Lemniscate2D.html" title="Aim: Model of the concept StarShaped represents a lemniscate." alt="" coords="289,301,437,341"/>
+<area shape="rect" id="node9" href="$classDGtal_1_1NGon2D.html" title="Aim: Model of the concept StarShaped represents any regular k&#45;gon in the plane." alt="" coords="271,366,455,391"/>
+<area shape="rect" id="node10" href="$classDGtal_1_1StarShaped2D.html" title=" " alt="" coords="289,416,438,456"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DGtal::CameraZNearFar" name="DGtal::CameraZNearFar">
+<area shape="rect" id="node1" title="CameraZNearFar class to set near and far distance." alt="" coords="147,167,313,192"/>
+<area shape="rect" id="node2" href="$structDGtal_1_1DrawWithBoard3DTo2DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="15,79,210,119"/>
+<area shape="rect" id="node3" href="$structDGtal_1_1DrawableWithDisplay3D.html" title=" " alt="" coords="5,5,212,31"/>
+<area shape="rect" id="node4" href="$structDGtal_1_1DrawWithViewer3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="236,86,461,111"/>
+<area shape="rect" id="node5" href="$structDGtal_1_1DrawWithDisplay3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="237,5,466,31"/>
+</map>
