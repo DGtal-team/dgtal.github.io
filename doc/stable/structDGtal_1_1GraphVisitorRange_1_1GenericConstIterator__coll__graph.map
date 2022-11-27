@@ -1,6 +1,0 @@
-<map id="DGtal::GraphVisitorRange&lt; TGraphVisitor &gt;::GenericConstIterator&lt; TAccessor &gt;" name="DGtal::GraphVisitorRange&lt; TGraphVisitor &gt;::GenericConstIterator&lt; TAccessor &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="5,303,220,359"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1CountedPtr.html" title=" " alt="" coords="43,199,182,240"/>
-<area shape="rect" id="node3" href="$structDGtal_1_1CountedPtr_1_1Counter.html" title=" " alt="" coords="43,5,182,47"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts." alt="" coords="185,109,347,136"/>
-</map>

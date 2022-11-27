@@ -1,5 +1,0 @@
-<map id="DGtal::concepts::CUndirectedSimpleLocalGraph&lt; T &gt;" name="DGtal::concepts::CUndirectedSimpleLocalGraph&lt; T &gt;">
-<area shape="rect" id="node1" title="Aim: Represents the concept of local graph: each vertex has neighboring vertices, but we do not neces..." alt="" coords="9,213,208,255"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1concepts_1_1CVertexPredicateArchetype.html" title=" " alt="" coords="9,109,208,151"/>
-<area shape="rect" id="node3" href="$structDGtal_1_1concepts_1_1CVertexPredicateArchetype.html" title="Aim: Defines a an archetype for concept CVertexPredicate." alt="" coords="5,5,212,47"/>
-</map>

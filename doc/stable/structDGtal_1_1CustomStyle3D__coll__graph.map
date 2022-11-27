@@ -1,7 +1,0 @@
-<map id="DGtal::CustomStyle3D" name="DGtal::CustomStyle3D">
-<area shape="rect" id="node1" title="Modifier class in a Display3D stream. Useful to choose your own style for a given class...." alt="" coords="1016,35,1173,61"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1DrawWithDisplay3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="685,5,915,32"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1CountedPtr.html" title=" " alt="" coords="689,57,911,98"/>
-<area shape="rect" id="node4" href="$structDGtal_1_1CountedPtr_1_1Counter.html" title=" " alt="" coords="5,63,144,105"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts." alt="" coords="261,101,424,128"/>
-</map>

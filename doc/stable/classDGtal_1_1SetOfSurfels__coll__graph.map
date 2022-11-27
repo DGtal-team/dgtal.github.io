@@ -1,7 +1,0 @@
-<map id="DGtal::SetOfSurfels&lt; TKSpace, TSurfelSet &gt;" name="DGtal::SetOfSurfels&lt; TKSpace, TSurfelSet &gt;">
-<area shape="rect" id="node1" title="Aim: A model of CDigitalSurfaceContainer which defines the digital surface as connected surfels...." alt="" coords="731,51,901,93"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1functors_1_1SurfelSetPredicate.html" title=" " alt="" coords="368,14,565,55"/>
-<area shape="rect" id="node3" href="$structDGtal_1_1functors_1_1SurfelSetPredicate.html" title="Aim: The predicate returning true iff the point is in the domain given at construction." alt="" coords="5,5,179,61"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1SurfelAdjacency.html" title=" " alt="" coords="387,83,546,125"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1SurfelAdjacency.html" title="Aim: Represent adjacencies between surfel elements, telling if it follows an interior to exterior ord..." alt="" coords="13,86,171,127"/>
-</map>

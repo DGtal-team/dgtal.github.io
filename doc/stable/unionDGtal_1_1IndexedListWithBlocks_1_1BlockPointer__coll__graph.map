@@ -1,6 +1,0 @@
-<map id="DGtal::IndexedListWithBlocks&lt; TValue, N, M &gt;::BlockPointer" name="DGtal::IndexedListWithBlocks&lt; TValue, N, M &gt;::BlockPointer">
-<area shape="rect" id="node1" title="Forward declaration." alt="" coords="916,44,1121,85"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1IndexedListWithBlocks_1_1FirstBlock.html" title=" " alt="" coords="643,73,841,115"/>
-<area shape="rect" id="node3" href="$unionDGtal_1_1IndexedListWithBlocks_1_1ValueOrBlockPointer.html" title="Used in blocks to finish it or to point to the next block." alt="" coords="315,73,565,115"/>
-<area shape="rect" id="node4" href="$structDGtal_1_1IndexedListWithBlocks_1_1AnyBlock.html" title=" " alt="" coords="5,44,204,85"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="DGtal::ArithmeticalDSL&lt; TCoordinate, TInteger, adjacency &gt;::ConstIterator" name="DGtal::ArithmeticalDSL&lt; TCoordinate, TInteger, adjacency &gt;::ConstIterator">
-<area shape="rect" id="node1" title="Aim: This class aims at representing an iterator that provides a way to scan the points of a DSL...." alt="" coords="573,101,755,157"/>
-<area shape="rect" id="node2" title=" " alt="" coords="261,5,460,91"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1ArithmeticalDSL.html" title="Aim: This class represents a naive (resp. standard) digital straight line (DSL), ie...." alt="" coords="279,177,443,233"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="5,139,164,195"/>
-</map>

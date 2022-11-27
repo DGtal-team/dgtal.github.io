@@ -4,10 +4,20 @@ title: Documentation & Help
 ---
 
 ### Documentation
-* [User guide and stable API documentation][1] (1.2)
+* [User guide and stable API documentation][1] (1.3)
 * [Nightly build doxygen documentation][2]
 * [Nightly build doxygen documentation of DGtalTools][22]
 * [Documentation docset URL][3] (1.0, for [Dash][4] or [Zeal][5] tools)
+
+### Material for the DGtal tutorial at DGMM 2022
+
+
+During the second [IAPR International Conference on Discrete Geometry and Mathematical Morphology 2022](https://dgmm2022.sciencesconf.org), we had a DGtal tutorial session with many exercises and demos. The material is now available:
+
+ * [Code and exercises](https://github.com/DGtal-team/DGtal-Tutorials-DGMM2022)
+ * Slides:
+   * Keynote: [part1](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial/DGtalDGMM2022-part1.key), [part2](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial/DGtalDGMM2022-part2.key)
+   * pdf export: [part1](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial/DGtalDGMM2022-part1.pdf), [part2](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial/DGtalDGMM2022-part2.pdf)
 
 
 ### Slides of [ACPR](https://www.acpr2019.org/program.html) Tutorial on Digital Geometry in Pattern Recognition  (26/11/2019)

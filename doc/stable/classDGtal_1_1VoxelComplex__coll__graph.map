@@ -1,6 +1,0 @@
-<map id="DGtal::VoxelComplex&lt; TKSpace, TCellContainer &gt;" name="DGtal::VoxelComplex&lt; TKSpace, TCellContainer &gt;">
-<area shape="rect" id="node1" title="This class represents a voxel complex living in some Khalimsky space. Voxel complexes are derived fro..." alt="" coords="81,199,275,240"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1CountedPtrOrPtr.html" title=" " alt="" coords="5,95,167,136"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1CountedPtrOrPtr.html" title="Aim: Smart or simple pointer on T. It can be a smart pointer based on reference counts or a simple po..." alt="" coords="81,5,275,32"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1CountedPtrOrPtr.html" title=" " alt="" coords="191,95,352,136"/>
-</map>

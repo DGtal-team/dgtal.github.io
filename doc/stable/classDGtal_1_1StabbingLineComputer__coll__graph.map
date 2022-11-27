@@ -1,8 +1,0 @@
-<map id="DGtal::StabbingLineComputer&lt; TConstIterator &gt;" name="DGtal::StabbingLineComputer&lt; TConstIterator &gt;">
-<area shape="rect" id="node1" title="Aim: On&#45;line recognition of a digital straight segment (DSS) defined as a sequence of connected grid ..." alt="" coords="58,392,254,433"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="63,303,249,329"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1CountedPtr.html" title=" " alt="" coords="5,199,144,240"/>
-<area shape="rect" id="node4" href="$structDGtal_1_1CountedPtr_1_1Counter.html" title=" " alt="" coords="5,5,144,47"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts." alt="" coords="147,109,309,136"/>
-<area shape="rect" id="node6" href="$classDGtal_1_1CowPtr.html" title="Aim: Copy on write shared pointer." alt="" coords="169,206,309,233"/>
-</map>

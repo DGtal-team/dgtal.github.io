@@ -1,6 +1,0 @@
-<map id="DGtal::IndexedListWithBlocks&lt; TValue, N, M &gt;" name="DGtal::IndexedListWithBlocks&lt; TValue, N, M &gt;">
-<area shape="rect" id="node1" title="Aim: Represents a mixed list/array structure which is useful in some context. It is essentially a lis..." alt="" coords="31,317,230,359"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1IndexedListWithBlocks_1_1FirstBlock.html" title=" " alt="" coords="31,213,230,255"/>
-<area shape="rect" id="node3" href="$unionDGtal_1_1IndexedListWithBlocks_1_1ValueOrBlockPointer.html" title="Used in blocks to finish it or to point to the next block." alt="" coords="5,109,256,151"/>
-<area shape="rect" id="node4" href="$structDGtal_1_1IndexedListWithBlocks_1_1AnyBlock.html" title=" " alt="" coords="31,5,230,47"/>
-</map>

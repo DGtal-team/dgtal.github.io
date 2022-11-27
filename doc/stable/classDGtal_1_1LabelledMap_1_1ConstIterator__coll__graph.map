@@ -1,6 +1,0 @@
-<map id="DGtal::LabelledMap&lt; TData, L, TWord, N, M &gt;::ConstIterator" name="DGtal::LabelledMap&lt; TData, L, TWord, N, M &gt;::ConstIterator">
-<area shape="rect" id="node1" title=" " alt="" coords="541,95,695,151"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1LabelledMap_1_1BlockConstIterator.html" title=" " alt="" coords="257,44,424,100"/>
-<area shape="rect" id="node3" href="$structDGtal_1_1LabelledMap_1_1____AnyBlock.html" title=" " alt="" coords="5,44,159,100"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1Labels_1_1ConstEnumerator.html" title=" " alt="" coords="257,125,424,166"/>
-</map>

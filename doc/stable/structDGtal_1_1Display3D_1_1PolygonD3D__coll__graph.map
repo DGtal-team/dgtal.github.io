@@ -1,9 +1,0 @@
-<map id="DGtal::Display3D&lt; Space, KSpace &gt;::PolygonD3D" name="DGtal::Display3D&lt; Space, KSpace &gt;::PolygonD3D">
-<area shape="rect" id="node1" title=" " alt="" coords="775,247,953,289"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1Display3D_1_1CommonD3D.html" title=" " alt="" coords="497,247,676,289"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1Color.html" title="Structure representing an RGB triple with alpha component." alt="" coords="183,191,277,217"/>
-<area shape="rect" id="node4" title=" " alt="" coords="521,313,652,354"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="151,291,309,347"/>
-<area shape="rect" id="node6" title="STL class." alt="" coords="172,371,288,397"/>
-<area shape="rect" id="node7" title=" " alt="" coords="5,371,44,397"/>
-</map>

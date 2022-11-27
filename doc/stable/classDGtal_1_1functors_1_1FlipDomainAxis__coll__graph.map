@@ -1,6 +1,0 @@
-<map id="DGtal::functors::FlipDomainAxis&lt; TDomain &gt;" name="DGtal::functors::FlipDomainAxis&lt; TDomain &gt;">
-<area shape="rect" id="node1" title="Aim: Functor that flips the domain coordinate system from some selected axis. For instance,..." alt="" coords="5,273,191,315"/>
-<area shape="rect" id="node2" title=" " alt="" coords="31,184,165,211"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="40,95,156,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="79,5,117,32"/>
-</map>
