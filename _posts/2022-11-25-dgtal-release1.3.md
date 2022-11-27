@@ -13,8 +13,6 @@ We are thrilled to announce the [release  1.3 of DGtal](https://github.com/DGtal
 |---|---|--|
 | ![](../img/polydec.png)| ![](../img/bimba-nsources.png)| ![](../img/bimba-nvf.png)|
 
-  * Module digital convexity is not new (since 1.1), but it has been improved to work in arbitrary dimensions, and to count faster lattice points within polytope. moduleEnvelope is new.
-
   * Faster digital convexity tests in the [convexity module](https://dgtal.org/doc/stable/moduleDigitalConvexity.html), and a brand new fully convex digital [envelope module](https://dgtal-team.github.io/doc-nightly/moduleEnvelope.html), allowing a new convexity based definition of digital polyhedra.
 
   | | |
