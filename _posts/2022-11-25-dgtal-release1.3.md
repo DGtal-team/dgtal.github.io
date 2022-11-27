@@ -9,7 +9,7 @@ We are thrilled to announce the [release  1.3 of DGtal](https://github.com/DGtal
 * **Geometry processing**: many new features for the geometry processing of digital objects and surfaces
   * a new [differential calculus framework](https://dgtal-team.github.io/doc-nightly/modulePolygonalCalculus.html) for polygonal meshes and digital surfaces (scalar field and vector field processing on surfaces)
 
-<table border=0>
+<table border="0">
 <tr>
 <td markdown="span"> ![](../img/polydec.png)</td><td markdown="span"> ![](../img/bimba-nsources.png)</td><td markdown="span"> ![](../img/bimba-nvf.png)</td>
 </tr>
@@ -17,7 +17,7 @@ We are thrilled to announce the [release  1.3 of DGtal](https://github.com/DGtal
 
   * Faster digital convexity tests in the [convexity module](https://dgtal.org/doc/stable/moduleDigitalConvexity.html), and a brand new fully convex digital [envelope module](https://dgtal-team.github.io/doc-nightly/moduleEnvelope.html), allowing a new convexity based definition of digital polyhedra.
 
-<table border=0>
+<table border="0">
 <tr>
 <td markdown="span">![](../img/lion-tri-h0_5-sstd-all.jpg) </td><td markdown="span">  ![](../img/spot-h0_005-all.jpg) </td>
 </tr>
