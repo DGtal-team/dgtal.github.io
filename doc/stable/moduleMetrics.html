@@ -118,8 +118,6 @@ Main concepts</h1>
 <li>Chamfer norms with axis symmetric unit ball (see <a class="el" href="classDGtal_1_1experimental_1_1ChamferNorm2D.html" title="Aim: implements a model of CSeparableMetric for Chamfer and path based norms.">experimental::ChamferNorm2D</a> in dimension 2).</li>
 <li><a class="el" href="classDGtal_1_1DigitalMetricAdapter.html" title="Aim: simple adapter class which adapts any models of concepts::CMetricSpace to a model of concepts::C...">DigitalMetricAdapter</a> which adapts any metric (model of <a class="el" href="structDGtal_1_1concepts_1_1CMetricSpace.html" title="Aim: defines the concept of metric spaces.">CMetricSpace</a>) to digital space using the ceil function. This induces a digital metric (ceil function preserves the triangular inequality).</li>
 </ul>
-<div class="dotgraph">
-<iframe scrolling="no" frameborder="0" src="dot_inline_dotgraph_7.svg" width="740" height="282"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 <p >For instance, <a class="el" href="structDGtal_1_1concepts_1_1CMetricSpace.html" title="Aim: defines the concept of metric spaces.">CMetricSpace</a> requires to have a binary operator to compute the distance between any two points of the digital space. Furthermore, it requires to have a method he <em>closest(origin,p,q)</em> which returns the closest point from <em>p</em> and <em>q</em> to the origin. Such closest method can be easily implemented from the binary distance operator. However, for some metric, more efficient implementation can be obtained to answer to <em>closest()</em> requests.</p>
 <dl class="section note"><dt>Note</dt><dd>Models of <a class="el" href="structDGtal_1_1concepts_1_1CMetricSpace.html" title="Aim: defines the concept of metric spaces.">CMetricSpace</a> concept also implements a <em>rawDistance(x,y)</em> method. This method returns a value of type <em>RawValue</em> which may be considered as an exact representation of the distance between x and y. For example, if we consider a \( l_p\) metric, the distance between x and y can be represented as sum of power p terms (the distance without the order p square root). Hence, if RawValue is an <em>exact</em> <em>type</em> (e.g. model of <a class="el" href="structDGtal_1_1concepts_1_1CInteger.html" title="Aim: Concept checking for Integer Numbers. More precisely, this concept is a refinement of both CEucl...">CInteger</a> with enough capacity to represent power p integers), rawDistance method can be used to perform exact metric comparison. To sum up for any instance <em>metric</em> of the class ExactLpSeparableMetric for instance:<ul>
 <li><em>metric(x,y)</em> returns the distance as double, i.e. \(\left ( \sum_{i=1}^n |x_i-y_i |^p \right )^{\frac{1}{p}}\)</li>
@@ -198,7 +196,7 @@ Main models and Computational Costs for Volumetric Analysis</h1>
 </div><!-- PageDoc -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Thu Nov 17 2022 17:06:52 for DGtal by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5
+Generated on Sun Nov 27 2022 15:16:00 for DGtal by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5
 </small></address>
 </body>
 </html>

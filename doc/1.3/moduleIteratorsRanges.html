@@ -116,8 +116,6 @@ Introduction to iterators</h1>
 </ol>
 <p >Each traversal category of level <em>l</em> obviously implements the functionalities of all the categories <em>k &lt; l</em> and one or more extra functionalities. For each category, the main difference with the previous categories is provided in the above list, but [The Boost.Iterator Library] (<a href="http://www.boost.org/doc/libs/1_49_0/libs/iterator/doc/index.html">http://www.boost.org/doc/libs/1_49_0/libs/iterator/doc/index.html</a> "Boost iterators") gives more details.</p>
 <p >The following diagram sums up the main iterator concepts:</p>
-<div class="dotgraph">
-<iframe scrolling="no" frameborder="0" src="dot_inline_dotgraph_2.svg" width="863" height="570"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 <h1><a class="anchor" id="secIteratorRangesRanges"></a>
 Introduction to ranges</h1>
 <p >A <em>range</em> of elements stored in a data structure (container) may be implicitly described by a well-chosen pair of iterators. Any pair does not define a valid range, even with iterators having nonsingular values. An iterator <code>j</code> is reachable from an iterator <code>i</code> if and only if <code>i</code> can be made equal to <code>j</code> with finitely many applications of the increment operator. If <code>j</code> is reachable from <code>i</code>, one can iterate over the range bounded by <code>i</code> and <code>j</code>, from the one pointed to by <code>i</code> and up to, but not including, the one pointed to by <code>j</code>. Such a range is valid and is denoted by [<code>i,j</code>).</p>
@@ -141,8 +139,6 @@ Main concepts</h2>
 <p >The concept <a class="el" href="structDGtal_1_1concepts_1_1CSinglePassRange.html">CSinglePassRange</a> (resp. <a class="el" href="structDGtal_1_1concepts_1_1CBidirectionalRange.html">CBidirectionalRange</a>) is a refinement of <a class="el" href="structDGtal_1_1concepts_1_1CConstSinglePassRange.html" title="Aim: Defines the concept describing a const single pass range.">concepts::CConstSinglePassRange</a> (resp. <a class="el" href="structDGtal_1_1concepts_1_1CConstBidirectionalRange.html" title="Aim: Defines the concept describing a bidirectional const range.">concepts::CConstBidirectionalRange</a>) for not constant, mutable elements. All their models have a nested type Iterator (resp. <a class="el" href="classDGtal_1_1ReverseIterator.html" title="This class adapts any bidirectional iterator so that operator++ calls operator-- and vice versa.">ReverseIterator</a>), which are the readable and writable counterparts of ConstIterator (resp. ConstReverseIterator). <br  />
 </p>
 <p >These four concepts and their links are depicted in the following figure:</p>
-<div class="dotgraph">
-<iframe scrolling="no" frameborder="0" src="dot_inline_dotgraph_3.svg" width="564" height="324"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 <h1><a class="anchor" id="secIteratorRangesAdatpers"></a>
 Adapters to iterators</h1>
 <p >In <a class="el" href="namespaceDGtal.html" title="DGtal is the top-level namespace which contains all DGtal functions and types.">DGtal</a>, several adapters to iterators are provided.</p>
@@ -193,7 +189,7 @@ void anyProcedure(const Iterator&amp; anIterator, const Functor&amp; aFunctor)
 </div><!-- PageDoc -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Thu Nov 17 2022 17:06:51 for DGtal by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5
+Generated on Sun Nov 27 2022 15:15:59 for DGtal by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5
 </small></address>
 </body>
 </html>

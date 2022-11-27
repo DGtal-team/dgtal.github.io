@@ -269,8 +269,6 @@ Segments and on-line detection of segments.</h1>
 <p >These methods are useful in segmentation algorithms when new segment computers must be created. An independant factory is not required since a segment computer is a factory for instances of its own type. <br  />
 </p>
 <p >A segment computer is not a single concept, but actually several concepts that form a hierarchy. The five concepts that are used in segmentation algorithms are <a class="el" href="structDGtal_1_1concepts_1_1CIncrementalSegmentComputer.html" title="Aim: Defines the concept describing an incremental segment computer,   ie. a model of CSegmentFactory...">concepts::CIncrementalSegmentComputer</a>, <a class="el" href="structDGtal_1_1concepts_1_1CForwardSegmentComputer.html" title="Aim: Defines the concept describing a forward segment computer. Like any model of CIncrementalSegment...">concepts::CForwardSegmentComputer</a>, <a class="el" href="structDGtal_1_1concepts_1_1CBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a bidirectional segment computer,   ie. a model of concepts::CSeg...">concepts::CBidirectionalSegmentComputer</a>, <a class="el" href="structDGtal_1_1concepts_1_1CDynamicSegmentComputer.html" title="Aim: Defines the concept describing a dynamic segment computer,   ie. a model of CSegment that can ex...">concepts::CDynamicSegmentComputer</a> and <a class="el" href="structDGtal_1_1concepts_1_1CDynamicBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a dynamic and bidirectional segment computer, ie....">concepts::CDynamicBidirectionalSegmentComputer</a>.</p>
-<div class="dotgraph">
-<iframe scrolling="no" frameborder="0" src="dot_inline_dotgraph_6.svg" width="732" height="612"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 <p >Incremental segment computers provides a way of <em>incrementally</em> detecting a segment belonging to a known class, ie. checking if P is true.</p>
 <p >Note that the incremental constraint implies a constraint on P: for each iterator it from begin() to end(), P must be true for the range [begin(), it), so that a incremental segment computer can be initialized at a starting element and then can be extended forward to the neighbor elements while P remains true.</p>
 <p ><a class="el" href="structDGtal_1_1concepts_1_1CIncrementalSegmentComputer.html" title="Aim: Defines the concept describing an incremental segment computer,   ie. a model of CSegmentFactory...">concepts::CIncrementalSegmentComputer</a> is a refinement of <a class="el" href="structDGtal_1_1concepts_1_1CSegmentFactory.html" title="Aim: Defines the concept describing a segment ie. a valid and not empty subrange, which can construct...">concepts::CSegmentFactory</a> and should provide in addition the following methods:</p>
@@ -451,7 +449,7 @@ maximal segments</div></div>
 </div><!-- PageDoc -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Thu Nov 17 2022 17:06:52 for DGtal by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5
+Generated on Sun Nov 27 2022 15:16:00 for DGtal by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5
 </small></address>
 </body>
 </html>
