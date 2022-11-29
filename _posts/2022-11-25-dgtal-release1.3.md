@@ -14,12 +14,11 @@ We are thrilled to announce the [release  1.3 of DGtal](https://github.com/DGtal
     </tr>
     </table>
   * Faster digital convexity tests in the [convexity module](https://dgtal.org/doc/stable/moduleDigitalConvexity.html), and a brand new fully convex digital [envelope module](https://dgtal-team.github.io/doc-nightly/moduleEnvelope.html), allowing a new convexity based definition of digital polyhedra.
-
-<table border="0">
-<tr>
-<td markdown="span">![](../img/lion-tri-h0_5-sstd-all.jpg) </td><td markdown="span">  ![](../img/spot-h0_005-all.jpg) </td>
-</tr>
-</table>
+    <table border="0">
+    <tr>
+    <td markdown="span">![](../img/lion-tri-h0_5-sstd-all.jpg) </td><td markdown="span">  ![](../img/spot-h0_005-all.jpg) </td>
+    </tr>
+    </table>
 
 
 * **Volumetric analysis**: now the volumetric tools contains a new [VoronoiMapComplete](https://dgtal-team.github.io/doc-nightly/moduleVolumetric.html#vorocomplete) class that outputs the complete restriction to $\mathbb{Z}^d$ of the Voronoi diagram is a set of grid points (i.e. with all co-cyclic sites).
