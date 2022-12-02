@@ -126,7 +126,7 @@ At the moment the DGTalTools project is organized as follows (<span style="color
   - <span style="color: #00008b;">volTrValues</span>: a basic tool to transform the voxel values from an input/output set.
 
 ### DGtalTools-contrib content:
-At the moment the DFtalTools-contrib project is organized as follows (<span style="color: #8b0000;">new</span> or <span style="color: #00008b;">improved</span> in 1.0):
+At the moment the DFtalTools-contrib project is organized as follows (<span style="color: #8b0000;">new</span> or <span style="color: #00008b;">improved</span> in 1.3):
 
 * **Geometry2d/**:
   - <span style="color: #00008b;">houghLineDetect</span>: to detect line segment from Hough transform (using OpenCV).
@@ -142,18 +142,21 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
   - <span style="color: #00008b;">basicEditMesh</span>: to apply basic mesh edition (scale change, mesh face contraction, face filtering).
   - <span style="color: #00008b;">basicMorphoFilter</span>: apply basic morpho filter from a ball structural element.
   - <span style="color: #00008b;">computeMeshDistances</span>: computes for each face of a mesh A the minimal distance to another mesh B.
+  - <span style="color: #8b0000;">obj2off</span>: tool to convert a mesh represented in obj format into off format.
   - <span style="color: #00008b;">off2obj</span>: tool to convert a mesh represented in off format into obj format.
   - <span style="color: #00008b;">off2sdp</span>: a tool to convert a mesh into a set of points (.sdp).
   - <span style="color: #00008b;">volLocalMax</span>: extract the local maximas of a vol image within a spherical kernel.
+  - <span style="color: #8b0000;">vol2meshAndNormals</span>: tool to estimate normal vectors (using VCM) from digital surface defined in 3D volume. It exports the mesh and the normal vectors.
+  - <span style="color: #8b0000;">volFillCCSize</span>: tool to fill each Connected Component with a value corresponding to the number of voxels of the CC.
   - <span style="color: #00008b;">xyzScale</span>: a basic tool to adjust the scale of an xyz file.
 
 * * * *
 
 * **Visualisation/**:
-  - <span style="color: #00008b;">displayLineSegments</span>: new tool allowing to display line segment in an output image.
+  - <span style="color: #008b00;">displayLineSegments</span>: new tool allowing to display line segment in an output image.
   - <span style="color: #00008b;">displaySetOf2dPts</span>: tool to display sets of 2d points.
   - <span style="color: #00008b;">displayTgtCoverAlphaTS</span>: to display alpha-thick segment given on a simple contour.
-  - <span style="color: #00008b;">graphViewer</span>: add a new tool allowing to display graph from edges, vertex and radii.
+  - <span style="color: #008b00;">graphViewer</span>: add a new tool allowing to display graph from edges, vertex and radii.
   - <span style="color: #00008b;">meshViewerEdit</span>: tool to visualize a mesh and to apply simple edits (face removal, color edits...).
 
 ### How to get and install DGtalTools (or DGtalTools-contrib)
