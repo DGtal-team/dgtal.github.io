@@ -26,3 +26,19 @@ We are thrilled to announce the [release  1.3 of DGtal](https://github.com/DGtal
 * Many improvements in the build system.
 
 Do not forget to have a look to the [DGtal @ DGMM 2022 tutorials](https://dgtal.org/2022-11-06-dgtal-dgmm/).
+
+
+
+**Links:**
+
+  * DGtal 1.3: [http://dgtal.org/download/](http://dgtal.org/download)
+  * Complete changelogs:
+      * [https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md](https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md)
+      * [https://github.com/DGtal-team/DGtalTools/blob/master/ChangeLog.md](https://github.com/DGtal-team/DGtalTools/blob/master/ChangeLog.md)
+      * [https://github.com/DGtal-team/DGtalTools-contrib/blob/master/ChangeLog.md](https://github.com/DGtal-team/DGtalTools-contrib/blob/master/ChangeLog.md)
+
+  * DGtalTools 1.3 [http://dgtal.org/tools/](http://dgtal.org/tools/)
+  * DGtalTools-contrib 1.3: [http://dgtal.org/tools/](http://dgtal.org/tools/)
+  * DGtal Documentation: [http://dgtal.org/doc/stable](http://dgtal.org/doc/stable)
+  * DGtalTools documentation:  [http://dgtal.org/doc/tools/stable](http://dgtal.org/doc/tools/stable)
+  * DGtalTools-contrib: [https://github.com/DGtal-team/DGtalTools-contrib](https://github.com/DGtal-team/DGtalTools-contrib)

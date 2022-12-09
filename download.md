@@ -4,7 +4,7 @@ title: Download
 ---
 ### Releases
 
-* Last stable DGtal release: [DGtal 1.2][2]
+* Last stable DGtal release: [DGtal 1.3][2]
 
 ### Development version
 
@@ -27,7 +27,6 @@ title: Download
 * [libQGLViewer][7] interactive viewer of 3D objects (see "stream 3D" in the documentation), libQGLViewer would require to have OpenGL and QT4 installed on your system.
 * [CGAL][8] (to be able to consider point cloud based differential estimators).
 * [InsightToolkit][9] (ITK) to merge ITK pipelines in DGtal via the image container.
-* [GraphicsMagick ][10](to be able to load various image file formats)
 * [doxygen][11] (to generate the source code documentation)
 * C++ compiler with cpp0x instructions (gcc &gt;= 4.4, Visual C++ 2010, ...)
 
@@ -51,7 +50,6 @@ See also [ the dedicated page][12] in the DGtal documentation.
 [7]: http://www.libqglviewer.com/
 [8]: http://cgal.org/
 [9]: http://www.itk.org/
-[10]: http://www.graphicsmagick.org/
 [11]: http://www.stack.nl/~dimitri/doxygen/
 [12]: http://dgtal.org/doc/stable/moduleBuildDGtal.html
 [13]: http://zlib.net
