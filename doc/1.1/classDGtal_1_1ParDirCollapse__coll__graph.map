@@ -1,7 +1,0 @@
-<map id="DGtal::ParDirCollapse&lt; CC &gt;" name="DGtal::ParDirCollapse&lt; CC &gt;">
-<area shape="rect" id="node1" title="Aim: Implements thinning algorithms in cubical complexes. The implementation supports any model of cu..." alt="" coords="27,377,179,419"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1CubicalComplex.html" title="Aim: This class represents an arbitrary cubical complex living in some Khalimsky space...." alt="" coords="5,273,200,315"/>
-<area shape="rect" id="node3" title=" " alt="" coords="25,184,181,211"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="45,95,161,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="83,5,122,32"/>
-</map>

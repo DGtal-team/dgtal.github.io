@@ -1,9 +1,0 @@
-<map id="DGtal::functors::SimpleThresholdForegroundPredicate&lt; Image &gt;" name="DGtal::functors::SimpleThresholdForegroundPredicate&lt; Image &gt;">
-<area shape="rect" id="node1" title="Aim: Define a simple Foreground predicate thresholding image values given a single thresold...." alt="" coords="48,481,264,523"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1Image.html" title="Aim: implements association bewteen points lying in a digital domain and values." alt="" coords="44,392,268,419"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="40,303,272,329"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1CountedPtr.html" title=" " alt="" coords="5,199,144,240"/>
-<area shape="rect" id="node5" href="$structDGtal_1_1CountedPtr_1_1Counter.html" title=" " alt="" coords="5,5,144,47"/>
-<area shape="rect" id="node6" href="$classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts." alt="" coords="147,109,309,136"/>
-<area shape="rect" id="node7" href="$classDGtal_1_1CowPtr.html" title="Aim: Copy on write shared pointer." alt="" coords="169,206,309,233"/>
-</map>

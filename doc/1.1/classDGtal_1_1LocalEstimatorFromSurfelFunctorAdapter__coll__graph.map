@@ -1,7 +1,0 @@
-<map id="DGtal::LocalEstimatorFromSurfelFunctorAdapter&lt; TDigitalSurfaceContainer, TMetric, TFunctorOnSurfel, TConvolutionFunctor &gt;" name="DGtal::LocalEstimatorFromSurfelFunctorAdapter&lt; TDigitalSurfaceContainer, TMetric, TFunctorOnSurfel, TConvolutionFunctor &gt;">
-<area shape="rect" id="node1" title="Aim: this class adapts any local functor on digital surface element to define a local estimator...." alt="" coords="753,56,1024,127"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="391,5,602,47"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title="Aim: Smart or simple const pointer on T. It can be a smart pointer based on reference counts or a sim..." alt="" coords="5,71,184,112"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="385,71,608,112"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="407,136,586,177"/>
-</map>

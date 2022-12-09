@@ -1,6 +1,0 @@
-<map id="DGtal::ArithmeticalDSS&lt; TCoordinate, TInteger, adjacency &gt;" name="DGtal::ArithmeticalDSS&lt; TCoordinate, TInteger, adjacency &gt;">
-<area shape="rect" id="node1" title="Aim: This class represents a naive (resp. standard) digital straight segment (DSS),..." alt="" coords="895,73,1059,129"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1ArithmeticalDSL.html" title=" " alt="" coords="627,110,797,151"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="5,96,164,152"/>
-<area shape="rect" id="node4" href="$classDGtal_1_1ArithmeticalDSL.html" title="Aim: This class represents a naive (resp. standard) digital straight line (DSL), ie...." alt="" coords="261,172,425,228"/>
-</map>

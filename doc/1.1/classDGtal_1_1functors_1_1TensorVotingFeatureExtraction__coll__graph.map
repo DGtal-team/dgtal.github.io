@@ -1,8 +1,0 @@
-<map id="DGtal::functors::TensorVotingFeatureExtraction&lt; TSurfel, TEmbedder &gt;" name="DGtal::functors::TensorVotingFeatureExtraction&lt; TSurfel, TEmbedder &gt;">
-<area shape="rect" id="node1" title="Aim: Implements a functor to detect feature points from normal tensor voting strategy." alt="" coords="5,540,200,596"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="33,407,173,448"/>
-<area shape="rect" id="node3" title=" " alt="" coords="23,184,183,225"/>
-<area shape="rect" id="node6" href="$classDGtal_1_1SimpleMatrix.html" title="Aim: implements basic MxN Matrix services (M,N&gt;=1)." alt="" coords="214,303,389,344"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="48,95,157,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="83,5,122,32"/>
-</map>

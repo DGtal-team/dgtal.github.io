@@ -1,7 +1,0 @@
-<map id="LibBoard::Dot" name="LibBoard::Dot">
-<area shape="rect" id="node1" title="A line between two points." alt="" coords="25,411,128,437"/>
-<area shape="rect" id="node2" href="$structLibBoard_1_1Shape.html" title="Abstract structure for a 2D shape." alt="" coords="129,335,248,361"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="29,163,109,190"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="5,5,132,47"/>
-<area shape="rect" id="node5" href="$classDGtal_1_1Color.html" title="Structure representing an RGB triple with alpha component." alt="" coords="141,163,236,190"/>
-</map>

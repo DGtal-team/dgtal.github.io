@@ -1,5 +1,0 @@
-<map id="DGtal::InGeneralizedDiskOfGivenRadius&lt; TPoint, TDetComputer &gt;" name="DGtal::InGeneralizedDiskOfGivenRadius&lt; TPoint, TDetComputer &gt;">
-<area shape="rect" id="node1" title="Aim: This class implements an orientation functor that &#160;&#160;provides a way to determine the position of ..." alt="" coords="41,213,212,269"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1Simple2x2DetComputer.html" title=" " alt="" coords="25,109,228,151"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1Simple2x2DetComputer.html" title="Aim: Small class useful to compute the determinant of a 2x2 matrix from its four coefficients,..." alt="" coords="5,5,248,47"/>
-</map>

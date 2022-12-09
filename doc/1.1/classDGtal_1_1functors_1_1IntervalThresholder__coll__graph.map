@@ -1,9 +1,0 @@
-<map id="DGtal::functors::IntervalThresholder&lt; T &gt;" name="DGtal::functors::IntervalThresholder&lt; T &gt;">
-<area shape="rect" id="node1" title="Aim: A small functor with an operator () that compares one value to an interval." alt="" coords="764,71,927,112"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1functors_1_1Thresholder_3_01T_00_01false_00_01true_01_4.html" title=" " alt="" coords="452,5,639,47"/>
-<area shape="rect" id="node3" title=" " alt="" coords="89,13,127,39"/>
-<area shape="rect" id="node4" href="$structDGtal_1_1functors_1_1Thresholder_3_01T_00_01true_00_01true_01_4.html" title=" " alt="" coords="452,71,639,112"/>
-<area shape="rect" id="node5" href="$structDGtal_1_1functors_1_1PredicateCombiner.html" title=" " alt="" coords="425,136,665,177"/>
-<area shape="rect" id="node6" href="$structDGtal_1_1functors_1_1AndBoolFct2.html" title=" " alt="" coords="11,110,205,137"/>
-<area shape="rect" id="node7" href="$structDGtal_1_1functors_1_1PredicateCombiner.html" title="Aim: The predicate returns true when the given binary functor returns true for the two Predicates giv..." alt="" coords="5,161,211,217"/>
-</map>

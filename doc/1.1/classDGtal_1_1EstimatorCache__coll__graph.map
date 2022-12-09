@@ -1,7 +1,0 @@
-<map id="DGtal::EstimatorCache&lt; TEstimator, TContainer &gt;" name="DGtal::EstimatorCache&lt; TEstimator, TContainer &gt;">
-<area shape="rect" id="node1" title="Aim: this class adapts any local surface estimator to cache the estimated values in a associative con..." alt="" coords="5,347,187,388"/>
-<area shape="rect" id="node2" title=" " alt="" coords="21,213,171,284"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="35,95,157,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="45,5,83,32"/>
-<area shape="rect" id="node5" title=" " alt="" coords="109,5,147,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="DGtal::ImageContainerByITKImage&lt; TDomain, TValue &gt;" name="DGtal::ImageContainerByITKImage&lt; TDomain, TValue &gt;">
-<area shape="rect" id="node1" title="Aim: implements a model of CImageContainer using a ITK Image." alt="" coords="5,124,235,165"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="41,5,199,61"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="DGtal::SphericalAccumulator&lt; TVector &gt;" name="DGtal::SphericalAccumulator&lt; TVector &gt;">
-<area shape="rect" id="node1" title="Aim: implements an accumulator (as histograms for 1D scalars) adapted to spherical point samples." alt="" coords="116,303,307,344"/>
-<area shape="rect" id="node2" title=" " alt="" coords="221,213,378,240"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="241,109,357,136"/>
-<area shape="rect" id="node5" title=" " alt="" coords="50,213,197,240"/>
-<area shape="rect" id="node4" title=" " alt="" coords="280,5,319,32"/>
-<area shape="rect" id="node6" href="$classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes." alt="" coords="5,95,164,151"/>
-</map>
