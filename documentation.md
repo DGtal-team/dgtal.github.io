@@ -16,8 +16,8 @@ During the second [IAPR International Conference on Discrete Geometry and Mathem
 
  * [Code and exercises](https://github.com/DGtal-team/DGtal-Tutorials-DGMM2022)
  * Slides:
-   * Keynote: [part1](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial/DGtalDGMM2022-part1.key), [part2](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial/DGtalDGMM2022-part2.key)
-   * pdf export: [part1](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial/DGtalDGMM2022-part1.pdf), [part2](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial/DGtalDGMM2022-part2.pdf)
+   * Keynote: [part1](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial-at-dgmm2022/DGtalDGMM2022-part1.key), [part2](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial-at-dgmm2022/DGtalDGMM2022-part2.key)
+   * pdf export: [part1](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial-at-dgmm2022/DGtalDGMM2022-part1.pdf), [part2](https://perso.liris.cnrs.fr/david.coeurjolly/talk/dgtal-tutorial-at-dgmm2022/DGtalDGMM2022-part2.pdf)
 
 
 ### Slides of [ACPR](https://www.acpr2019.org/program.html) Tutorial on Digital Geometry in Pattern Recognition  (26/11/2019)
