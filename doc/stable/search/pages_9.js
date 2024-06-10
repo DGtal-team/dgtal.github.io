@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['fast_20marching_20method_0',['Tutorial: Local morphological opening of a 3d volume by the Fast Marching Method',['../tutoFMMErosion.html',1,'packageTutorials']]],
+  ['fast_20marching_20methods_1',['nD Fast Marching Methods',['../moduleFMM.html',1,'packageGeometry']]],
+  ['file_20grid_20curve_20ranges_2',['Tutorial &quot;File -&gt; Grid Curve -&gt; Ranges&quot;',['../tutoFileGridCurveRanges.html',1,'packageTutorials']]],
+  ['for_20convex_20hull_20and_20delaunay_20cell_20complex_20computation_3',['QuickHull algorithm in arbitrary dimension for convex hull and Delaunay cell complex computation',['../moduleQuickHull.html',1,'packageGeometry']]],
+  ['for_20digital_20surfaces_4',['Helpers for digital surfaces',['../moduleDigitalSurfaceHelpers.html',1,'packageTopology']]],
+  ['for_20displaying_202d_20digital_20objects_5',['Board2D: a stream mechanism for displaying 2D digital objects',['../moduleBoard2D.html',1,'packageIO']]],
+  ['for_20displaying_203d_20dgtal_20objects_6',['Display3D: a stream mechanism for displaying 3D DGtal objects',['../moduleDisplay3D.html',1,'packageIO']]],
+  ['for_20representing_20manifold_20or_20non_20manifold_20polygonal_20surfaces_20in_20r3_7',['Surface mesh data structure for representing manifold or non-manifold polygonal surfaces in R3',['../moduleSurfaceMesh.html',1,'packageShapes']]],
+  ['for_20the_20impatient_20developper_8',['Shortcuts (for the impatient developper)',['../moduleShortcuts.html',1,'index']]],
+  ['fréchet_20shortcuts_9',['Fréchet Shortcuts',['../moduleFrechetShortcut.html',1,'packageGeometry']]],
+  ['fraction_20continued_20fractions_10',['Irreducible fraction, continued fractions',['../moduleIrreducibleFraction.html',1,'packageArithmetic']]],
+  ['fractions_11',['Irreducible fraction, continued fractions',['../moduleIrreducibleFraction.html',1,'packageArithmetic']]],
+  ['from_20a_20digital_20object_12',['Tutorial: making a polyhedron from a digital object',['../tutoPolyhedralisation.html',1,'packageTutorials']]],
+  ['from_20an_20oriented_20point_20cloud_13',['Voxelization from an oriented point cloud',['../moduleWinding.html',1,'packageShapes']]],
+  ['from_20image_14',['Tutorial &quot;Image -&gt; Region -&gt; Grid curve -&gt;  Extracting level set boundary from Image&quot;',['../tutoImageGridCurveExtraction.html',1,'packageTutorials']]],
+  ['from_20surfel_20functors_15',['Local digital surface estimators from surfel functors',['../LocalEstimatorsFromSurfel.html',1,'packageGeometry']]],
+  ['full_20digital_20convexity_16',['full digital convexity',['../moduleDigitalConvexityApplications.html',1,'Applications of full digital convexity'],['../moduleDigitalConvexity.html',1,'Digital convexity and full digital convexity']]],
+  ['fully_20convex_20envelope_20and_20digital_20polyhedra_17',['Fully convex envelope, relative fully convex envelope and digital polyhedra',['../moduleEnvelope.html',1,'packageGeometry']]],
+  ['fully_20convex_20envelope_20relative_20fully_20convex_20envelope_20and_20digital_20polyhedra_18',['Fully convex envelope, relative fully convex envelope and digital polyhedra',['../moduleEnvelope.html',1,'packageGeometry']]],
+  ['functional_19',['Piecewise-smooth approximation using a discrete calculus model of Ambrosio-Tortorelli functional',['../moduleGenericAT.html',1,'packageDEC']]],
+  ['functions_20functors_20and_20lambdas_20in_20dgtal_20',['Using functions, functors and lambdas in DGtal',['../moduleFunctors.html',1,'packageBase']]],
+  ['functors_21',['Local digital surface estimators from surfel functors',['../LocalEstimatorsFromSurfel.html',1,'packageGeometry']]],
+  ['functors_20and_20lambdas_20in_20dgtal_22',['Using functions, functors and lambdas in DGtal',['../moduleFunctors.html',1,'packageBase']]]
+];

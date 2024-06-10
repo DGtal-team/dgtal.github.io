@@ -1,0 +1,29 @@
+<map id="DGtal::CowPtr&lt; T &gt;" name="DGtal::CowPtr&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Copy on write shared pointer." alt="" coords="5,348,145,373"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="359,22,554,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,332,76,274,89,200,101,162,117,125,139,91,167,62,190,46,216,34,271,20,327,16,378,19,378,24,327,21,272,25,218,39,193,51,170,66,143,94,122,127,106,164,94,202,81,275,78,332"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="376,73,537,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,332,83,285,98,228,125,171,144,145,167,123,203,108,256,99,375,91,375,96,256,104,205,113,170,128,148,149,130,174,103,230,88,286,81,332"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="368,138,545,164"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="80,332,91,297,109,257,134,218,167,186,215,162,267,147,319,141,368,140,368,145,320,146,268,152,217,167,170,191,138,222,113,260,96,299,85,333"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="341,188,572,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="89,333,121,290,143,269,167,251,209,232,253,218,340,202,341,207,254,223,211,237,170,256,146,273,125,294,94,336"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="381,237,532,278"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="107,336,136,320,168,306,222,289,278,277,380,261,381,267,279,282,223,294,170,311,138,325,110,341"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="346,302,567,328"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="160,343,168,342,345,322,346,327,169,347,161,348"/>
+<area shape="rect" id="Node000008" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="362,352,551,377"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="160,359,362,361,362,366,160,364"/>
+<area shape="rect" id="Node000009" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="372,401,541,442"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="117,377,169,396,274,413,371,419,371,424,273,418,168,401,116,382"/>
+<area shape="rect" id="Node000010" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="359,467,554,507"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="96,384,127,421,148,438,170,452,216,470,265,481,313,487,359,489,359,494,313,492,264,486,214,475,167,457,144,442,124,425,92,388"/>
+<area shape="rect" id="Node000011" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="363,532,550,557"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="87,387,99,417,117,450,140,482,170,508,216,530,265,543,316,549,363,550,363,556,315,555,264,548,214,535,167,512,137,486,113,453,95,419,83,389"/>
+<area shape="rect" id="Node000012" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="367,581,546,622"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="82,388,91,430,106,481,132,530,150,552,170,570,216,595,266,608,317,613,366,612,366,617,317,618,265,613,214,600,167,575,146,556,128,533,102,483,85,432,77,389"/>
+<area shape="rect" id="Node000013" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="383,646,530,672"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="79,388,83,443,96,511,108,545,124,579,144,609,170,635,195,650,222,662,281,674,339,675,392,670,392,675,340,681,280,679,221,667,193,655,167,639,140,613,119,582,103,547,91,512,78,443,74,389"/>
+<area shape="rect" id="Node000014" href="$classDGtal_1_1CowPtr.html" title=" " alt="" coords="376,696,537,721"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="82,388,93,463,112,557,138,644,153,676,170,697,198,714,228,726,260,732,292,734,356,730,410,719,411,724,357,735,292,740,259,737,226,731,195,719,167,701,149,679,133,646,107,558,88,463,77,389"/>
+</map>

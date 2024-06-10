@@ -1,0 +1,5 @@
+<map id="DGtal::SignedKhalimskyPreCell&lt; dim, TInteger &gt;" name="DGtal::SignedKhalimskyPreCell&lt; dim, TInteger &gt;">
+<area shape="rect" id="Node000001" title="Represents a signed cell in an unbounded cellular grid space by its Khalimsky coordinates and a boole..." alt="" coords="5,5,190,46"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1SignedKhalimskyPreCell.html" title=" " alt="" coords="5,109,190,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,62,100,109,95,109,95,62"/>
+</map>

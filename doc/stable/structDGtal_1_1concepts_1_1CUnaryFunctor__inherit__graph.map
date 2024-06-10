@@ -1,0 +1,70 @@
+<map id="DGtal::concepts::CUnaryFunctor&lt; X, A, R &gt;" name="DGtal::concepts::CUnaryFunctor&lt; X, A, R &gt;">
+<area shape="rect" id="Node000001" title="Aim: Defines a unary functor, which associates arguments to results." alt="" coords="454,244,667,285"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="882,5,1096,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="574,229,592,192,617,151,650,110,690,77,735,54,785,38,834,28,881,23,882,28,835,33,786,43,737,58,693,81,654,114,622,154,597,195,578,231"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="882,71,1096,111"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="585,230,630,183,659,160,690,141,737,121,786,107,881,92,882,97,787,113,739,126,693,145,662,164,634,187,589,234"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="882,136,1096,177"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="604,233,645,210,690,191,738,178,788,168,881,157,882,163,788,174,739,183,692,196,647,215,606,238"/>
+<area shape="rect" id="Node000017" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="1120,240,1333,281"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="683,261,1119,258,1119,264,683,266"/>
+<area shape="rect" id="Node000021" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="882,301,1096,342"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="627,288,692,306,789,318,882,322,882,327,788,323,691,311,626,293"/>
+<area shape="rect" id="Node000027" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="882,489,1096,530"/>
+<area shape="poly" id="edge28_Node000001_Node000027" title=" " alt="" coords="573,299,589,344,613,397,647,448,669,470,693,488,737,508,785,520,835,524,882,523,882,529,834,530,785,525,735,513,690,492,665,473,643,451,608,399,584,346,568,301"/>
+<area shape="rect" id="Node000030" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="1120,431,1333,471"/>
+<area shape="poly" id="edge31_Node000001_Node000030" title=" " alt="" coords="585,296,630,351,659,377,693,398,745,420,801,437,858,449,915,456,1024,462,1119,459,1119,465,1024,468,914,462,857,454,799,442,743,425,690,403,656,382,626,354,581,299"/>
+<area shape="rect" id="Node000031" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="1120,188,1333,229"/>
+<area shape="poly" id="edge33_Node000001_Node000031" title=" " alt="" coords="683,241,691,240,920,220,1119,209,1120,215,921,226,692,246,683,247"/>
+<area shape="rect" id="Node000032" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="1120,376,1333,417"/>
+<area shape="poly" id="edge35_Node000001_Node000032" title=" " alt="" coords="602,292,644,319,692,341,804,370,918,387,1026,395,1119,397,1119,402,1026,400,917,392,802,375,690,346,641,323,599,296"/>
+<area shape="rect" id="Node000002" href="$structboost_1_1Assignable.html" title=" " alt="" coords="248,252,406,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="422,262,454,262,454,267,422,267"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="5,252,163,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,262,247,262,247,267,178,267"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1concepts_1_1CCellEmbedder.html" title="Aim: A cell embedder is a mapping from unsigned cells to Euclidean points. It adds inner types to fun..." alt="" coords="1362,13,1610,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1111,23,1361,23,1361,28,1111,28"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1concepts_1_1CPointEmbedder.html" title="Aim: A point embedder is a mapping from digital points to Euclidean points. It adds inner types to fu..." alt="" coords="1358,78,1613,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1111,88,1358,88,1358,94,1111,94"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1concepts_1_1CPointFunctor.html" title="Aim: Defines a functor on points." alt="" coords="1366,137,1606,163"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1111,152,1365,149,1365,154,1111,157"/>
+<area shape="rect" id="Node000010" href="$structDGtal_1_1concepts_1_1COrientationFunctor.html" title="Aim: This concept gathers models implementing an orientation test of &#160;points in a space of dimension ..." alt="" coords="1776,84,1973,125"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1617,132,1775,113,1776,118,1617,137"/>
+<area shape="rect" id="Node000012" href="$structDGtal_1_1concepts_1_1CPointFunctor.html" title=" " alt="" coords="1756,165,1993,191"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="1622,157,1756,167,1756,172,1621,162"/>
+<area shape="rect" id="Node000011" href="$structDGtal_1_1concepts_1_1COrientationFunctor2.html" title="Aim: This concept is a refinement of COrientationFunctor, useful for simple algebraic curves that can..." alt="" coords="2068,84,2265,125"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1989,102,2067,102,2067,107,1989,107"/>
+<area shape="rect" id="Node000013" href="$structDGtal_1_1concepts_1_1CTrivialConstImage.html" title="Aim: Defines the concept describing a read&#45;only image, which is a refinement of CPointFunctor." alt="" coords="2082,157,2251,198"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="2008,175,2081,175,2081,180,2008,180"/>
+<area shape="rect" id="Node000014" href="$structDGtal_1_1concepts_1_1CConstImage.html" title="Aim: Defines the concept describing a read&#45;only image, which is a refinement of CPointFunctor." alt="" coords="2340,193,2573,219"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="2267,185,2340,192,2339,197,2267,190"/>
+<area shape="rect" id="Node000016" href="$structDGtal_1_1concepts_1_1CTrivialImage.html" title="Aim: Defines the concept describing an image without extra ranges, which is a refinement of CTrivialC..." alt="" coords="2372,128,2541,169"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="2266,165,2371,154,2372,160,2267,170"/>
+<area shape="rect" id="Node000015" href="$structDGtal_1_1concepts_1_1CImage.html" title="Aim: Defines the concept describing a read/write image, having an output iterator." alt="" coords="2621,165,2820,191"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="2589,189,2620,186,2621,191,2589,194"/>
+<area shape="poly" id="edge16_Node000016_Node000015" title=" " alt="" coords="2557,157,2621,164,2621,169,2556,162"/>
+<area shape="rect" id="Node000018" href="$structDGtal_1_1concepts_1_1CPredicate.html" title=" " alt="" coords="1780,245,1969,286"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1349,259,1779,262,1779,268,1349,264"/>
+<area shape="rect" id="Node000019" href="$structDGtal_1_1concepts_1_1CPointPredicate.html" title="Aim: Defines a predicate on a point." alt="" coords="2041,253,2292,279"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1985,263,2040,263,2040,268,1985,268"/>
+<area shape="rect" id="Node000020" href="$structDGtal_1_1concepts_1_1CDigitalSet.html" title="Aim: Represents a set of points within the given domain. This set of points is modifiable by the user..." alt="" coords="2371,245,2542,286"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="2307,263,2371,263,2371,268,2307,268"/>
+<area shape="rect" id="Node000022" href="$structDGtal_1_1concepts_1_1CPredicate.html" title="Aim: Defines a predicate function, ie. a functor mapping a domain into the set of booleans." alt="" coords="1391,301,1580,342"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="1111,319,1391,319,1391,324,1111,324"/>
+<area shape="poly" id="edge23_Node000022_Node000018" title=" " alt="" coords="1596,303,1779,277,1780,282,1597,308"/>
+<area shape="rect" id="Node000023" href="$structDGtal_1_1concepts_1_1CPredicate.html" title=" " alt="" coords="1780,417,1969,458"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="1572,344,1804,414,1803,419,1570,349"/>
+<area shape="rect" id="Node000025" href="$structDGtal_1_1concepts_1_1CPredicate.html" title=" " alt="" coords="1780,336,1969,377"/>
+<area shape="poly" id="edge26_Node000022_Node000025" title=" " alt="" coords="1596,329,1780,345,1779,351,1596,334"/>
+<area shape="rect" id="Node000024" href="$structDGtal_1_1concepts_1_1CSurfelPredicate.html" title="Aim: Defines a predicate on a surfel." alt="" coords="2082,417,2251,458"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="1985,435,2082,435,2082,440,1985,440"/>
+<area shape="rect" id="Node000026" href="$structDGtal_1_1concepts_1_1CVertexPredicate.html" title="Aim: Defines a predicate on a vertex." alt="" coords="2080,336,2253,377"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="1985,354,2080,354,2080,359,1985,359"/>
+<area shape="rect" id="Node000028" href="$structDGtal_1_1concepts_1_1CSCellEmbedder.html" title="Aim: A cell embedder is a mapping from signed cells to Euclidean points. It adds inner types to funct..." alt="" coords="1357,500,1614,525"/>
+<area shape="poly" id="edge29_Node000027_Node000028" title=" " alt="" coords="1111,508,1357,509,1357,514,1111,513"/>
+<area shape="rect" id="Node000029" href="$structDGtal_1_1concepts_1_1CDigitalSurfaceEmbedder.html" title="Aim: A digital surface embedder is a specialized mapping from signed cells to Euclidean points...." alt="" coords="1789,492,1960,533"/>
+<area shape="poly" id="edge30_Node000028_Node000029" title=" " alt="" coords="1630,510,1788,510,1788,515,1630,515"/>
+<area shape="poly" id="edge32_Node000030_Node000023" title=" " alt="" coords="1349,446,1779,437,1779,442,1349,451"/>
+<area shape="poly" id="edge34_Node000031_Node000012" title=" " alt="" coords="1348,200,1756,181,1756,186,1349,205"/>
+<area shape="poly" id="edge36_Node000032_Node000025" title=" " alt="" coords="1348,401,1530,403,1632,399,1732,390,1805,375,1806,380,1733,395,1632,404,1530,409,1348,406"/>
+</map>

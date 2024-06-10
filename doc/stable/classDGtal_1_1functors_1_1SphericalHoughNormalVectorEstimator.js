@@ -1,0 +1,25 @@
+var classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator =
+[
+    [ "Matrix", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a3689fde62c18f54184ccab751c8cd1c5", null ],
+    [ "Quantity", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a382ec8b47b1c0504768a7339142d3c3e", null ],
+    [ "RealPoint", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a6ff32a2717b6f5496356c5bd26cc528d", null ],
+    [ "SCellEmbedder", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#aa9ea45ef94bbcc12ba0c393a9e147298", null ],
+    [ "Surfel", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a89db158813d0801b49eb1b01b3c2ebd8", null ],
+    [ "SphericalHoughNormalVectorEstimator", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#ac8b1c8d966aa47da6fe3ac3112c82a93", null ],
+    [ "SphericalHoughNormalVectorEstimator", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#ac76a76ad6952ec71da49b9af7ebd4b4b", null ],
+    [ "eval", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#af36e29a55c5bcb656984dc2377df2f35", null ],
+    [ "getNormal", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a8f0e1cbb9ab60d40fec6c02938ede564", null ],
+    [ "pushSurfel", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a27e279f2f2840828e268da5a3da4d6fb", null ],
+    [ "randomRotation", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a5072a5f391670df6468fb02df26ee050", null ],
+    [ "reset", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a9208b5281a2258585a701a2f702ada22", null ],
+    [ "myAccumulators", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a3581510fb7336461bad37f7be2dd2662", null ],
+    [ "myAspectRatio", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#ac9b97172c59094bee70f721c64ae0b58", null ],
+    [ "myEmbedder", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a89de143a76cf7d87aff60554e3e67c35", null ],
+    [ "myH", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a0cfab893fbc028773c7a448db631910c", null ],
+    [ "myInverseRotations", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a5e3154556a9d8257de713bb0cca64fe8", null ],
+    [ "myNbAccumulators", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#ab5a4ff43ed3677e9f1c21e3b52911912", null ],
+    [ "myNbTrials", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#abe12d33b99085eb63ab85a45337a4bde", null ],
+    [ "myPoints", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a268618969aed1fe1a296211292e25610", null ],
+    [ "myRotations", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a9918a81df48bcc8e5d758871bbecadd2", null ],
+    [ "mySize", "classDGtal_1_1functors_1_1SphericalHoughNormalVectorEstimator.html#a522d64f744bf5835952db59de5f82eb6", null ]
+];

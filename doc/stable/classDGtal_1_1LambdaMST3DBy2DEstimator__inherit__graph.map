@@ -1,0 +1,7 @@
+<map id="DGtal::LambdaMST3DBy2DEstimator&lt; Iterator3D, Functor, LambdaFunctor, CONNECTIVITY &gt;" name="DGtal::LambdaMST3DBy2DEstimator&lt; Iterator3D, Functor, LambdaFunctor, CONNECTIVITY &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,249,78"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1LambdaMST3DBy2DEstimator.html" title=" " alt="" coords="473,23,773,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,48,472,48,472,53,264,53"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1LambdaMST3DBy2D.html" title="Aim: Simplify creation of Lambda MST tangent estimator." alt="" coords="821,23,1013,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="789,48,820,48,820,53,789,53"/>
+</map>

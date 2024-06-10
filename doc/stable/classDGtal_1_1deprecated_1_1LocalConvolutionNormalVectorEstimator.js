@@ -1,0 +1,27 @@
+var classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator =
+[
+    [ "ConstIterator", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#ae797c2c9160ec0cffd759afa31660c40", null ],
+    [ "DigitalSurface", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#ad5867b15b6f2c67dccf007a6d51e8633", null ],
+    [ "KernelFunctor", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#abca7ccebd0ce01f2c17818830c5e070e", null ],
+    [ "Quantity", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a9ee22911c36de9e140365056e350ca1e", null ],
+    [ "SCell", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a6b36188e47a1106c2f4cb6da0e08ded8", null ],
+    [ "Surface", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#ab1f9947bc73fbf276535c96457361d92", null ],
+    [ "LocalConvolutionNormalVectorEstimator", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a3f7512605fb5e9d83c75c5f787c158f8", null ],
+    [ "~LocalConvolutionNormalVectorEstimator", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a1104d6cc5f26cc59d6763a385fa7f614", null ],
+    [ "LocalConvolutionNormalVectorEstimator", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a3a191a7385e864a2fafbb4c7b0ad067b", null ],
+    [ "LocalConvolutionNormalVectorEstimator", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a240741eea263d811fdb95a6eb4e07edf", null ],
+    [ "BOOST_CONCEPT_ASSERT", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a73f55791c62481096e0b4de3672065c7", null ],
+    [ "eval", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#abcb893e93598a57243bf2e7da7ab51d4", null ],
+    [ "eval", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a5567401f107e8ba09e24caacef28c22b", null ],
+    [ "eval", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a9c3a8736c028cfff788654d80aefcfe8", null ],
+    [ "evalAll", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#aa2c61ca25eeb93da5a1a46290e545240", null ],
+    [ "init", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a44238e6286565e9af78f12db1b10ebde", null ],
+    [ "isValid", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a8c08f03c786a829a13e2e8e817626dab", null ],
+    [ "operator=", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#ab9bcf873b2d3b496e318b15f528a5828", null ],
+    [ "surface", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a4ca49816b8ffa536e0b8b1edc06d7233", null ],
+    [ "myFlagIsInit", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a078a0045d9bf7650449d863d0294db08", null ],
+    [ "myH", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#aa4bb613e25792a2ae3f61b4a8a5cd59d", null ],
+    [ "myKernelFunctor", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a3524619c2411b662313bc531bce32b11", null ],
+    [ "myRadius", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#ac44a66ca4544ec7b64beefc9eb2070cf", null ],
+    [ "mySurface", "classDGtal_1_1deprecated_1_1LocalConvolutionNormalVectorEstimator.html#a1ffb567e6ef31bd57876abdd53a2b49e", null ]
+];

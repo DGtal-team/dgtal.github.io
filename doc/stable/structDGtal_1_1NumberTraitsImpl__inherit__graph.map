@@ -1,0 +1,17 @@
+<map id="DGtal::NumberTraitsImpl&lt; T, Enable &gt;" name="DGtal::NumberTraitsImpl&lt; T, Enable &gt;">
+<area shape="rect" id="Node000001" title="Aim: The traits class for all models of Cinteger (implementation)" alt="" coords="5,74,173,115"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1NumberTraitsImpl.html" title=" " alt="" coords="358,74,529,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,92,357,92,357,97,189,97"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1NumberTraitsImpl.html" title=" " alt="" coords="553,5,720,61"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="165,67,196,60,291,46,387,37,552,31,553,36,388,43,292,51,197,65,166,72"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1NumberTraitsImpl.html" title=" " alt="" coords="553,129,720,185"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="159,117,197,127,292,142,387,150,553,156,552,161,387,156,291,147,196,132,158,123"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1NumberTraits.html" title="Aim: The traits class for all models of Cinteger." alt="" coords="744,82,919,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="545,92,744,92,744,97,545,97"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="1043,32,1185,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="934,77,1018,64,1042,61,1043,66,1019,69,934,82"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="1043,109,1185,150"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="928,108,943,110,1042,120,1042,126,942,115,928,113"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="736,34,1042,46,1042,52,735,40"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="735,149,1042,131,1043,136,736,154"/>
+</map>

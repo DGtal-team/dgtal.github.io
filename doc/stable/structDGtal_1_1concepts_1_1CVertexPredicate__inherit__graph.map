@@ -1,0 +1,21 @@
+<map id="DGtal::concepts::CVertexPredicate&lt; T &gt;" name="DGtal::concepts::CVertexPredicate&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Defines a predicate on a vertex." alt="" coords="1677,41,1849,81"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1concepts_1_1CPredicate.html" title=" " alt="" coords="1439,41,1629,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1644,58,1676,58,1676,64,1644,64"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="845,7,1059,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1074,32,1439,53,1439,58,1074,37"/>
+<area shape="rect" id="Node000004" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="482,5,639,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="655,18,845,22,845,28,655,23"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="845,75,1059,116"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="655,28,822,58,878,72,877,77,821,63,654,34"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title="Aim: Defines a unary functor, which associates arguments to results." alt="" coords="454,71,667,112"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="682,92,752,87,820,73,844,61,884,46,886,51,846,66,822,78,752,92,683,97"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="656,113,692,119,756,123,821,119,856,114,856,119,822,124,756,128,691,124,655,118"/>
+<area shape="rect" id="Node000006" href="$structboost_1_1Assignable.html" title=" " alt="" coords="248,79,406,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="422,89,454,89,454,94,422,94"/>
+<area shape="rect" id="Node000007" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="5,79,163,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="178,89,247,89,247,94,178,94"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1concepts_1_1CPredicate.html" title="Aim: Defines a predicate function, ie. a functor mapping a domain into the set of booleans." alt="" coords="1108,75,1297,116"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1312,81,1439,68,1439,73,1313,87"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1074,93,1108,93,1108,98,1074,98"/>
+</map>

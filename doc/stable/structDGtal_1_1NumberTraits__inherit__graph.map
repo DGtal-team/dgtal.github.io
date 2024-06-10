@@ -1,0 +1,11 @@
+<map id="DGtal::NumberTraits&lt; T &gt;" name="DGtal::NumberTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: The traits class for all models of Cinteger." alt="" coords="72,213,246,238"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="5,301,148,342"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,252,96,303,92,299,137,248"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="172,301,314,342"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="189,246,204,261,233,300,229,303,200,264,185,250"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1NumberTraitsImpl.html" title=" " alt="" coords="74,124,245,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,180,162,212,157,212,157,180"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1NumberTraitsImpl.html" title="Aim: The traits class for all models of Cinteger (implementation)" alt="" coords="76,5,243,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,61,162,123,157,123,157,61"/>
+</map>

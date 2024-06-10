@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structDGtal_1_1concepts_1_1CImplicitFunction.html" title="Aim: Describes any function of the form f(x), where x is some real point in the given space,..." alt="" coords="5,5,182,46"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1concepts_1_1CImplicitFunctionDiff1.html" title="Aim: Describes a 1&#45;differentiable function of the form f(x), where x is some real point in the given ..." alt="" coords="230,5,406,46"/>
+<area shape="poly" id="edge188_Node000000_Node000001" title=" " alt="" coords="197,23,229,23,229,28,197,28"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,528,153,554"/>
+<area shape="rect" id="Node000001" href="$classDGtal_1_1ArithmeticalDSL_1_1ConstIterator.html" title="Aim: This class aims at representing an iterator that provides a way to scan the points of a DSL...." alt="" coords="223,5,404,61"/>
+<area shape="poly" id="edge156_Node000000_Node000001" title=" " alt="" coords="82,512,97,414,122,283,156,156,176,106,199,71,221,54,225,58,203,75,181,109,161,158,127,284,102,415,87,513"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1CubicalComplex_1_1ConstIterator.html" title=" " alt="" coords="222,85,405,141"/>
+<area shape="poly" id="edge157_Node000000_Node000002" title=" " alt="" coords="78,512,84,441,102,345,117,293,138,242,165,194,199,151,220,135,223,139,203,155,169,197,143,244,122,295,107,346,89,442,84,513"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1CubicalComplex_1_1Iterator.html" title=" " alt="" coords="222,165,405,221"/>
+<area shape="poly" id="edge158_Node000000_Node000003" title=" " alt="" coords="81,513,91,455,112,380,128,340,147,301,170,264,199,231,220,216,223,220,202,235,175,267,151,303,132,342,117,381,96,456,86,514"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1HyperRectDomain__Iterator.html" title="Iterator for HyperRectDomain." alt="" coords="228,245,399,286"/>
+<area shape="poly" id="edge159_Node000000_Node000004" title=" " alt="" coords="84,512,97,465,120,407,153,348,175,320,199,296,226,280,229,285,202,301,179,324,158,351,125,410,103,467,89,514"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1HyperRectDomain__ReverseIterator.html" title="Reverse iterator for HyperRectDomain." alt="" coords="218,310,409,351"/>
+<area shape="poly" id="edge160_Node000000_Node000005" title=" " alt="" coords="89,513,106,478,130,438,161,397,199,362,221,349,223,354,202,366,165,400,135,441,111,481,94,515"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1HyperRectDomain__subIterator.html" title=" " alt="" coords="228,376,399,416"/>
+<area shape="poly" id="edge161_Node000000_Node000006" title=" " alt="" coords="99,514,142,470,170,447,199,427,226,414,229,419,202,431,173,451,146,474,103,518"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1IntegerSequenceIterator.html" title="Aim: It is a simple class that mimics a (non mutable) iterator over integers. You can increment it,..." alt="" coords="212,441,415,482"/>
+<area shape="poly" id="edge162_Node000000_Node000007" title=" " alt="" coords="124,520,200,491,235,479,236,485,202,496,126,525"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1UnorderedSetByBlock_1_1const__iterator.html" title="Read iterator on set elements. Model of ForwardIterator." alt="" coords="201,506,426,577"/>
+<area shape="poly" id="edge163_Node000000_Node000008" title=" " alt="" coords="168,539,200,539,200,544,168,544"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1UnorderedSetByBlock_1_1iterator.html" title="Read&#45;write iterator on set elements. Model of ForwardIterator." alt="" coords="201,601,426,671"/>
+<area shape="poly" id="edge164_Node000000_Node000009" title=" " alt="" coords="128,558,225,597,223,602,126,563"/>
+<area shape="rect" id="Node000010" href="$classboost_1_1graph__traits_3_01DGtal_1_1DigitalSurface_3_01TDigitalSurfaceContainer_01_4_01_4_1_1adjacency__iterator.html" title=" " alt="" coords="224,695,403,766"/>
+<area shape="poly" id="edge165_Node000000_Node000010" title=" " alt="" coords="99,566,142,623,171,653,202,680,224,694,222,699,199,685,167,657,138,626,95,569"/>
+<area shape="rect" id="Node000011" href="$classboost_1_1graph__traits_3_01DGtal_1_1DigitalSurface_3_01TDigitalSurfaceContainer_01_4_01_4_1_1edge__iterator.html" title=" " alt="" coords="224,790,403,861"/>
+<area shape="poly" id="edge166_Node000000_Node000011" title=" " alt="" coords="90,568,105,612,128,667,160,725,202,775,225,792,222,796,199,779,156,728,123,670,100,614,85,569"/>
+<area shape="rect" id="Node000012" href="$classboost_1_1graph__traits_3_01DGtal_1_1DigitalSurface_3_01TDigitalSurfaceContainer_01_4_01_4_1_1out__edge__iterator.html" title=" " alt="" coords="224,885,403,955"/>
+<area shape="poly" id="edge167_Node000000_Node000012" title=" " alt="" coords="86,569,96,630,116,710,131,753,150,795,174,834,203,870,225,888,221,892,199,874,170,838,146,797,126,755,111,712,90,631,81,570"/>
+<area shape="rect" id="Node000013" href="$classboost_1_1graph__traits_3_01DGtal_1_1Object_3_01TDigitalTopology_00_01TDigitalSet_01_4_01_4_1_1adjacency__iterator.html" title=" " alt="" coords="201,979,426,1050"/>
+<area shape="poly" id="edge168_Node000000_Node000013" title=" " alt="" coords="83,569,88,646,105,751,120,807,140,864,168,917,203,965,215,977,212,981,199,968,163,920,136,866,115,809,99,752,83,646,78,570"/>
+<area shape="rect" id="Node000014" href="$classboost_1_1graph__traits_3_01DGtal_1_1Object_3_01TDigitalTopology_00_01TDigitalSet_01_4_01_4_1_1edge__iterator.html" title=" " alt="" coords="201,1073,426,1129"/>
+<area shape="poly" id="edge169_Node000000_Node000014" title=" " alt="" coords="86,569,100,677,124,824,140,898,158,966,179,1021,203,1059,215,1071,212,1075,199,1063,175,1024,153,967,135,899,119,825,94,678,81,570"/>
+<area shape="rect" id="Node000015" href="$classboost_1_1graph__traits_3_01DGtal_1_1Object_3_01TDigitalTopology_00_01TDigitalSet_01_4_01_4_1_1out__edge__iterator.html" title=" " alt="" coords="201,1153,426,1209"/>
+<area shape="poly" id="edge170_Node000000_Node000015" title=" " alt="" coords="85,569,96,691,119,862,135,949,154,1029,176,1095,203,1139,215,1151,212,1155,199,1143,172,1097,149,1030,129,950,113,862,91,691,80,569"/>
+</map>
