@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classDGtal_1_1PlaneProbingNeighborhood.html" title="Aim: A base virtual class that represents a way to probe a neighborhood, used in the plane probing ba..." alt="" coords="5,39,226,79"/>
+<area shape="rect" id="Node000001" href="$classDGtal_1_1PlaneProbingHNeighborhood.html" title="Aim: Represent a way to probe the H&#45;neighborhood." alt="" coords="274,5,504,46"/>
+<area shape="poly" id="edge305_Node000000_Node000001" title=" " alt="" coords="241,41,273,37,274,42,242,46"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1PlaneProbingRNeighborhood.html" title="Aim: Represent a way to probe the R&#45;neighborhood." alt="" coords="274,71,504,111"/>
+<area shape="poly" id="edge306_Node000000_Node000002" title=" " alt="" coords="242,71,274,75,273,80,241,76"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1PlaneProbingR1Neighborhood.html" title="Aim: Represent a way to probe the R&#45;neighborhood, with the R1 optimization, see RLDGCI2019 for detail..." alt="" coords="552,71,789,111"/>
+<area shape="poly" id="edge307_Node000002_Node000003" title=" " alt="" coords="520,88,552,88,552,94,520,94"/>
+</map>

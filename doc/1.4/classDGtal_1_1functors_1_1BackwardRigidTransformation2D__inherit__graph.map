@@ -1,0 +1,5 @@
+<map id="DGtal::functors::BackwardRigidTransformation2D&lt; TSpace, TInputValue, TOutputValue, TFunctor &gt;" name="DGtal::functors::BackwardRigidTransformation2D&lt; TSpace, TInputValue, TOutputValue, TFunctor &gt;">
+<area shape="rect" id="Node000001" title="Aim: implements backward rigid transformation of point in the 2D integer space. Warring: This version..." alt="" coords="5,5,244,76"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1functors_1_1BackwardRigidTransformation2D.html" title=" " alt="" coords="36,139,213,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,91,127,139,122,139,122,91"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structDGtal_1_1DrawableWithBoard2D.html" title=" " alt="" coords="5,80,202,106"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1CustomColors.html" title="Custom style class redefining the pen color and the fill color. You may use Board2D::Color::None for ..." alt="" coords="258,5,405,31"/>
+<area shape="poly" id="edge260_Node000000_Node000001" title=" " alt="" coords="155,72,249,40,283,29,284,34,250,45,157,77"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1CustomFillColor.html" title="Custom style class redefining the fill color. You may use Board2D::Color::None for transparent color." alt="" coords="253,55,410,80"/>
+<area shape="poly" id="edge261_Node000000_Node000002" title=" " alt="" coords="217,78,252,74,252,79,217,83"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1CustomPen.html" title="Custom style class redefining the pen attributes. You may use Board2D::Color::None for transparent co..." alt="" coords="265,104,398,130"/>
+<area shape="poly" id="edge262_Node000000_Node000003" title=" " alt="" coords="218,102,265,107,265,113,217,107"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1CustomPenColor.html" title="Custom style class redefining the pen color. You may use Board2D::Color::None for transparent color." alt="" coords="250,153,413,179"/>
+<area shape="poly" id="edge263_Node000000_Node000004" title=" " alt="" coords="158,109,250,140,285,150,283,155,249,145,156,114"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DGtal::Simple2x2DetComputer&lt; TArgumentInteger, TResultInteger &gt;" name="DGtal::Simple2x2DetComputer&lt; TArgumentInteger, TResultInteger &gt;">
+<area shape="rect" id="Node000001" title="Aim: Small class useful to compute the determinant of a 2x2 matrix from its four coefficients,..." alt="" coords="5,41,247,82"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1Simple2x2DetComputer.html" title=" " alt="" coords="461,5,664,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,48,461,31,461,37,262,53"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1Simple2x2DetComputer.html" title=" " alt="" coords="459,70,666,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,81,271,82,367,90,458,93,458,99,367,95,270,88,262,87"/>
+</map>

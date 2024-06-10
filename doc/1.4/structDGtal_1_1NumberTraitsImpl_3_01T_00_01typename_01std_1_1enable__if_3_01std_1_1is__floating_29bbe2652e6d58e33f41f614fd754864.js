@@ -1,0 +1,5 @@
+var structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__floating_29bbe2652e6d58e33f41f614fd754864 =
+[
+    [ "SignedVersion", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__floating_29bbe2652e6d58e33f41f614fd754864.html#abc4780ee92a6fcff302045f03ea2153d", null ],
+    [ "UnsignedVersion", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__floating_29bbe2652e6d58e33f41f614fd754864.html#a5b686073b2169b180c04a71a08a611db", null ]
+];

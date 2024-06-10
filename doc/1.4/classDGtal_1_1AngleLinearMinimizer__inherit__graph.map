@@ -1,0 +1,9 @@
+<map id="DGtal::AngleLinearMinimizer" name="DGtal::AngleLinearMinimizer">
+<area shape="rect" id="Node000001" title="Aim: Used to minimize the angle variation between different angles while taking into accounts min and..." alt="" coords="5,78,193,104"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1AngleLinearMinimizerByAdaptiveStepGradientDescent.html" title=" " alt="" coords="241,5,454,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,71,267,44,268,49,166,76"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1AngleLinearMinimizerByGradientDescent.html" title=" " alt="" coords="254,71,441,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,88,253,88,253,94,208,94"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1AngleLinearMinimizerByRelaxation.html" title=" " alt="" coords="254,136,441,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,106,268,133,267,138,165,111"/>
+</map>

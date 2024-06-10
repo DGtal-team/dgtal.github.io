@@ -1,0 +1,11 @@
+<map id="DGtal::detail::PosDepScaleIndepSCEstimator&lt; TSegmentComputer, Functor, ReturnType &gt;" name="DGtal::detail::PosDepScaleIndepSCEstimator&lt; TSegmentComputer, Functor, ReturnType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,266,101"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1detail_1_1PosDepScaleIndepSCEstimator.html" title=" " alt="" coords="476,5,705,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,58,475,41,475,46,281,63"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1detail_1_1PosDepScaleIndepSCEstimator.html" title=" " alt="" coords="476,85,705,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,92,290,93,475,106,475,111,289,98,281,97"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1NormalFromDCAEstimator.html" title=" " alt="" coords="755,13,975,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="721,31,754,31,754,36,721,36"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1TangentFromDCAEstimator.html" title=" " alt="" coords="753,93,977,134"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="721,111,753,111,753,116,721,116"/>
+</map>
