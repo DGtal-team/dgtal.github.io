@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classDGtal_1_1Display3D.html" title=" " alt="" coords="5,39,164,80"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1Board3D.html" title="The class Board3D is a type of Display3D which export the figures in the format OBJ/MTL when calling ..." alt="" coords="212,5,380,47"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1Board3DTo2D.html" title="Class for PDF, PNG, PS, EPS, SVG export drawings with Cairo with 3D&#45;&gt;2D projection." alt="" coords="223,71,369,112"/>
-</map>

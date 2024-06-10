@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structDGtal_1_1ConvexHullCommonKernel.html" title=" " alt="" coords="5,45,228,101"/>
-<area shape="rect" id="node2" href="$structDGtal_1_1ConvexHullIntegralKernel.html" title="Aim: a geometric kernel to compute the convex hull of digital points with integer&#45;only arithmetic." alt="" coords="276,5,491,61"/>
-<area shape="rect" id="node3" href="$structDGtal_1_1ConvexHullRationalKernel.html" title="Aim: a geometric kernel to compute the convex hull of floating points with integer&#45;only arithmetic...." alt="" coords="276,85,491,141"/>
-</map>
