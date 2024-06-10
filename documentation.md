@@ -4,12 +4,12 @@ title: Documentation & Help
 ---
 
 ### Documentation
-* [User guide and stable API documentation][1] (1.3)
+* [User guide and stable API documentation][1] (1.4)
 * [Nightly build doxygen documentation][2]
 * [Nightly build doxygen documentation of DGtalTools][22]
 * [Documentation docset URL][3] (1.0, for [Dash][4] or [Zeal][5] tools)
 
-### Material for the DGtal tutorial at DGMM 2022
+### Materials for the DGtal tutorial at DGMM 2022
 
 
 During the second [IAPR International Conference on Discrete Geometry and Mathematical Morphology 2022](https://dgmm2022.sciencesconf.org), we had a DGtal tutorial session with many exercises and demos. The material is now available:
