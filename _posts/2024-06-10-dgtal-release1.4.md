@@ -32,8 +32,8 @@ We are happy to announce the [release  1.4 of DGtal](https://github.com/DGtal-te
       * [https://github.com/DGtal-team/DGtalTools/blob/master/ChangeLog.md](https://github.com/DGtal-team/DGtalTools/blob/master/ChangeLog.md)
       * [https://github.com/DGtal-team/DGtalTools-contrib/blob/master/ChangeLog.md](https://github.com/DGtal-team/DGtalTools-contrib/blob/master/ChangeLog.md)
 
-  * DGtalTools 1.4 [http://dgtal.org/tools/](http://dgtal.org/tools/)
-  * DGtalTools-contrib 1.4: [http://dgtal.org/tools/](http://dgtal.org/tools/)
+  * DGtalTools 1.4 [http://dgtal.org/tools/](http://dgtal.org/dgtaltools/)
+  * DGtalTools-contrib 1.4: [http://dgtal.org/tools/](http://dgtal.org/dgtaltools/)
   * DGtal Documentation: [http://dgtal.org/doc/stable](http://dgtal.org/doc/stable)
   * DGtalTools documentation:  [http://dgtal.org/doc/tools/stable](http://dgtal.org/doc/tools/stable)
   * DGtalTools-contrib: [https://github.com/DGtal-team/DGtalTools-contrib](https://github.com/DGtal-team/DGtalTools-contrib)
