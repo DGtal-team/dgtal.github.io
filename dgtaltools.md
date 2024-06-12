@@ -127,7 +127,7 @@ At the moment the DGTalTools project is organized as follows (<span style="color
   - <span style="color: #00008b;">volTrValues</span>: a basic tool to transform the voxel values from an input/output set.
 
 ### DGtalTools-contrib content:
-At the moment the DFtalTools-contrib project is organized as follows (<span style="color: #8b0000;">new</span> or <span style="color: #00008b;">improved</span> in 1.4):
+At the moment the DFtalTools-contrib project is organized as follows (<span style="color: #8b0000;">new</span> or <span style="color: #008b00;">improved</span> in 1.4):
 
 * **Geometry2d/**:
   - <span style="color: #00008b;">houghLineDetect</span>: to detect line segment from Hough transform (using OpenCV).
