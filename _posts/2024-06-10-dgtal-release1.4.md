@@ -5,6 +5,8 @@ title: DGtal release 1.4
 
 We are happy to announce the [release  1.4 of DGtal](https://github.com/DGtal-team/DGtal/releases/tag/1.4) and its tools. As always,many new features, edits and bugfixes are listed in the [Changelog](https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md), and we would like to thank all devs involved in this release. In this short review, we would like to only focus on selected new features.
 
+You can follow us on a new [Discord server](https://discord.gg/zTyCYdfA).
+
 * **New Features**:
   * [Implicit shapes](https://dgtal-team.github.io/doc-nightly/moduleWinding.html) can be constructed from point clouds using generalized winding numbers from [libIGL](https://libigl.github.io).
   * `SurfaceMesh` instances can be updated through [flip operations](https://dgtal-team.github.io/doc-nightly/moduleSurfaceMesh.html#SurfMesh_sec8).
