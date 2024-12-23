@@ -1,0 +1,7 @@
+<map id="DGtal::TraceWriter" name="DGtal::TraceWriter">
+<area shape="rect" id="Node000001" title="Virtual Class to implement trace writers." alt="" coords="105,5,236,31"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1TraceWriterFile.html" title=" " alt="" coords="5,79,157,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,43,98,81,94,77,142,39"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1TraceWriterTerm.html" title="Implements trace prefix for color terminals." alt="" coords="181,79,341,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,39,247,77,244,81,196,43"/>
+</map>

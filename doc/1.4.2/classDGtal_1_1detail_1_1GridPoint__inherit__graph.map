@@ -1,0 +1,7 @@
+<map id="DGtal::detail::GridPoint&lt; Integer, Index &gt;" name="DGtal::detail::GridPoint&lt; Integer, Index &gt;">
+<area shape="rect" id="Node000001" title="A grid point consists of a couple of nonnegative coordinates &#160;and an integer index &#160;that determines a..." alt="" coords="5,5,162,46"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="179,20,188,26,163,33,162,28,183,25,177,25"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="177,14,256,15,283,18,295,26,281,34,250,37,162,37,162,32,250,32,280,28,290,26,282,23,256,20,177,19"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1detail_1_1GridPoint.html" title=" " alt="" coords="5,109,162,150"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="86,62,86,109,81,109,81,62"/>
+</map>

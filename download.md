@@ -4,7 +4,7 @@ title: Download
 ---
 ### Releases
 
-* Last stable DGtal release: [DGtal 1.4][2]
+* Last stable DGtal release: [DGtal 1.4.2][2]
 
 ### Development version
 

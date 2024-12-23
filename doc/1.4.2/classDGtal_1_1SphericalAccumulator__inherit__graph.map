@@ -1,0 +1,5 @@
+<map id="DGtal::SphericalAccumulator&lt; TVector &gt;" name="DGtal::SphericalAccumulator&lt; TVector &gt;">
+<area shape="rect" id="Node000001" title="Aim: implements an accumulator (as histograms for 1D scalars) adapted to spherical point samples." alt="" coords="5,5,196,46"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1SphericalAccumulator.html" title=" " alt="" coords="5,109,196,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,62,103,109,98,109,98,62"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DGtal::IsArithmeticConversionValid&lt; T, U, typename std::conditional&lt; false, ArithmeticConversionType&lt; T, U &gt;, void &gt;::type &gt;" name="DGtal::IsArithmeticConversionValid&lt; T, U, typename std::conditional&lt; false, ArithmeticConversionType&lt; T, U &gt;, void &gt;::type &gt;">
+<area shape="rect" id="Node000001" title="Specialization when arithmetic operation between the two given type is valid." alt="" coords="5,79,269,150"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="86,5,188,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,47,140,78,134,78,134,47"/>
+</map>

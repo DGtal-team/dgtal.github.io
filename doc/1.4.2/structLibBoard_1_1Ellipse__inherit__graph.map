@@ -1,0 +1,9 @@
+<map id="LibBoard::Ellipse" name="LibBoard::Ellipse">
+<area shape="rect" id="Node000001" title="An ellipse." alt="" coords="5,79,125,105"/>
+<area shape="rect" id="Node000003" href="$structLibBoard_1_1Circle.html" title="A circle." alt="" coords="8,153,122,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="68,120,68,152,62,152,62,120"/>
+<area shape="rect" id="Node000002" href="$structLibBoard_1_1Shape.html" title="Abstract structure for a 2D shape." alt="" coords="6,5,124,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,46,68,79,62,79,62,46"/>
+<area shape="rect" id="Node000004" href="$structLibBoard_1_1Arc.html" title="An arc." alt="" coords="15,226,115,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="68,194,68,226,62,226,62,194"/>
+</map>

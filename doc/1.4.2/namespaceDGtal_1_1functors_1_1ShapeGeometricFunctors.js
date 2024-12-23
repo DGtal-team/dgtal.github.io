@@ -1,0 +1,12 @@
+var namespaceDGtal_1_1functors_1_1ShapeGeometricFunctors =
+[
+    [ "ShapeFirstPrincipalCurvatureFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeFirstPrincipalCurvatureFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeFirstPrincipalCurvatureFunctor" ],
+    [ "ShapeFirstPrincipalDirectionFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeFirstPrincipalDirectionFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeFirstPrincipalDirectionFunctor" ],
+    [ "ShapeGaussianCurvatureFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeGaussianCurvatureFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeGaussianCurvatureFunctor" ],
+    [ "ShapeMeanCurvatureFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeMeanCurvatureFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeMeanCurvatureFunctor" ],
+    [ "ShapeNormalVectorFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeNormalVectorFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeNormalVectorFunctor" ],
+    [ "ShapePositionFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapePositionFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapePositionFunctor" ],
+    [ "ShapePrincipalCurvaturesAndDirectionsFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapePrincipalCurvaturesAndDirectionsFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapePrincipalCurvaturesAndDirectionsFunctor" ],
+    [ "ShapeSecondPrincipalCurvatureFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeSecondPrincipalCurvatureFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeSecondPrincipalCurvatureFunctor" ],
+    [ "ShapeSecondPrincipalDirectionFunctor", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeSecondPrincipalDirectionFunctor.html", "structDGtal_1_1functors_1_1ShapeGeometricFunctors_1_1ShapeSecondPrincipalDirectionFunctor" ]
+];

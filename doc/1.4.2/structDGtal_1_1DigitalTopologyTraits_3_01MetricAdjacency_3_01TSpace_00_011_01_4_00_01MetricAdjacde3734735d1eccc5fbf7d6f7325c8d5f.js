@@ -1,0 +1,4 @@
+var structDGtal_1_1DigitalTopologyTraits_3_01MetricAdjacency_3_01TSpace_00_011_01_4_00_01MetricAdjacde3734735d1eccc5fbf7d6f7325c8d5f =
+[
+    [ "GEODESIC_NEIGHBORHOOD_SIZE", "structDGtal_1_1DigitalTopologyTraits_3_01MetricAdjacency_3_01TSpace_00_011_01_4_00_01MetricAdjacde3734735d1eccc5fbf7d6f7325c8d5f.html#a3c819b6636779c68d89bf6295d7484d0", null ]
+];
