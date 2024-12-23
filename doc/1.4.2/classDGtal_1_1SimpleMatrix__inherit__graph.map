@@ -1,0 +1,9 @@
+<map id="DGtal::SimpleMatrix&lt; TComponent, TM, TN &gt;" name="DGtal::SimpleMatrix&lt; TComponent, TM, TN &gt;">
+<area shape="rect" id="Node000001" title="Aim: implements basic MxN Matrix services (M,N&gt;=1)." alt="" coords="5,96,179,137"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="436,5,576,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,85,166,67,202,52,262,37,325,28,436,22,436,27,325,33,263,43,203,58,169,72,137,90"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="396,81,616,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,114,395,114,395,119,194,119"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="436,176,576,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,133,436,180,435,186,193,138"/>
+</map>

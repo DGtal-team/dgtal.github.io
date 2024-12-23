@@ -1,0 +1,8 @@
+var structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276 =
+[
+    [ "NTIF", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#ad8c81e775b62bc6ad34dcab65b70ab6b", null ],
+    [ "SignedVersion", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#a5c6cff34f730bc30ee1ecdd7fe16c5d5", null ],
+    [ "UnsignedVersion", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#ae5f3e133729f07500679678e411b3de4", null ],
+    [ "even", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#a8ead6be47ac27607012fcea453d524ad", null ],
+    [ "odd", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#a9bc7f41b9e4b57e60b4f1b595cfe3901", null ]
+];

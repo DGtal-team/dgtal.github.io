@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structboost_1_1Assignable.html" title=" " alt="" coords="5,46,164,72"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title="Aim: Defines a unary functor, which associates arguments to results." alt="" coords="212,5,425,46"/>
+<area shape="poly" id="edge147_Node000000_Node000001" title=" " alt="" coords="179,43,211,38,212,44,179,48"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1concepts_1_1CUnaryFunctor_3_01X_00_01A_01_6_00_01R_01_6_01_4.html" title=" " alt="" coords="212,71,425,111"/>
+<area shape="poly" id="edge148_Node000000_Node000002" title=" " alt="" coords="179,69,212,74,211,79,179,75"/>
+</map>

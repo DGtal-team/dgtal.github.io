@@ -1,0 +1,7 @@
+<map id="DGtal::details::NumberTraitsImplFundamental&lt; T &gt;" name="DGtal::details::NumberTraitsImplFundamental&lt; T &gt;">
+<area shape="rect" id="Node000001" title="NumberTraits common part for fundamental integer and floating&#45;point types." alt="" coords="5,68,194,109"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__floating_29bbe2652e6d58e33f41f614fd754864.html" title="Specialization of NumberTraitsImpl for fundamental floating&#45;point types." alt="" coords="242,5,414,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,63,241,56,242,61,209,68"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html" title="Specialization of NumberTraitsImpl for fundamental integer types." alt="" coords="242,100,414,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,108,242,115,241,120,208,114"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DGtal::RosenProffittLocalLengthEstimator&lt; TConstIterator &gt;" name="DGtal::RosenProffittLocalLengthEstimator&lt; TConstIterator &gt;">
+<area shape="rect" id="Node000001" title="Aim: Rosen&#45;Proffitt Length Estimator." alt="" coords="5,94,230,135"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1TwoStepLocalLengthEstimator.html" title="Aim: a simple model of CGlobalCurveEstimator that compute the length of a curve using the l_1 metric ..." alt="" coords="25,5,210,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,62,120,94,115,94,115,62"/>
+</map>
