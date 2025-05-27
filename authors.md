@@ -15,6 +15,7 @@ title: Authors
 ## Main development team
 
 * Guillaume Damiand (LIRIS, CNRS)
+* Bastien Doignies (LIRIS, CNRS)
 * Pierre Gueth (LIRIS, CNRS)
 * Sébastien Fourey (GREYC, ENSICAEN)
 * Adrien Krähenbühl (ICube, Université de Strasbour)
