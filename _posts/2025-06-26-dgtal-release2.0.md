@@ -10,7 +10,7 @@ We are happy to announce the major release 2.0 of DGtal. This big update makes t
 
 
 ## New Polyscope-based viewer
-The new version of DGtal (2.0) includes a brand new viewer that is based on [Polyscope](https://polyscope.run/). This modern viewer lets you customise things like colors, transforms, clipping planes and more while you're using it. This is also the perfect time to make the viewer's code simpler and easier to use. A [guide](xxxxxx) is available to help you adapt old codes to the new viewer. In short (for most common uses):
+The new version of DGtal (2.0) includes a brand new viewer that is based on [Polyscope](https://polyscope.run/). This modern viewer lets you customise things like colors, transforms, clipping planes and more while you're using it. This is also the perfect time to make the viewer's code simpler and easier to use. A [guide]((https://dgtal-team.github.io/doc-nightly/migratingViewer3D.html) is available to help you adapt old codes to the new viewer. In short (for most common uses):
 * First, remove any mention to `QApplication` in the code.
 * Change the name of the viewer (e.g. `Viewer3D` to `PolyscopeViewer`).
 * Put the `.show()` method at the end of the file. This will make the user interface (UI) start and appear.
@@ -54,7 +54,8 @@ The new minimal standard is now C++20, which replaced the previous standard of C
     * Old `std::allocator` API is being removed (this was used in MPolynomial).
     * New code might not work with older versions because it uses new libraries and language features.
 * Removal of the deprecated namespace. Classes, functions and variables inside this namespace are now longer accessible. This is mostly about convolution on surfaces, which is now replaced with `LocalEstimatorFromSurfelFunctorAdapter`.
-* The Viewer is now based on Polyscope (see the section above for more details). The stream API was kept the same, but most of the modifiers were taken out. See the [Migrating viewer page]()
+* The Viewer is now based on Polyscope (see the section above for more details). The stream API was kept the same, but most of the modifiers were taken out. See the [Migrating viewer page](https://dgtal-team.github.io/doc-nightly/migratingViewer3D.html).
+
 
 
 **Links:**
