@@ -14,19 +14,24 @@ The new version of DGtal (2.0) includes a brand new viewer that is based on [Pol
 * First, remove any mention to `QApplication` in the code.
 * Change the name of the viewer (e.g. `Viewer3D` to `PolyscopeViewer`).
 * Put the `.show()` method at the end of the file. This will make the user interface (UI) start and appear.
-* Delete any `CustomColors3D` instance. You can set the color directly using the stream API by typing `viewer << color;`.
+* Delete any `CustomColors3D` . You can set the color directly using the stream API by typing `viewer << color;`.
 TODO: Vidéo
 
 ## DGtal Paraview Plugin
-DGtal now has a plugin for [paraview](http://paraview.org)  which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). The main motivation is to use DGtal geometry processing tools in a VTK/Paraview pipline, wideyly used in scientific data vizualisation (medical imagine, material sciences...). For now, this plugin binds most of the Shortcuts and Geometry Shortcuts with a mapping between DGtal and vtk/paraview voxel-based object.
+DGtal now has a plugin for [paraview](http://paraview.org)  which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). The main motivation is to use DGtal geometry processing tools in a VTK/Paraview pipeline, widely used in scientific data visualization (medical imagine, material sciences...). For now, this plugin binds most of the Shortcuts and Geometry Shortcuts with a mapping between DGtal and vtk/paraview voxel-based object.
 
 TODO: Video
 
-## Broader Shortcuts:
-* Shortcuts are now available for CNC estimators.
+## New Geometry Shortcuts
+
+* Shortcuts are now available for Corrected Normal Current curvature tensor estimators estimators.
+* The Geometry Shortcuts now contain volumetric processing tools (Distance transformation and Voronoi maps)
+
+## Updated Python Bindings
+
 * Shortcuts are also available in the Python wrapper.
 
-## Updated Python bindings
+TODO: code snippet
 
 
 
@@ -43,13 +48,13 @@ TODO: Video
 * `Qt` and `libqglviewer` is no longer required for the viewer.
 * CI and CD are now built on top of actions that can be reused. These actions are used with side repositories.
 
-## Breaking changes
+## Breaking Changes
 The new minimal standard is now C++20, which replaced the previous standard of C++14. This has a few impacts. Some of the side effects of DGtal that you might notice are:
     * You can no longer convert enums to int.
     * Old `std::allocator` API is being removed (this was used in MPolynomial).
     * New code might not work with older versions because it uses new libraries and language features.
-* Removal of the deprecated namespace. Classes, functions and variables inside this namespace are now longer accessible. This is mostly about convolution on surfaces, which is now replaced with LocalEstimatorFromSurfelFunctorAdapter.
-* The Viewer is now based on Polyscope (see the section below for more information). The stream API was kept the same, but most of the modifiers were taken out. See the [Migrating viewer page]()
+* Removal of the deprecated namespace. Classes, functions and variables inside this namespace are now longer accessible. This is mostly about convolution on surfaces, which is now replaced with `LocalEstimatorFromSurfelFunctorAdapter`.
+* The Viewer is now based on Polyscope (see the section above for more details). The stream API was kept the same, but most of the modifiers were taken out. See the [Migrating viewer page]()
 
 
 **Links:**
