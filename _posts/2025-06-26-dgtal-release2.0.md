@@ -18,7 +18,7 @@ The new version of DGtal (2.0) includes a brand new viewer that is based on [Pol
 TODO: Vidéo
 
 ## DGtal Paraview Plugin
-DGtal now has a paraview plugin which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). For now, this plugins binds most of the Shortcuts to works with any vtk/paraview voxel-based object.
+DGtal now has a [paraview](http://paraview.org) plugin which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). For now, this plugin binds most of the Shortcuts and Geometry Shortcuts with a mapping between DGtal and vtk/paraview voxel-based object.
 TODO: Video
 
 ## Broader Shortcuts:
@@ -37,15 +37,15 @@ TODO: Video
   * [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
   * [Ponca](https://poncateam.github.io/ponca/index.html)
   * [Polyscope](https://polyscope.run/) (see viewer section below)
-* Patate was upgraded to [Ponca](https://poncateam.github.io/ponca/index.html)
-* GMP is no longer used; instead, Boost Multiprecision is used (with its own backend). Arbitrary precision integers are now always available and don't require any dependencies.
-* Qt and libqglviewer is no longer required for the viewer.
+* `Patate` was upgraded to [Ponca](https://poncateam.github.io/ponca/index.html) for point cloud based differential estimators
+* `GMP` is no longer used; instead, we only rely on  Boost Multiprecision (with its own backend) for arbitrary precision integers  (enabled by default)
+* `Qt` and `libqglviewer` is no longer required for the viewer.
 * CI and CD are now built on top of actions that can be reused. These actions are used with side repositories.
 
 ## Breaking changes
 The new minimal standard is now C++20, which replaced the previous standard of C++14. This has a few impacts. Some of the side effects of DGtal that you might notice are:
     * You can no longer convert enums to int.
-    * Old std::allocator API is being removed (this was used in MPolynomial).
+    * Old `std::allocator` API is being removed (this was used in MPolynomial).
     * New code might not work with older versions because it uses new libraries and language features.
 * Removal of the deprecated namespace. Classes, functions and variables inside this namespace are now longer accessible. This is mostly about convolution on surfaces, which is now replaced with LocalEstimatorFromSurfelFunctorAdapter.
 * The Viewer is now based on Polyscope (see the section below for more information). The stream API was kept the same, but most of the modifiers were taken out. See the [Migrating viewer page]()
