@@ -6,7 +6,7 @@ title: DGtal release 2.0
 
 # DGtal release 2.0
 
-We are happy to announce the major release 2.0 of DGtal. This big update makes the library more modern, in both how it's built and the tools it uses. This release also includes new features in both the C++ library and its python binding. Let's take a look at the big changes (see more in the [Changelog](https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md) section).
+We are happy to announce the major release 2.0 of DGtal. This big update makes the library more modern, in both how it is built and the tools it uses. This release also includes new features in both the C++ library and its python binding. Let us take a look at the big changes (see more in the [Changelog](https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md) section).
 
 
 ## New Polyscope-based viewer
@@ -81,7 +81,7 @@ The new minimal standard is now C++20, which replaced the previous standard of C
     * You can no longer convert enums to int.
     * Old `std::allocator` API is being removed (this was used in MPolynomial).
     * New code might not work with older versions because it uses new libraries and language features.
-* Removal of the deprecated namespace. Classes, functions and variables inside this namespace are now longer accessible. This is mostly about convolution on surfaces, which is now replaced with `LocalEstimatorFromSurfelFunctorAdapter`.
+* Removal of the deprecated namespace. Classes, functions and variables inside this namespace are no longer accessible. This is mostly about convolution on surfaces, which is now replaced with `LocalEstimatorFromSurfelFunctorAdapter`.
 * The Viewer is now based on Polyscope (see the section above for more details). The stream API was kept the same, but most of the modifiers were taken out. See the [Migrating viewer page](https://dgtal-team.github.io/doc-nightly/migratingViewer3D.html).
 
 
