@@ -24,6 +24,7 @@ The new version of DGtal (2.0) includes a brand new viewer that is based on [Pol
 ## DGtal Paraview Plugin
 DGtal now has a plugin for [paraview](http://paraview.org)  which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). The main motivation is to use DGtal geometry processing tools in a VTK/Paraview pipeline, widely used in scientific data visualization (medical imagine, material sciences...). For now, this plugin binds most of the Shortcuts and Geometry Shortcuts with a mapping between DGtal and vtk/paraview voxel-based object.
 
+SNAPSHOT 
 
 ## New Geometry Shortcuts
 
@@ -81,15 +82,14 @@ ps.show()
 
 ## Breaking Changes
 The new minimal standard is now C++20, which replaced the previous standard of C++14. This has a few impacts. Some of the side effects of DGtal that you might notice are:
-    * You can no longer convert enums to int.
-    * Old `std::allocator` API is being removed (this was used in MPolynomial).
-    * New code might not work with older versions because it uses new libraries and language features.
+* You can no longer convert enums to int.
+* Old `std::allocator` API is being removed (this was used in MPolynomial).
+* New code might not work with older versions because it uses new libraries and language features.
 * Removal of the deprecated namespace. Classes, functions and variables inside this namespace are no longer accessible. This is mostly about convolution on surfaces, which is now replaced with `LocalEstimatorFromSurfelFunctorAdapter`.
 * The Viewer is now based on Polyscope (see the section above for more details). The stream API was kept the same, but most of the modifiers were taken out. See the [Migrating viewer page](https://dgtal-team.github.io/doc-nightly/migratingViewer3D.html).
 
 
-
-**Links:**
+## Links
 
   * DGtal 2.0: [http://dgtal.org/download/](http://dgtal.org/download)
   * Complete changelogs:
