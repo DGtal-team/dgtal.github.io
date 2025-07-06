@@ -15,12 +15,15 @@ The new version of DGtal (2.0) includes a brand new viewer that is based on [Pol
 * Change the name of the viewer (e.g. `Viewer3D` to `PolyscopeViewer`).
 * Put the `.show()` method at the end of the file. This will make the user interface (UI) start and appear.
 * Delete any `CustomColors3D` . You can set the color directly using the stream API by typing `viewer << color;`.
-TODO: Vidéo
+
+ Digital surfaces | Distance transformation | Diff. Estimators
+--|--|--
+![](../img/viewer3D-9.png) | ![](../img/voronoimapl2.png) | ![](../img/viewer3DQuantities.png)
+
 
 ## DGtal Paraview Plugin
 DGtal now has a plugin for [paraview](http://paraview.org)  which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). The main motivation is to use DGtal geometry processing tools in a VTK/Paraview pipeline, widely used in scientific data visualization (medical imagine, material sciences...). For now, this plugin binds most of the Shortcuts and Geometry Shortcuts with a mapping between DGtal and vtk/paraview voxel-based object.
 
-TODO: Video
 
 ## New Geometry Shortcuts
 
