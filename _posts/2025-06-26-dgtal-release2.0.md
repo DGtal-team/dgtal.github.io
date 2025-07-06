@@ -36,7 +36,7 @@ DGtal now has a plugin for [paraview](http://paraview.org)  which is available a
 
 TODO: code snippet
 
-```
+``` python
 from dgtal import *
 from dgtal import SH3
 import polyscope as ps
