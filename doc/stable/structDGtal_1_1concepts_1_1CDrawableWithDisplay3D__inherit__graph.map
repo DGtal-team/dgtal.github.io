@@ -1,9 +1,0 @@
-<map id="DGtal::concepts::CDrawableWithDisplay3D&lt; T, Sp, KSp &gt;" name="DGtal::concepts::CDrawableWithDisplay3D&lt; T, Sp, KSp &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,202,79"/>
-<area shape="rect" id="Node000002" href="$structDGtal_1_1concepts_1_1CDrawableWithDisplay3D.html" title=" " alt="" coords="327,39,516,79"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,56,326,56,326,62,217,62"/>
-<area shape="rect" id="Node000003" href="$structDGtal_1_1concepts_1_1CDrawableWithBoard3DTo2D.html" title=" " alt="" coords="565,5,769,46"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="531,41,564,37,565,42,532,47"/>
-<area shape="rect" id="Node000004" href="$structDGtal_1_1concepts_1_1CDrawableWithViewer3D.html" title="Aim: The concept CDrawableWithViewer3D specifies what are the classes that admit an export with Viewe..." alt="" coords="572,71,762,111"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="532,71,572,76,572,81,531,76"/>
-</map>

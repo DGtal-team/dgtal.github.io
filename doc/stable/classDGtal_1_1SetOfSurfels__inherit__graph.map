@@ -1,0 +1,7 @@
+<map id="DGtal::SetOfSurfels&lt; TKSpace, TSurfelSet &gt;" name="DGtal::SetOfSurfels&lt; TKSpace, TSurfelSet &gt;">
+<area shape="rect" id="Node000001" title="Aim: A model of CDigitalSurfaceContainer which defines the digital surface as connected surfels...." alt="" coords="5,5,175,46"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="191,20,201,26,176,33,175,28,196,25,189,25"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="190,13,301,14,340,17,357,26,338,34,295,38,175,38,175,32,294,32,337,29,352,26,339,23,301,19,190,19"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1SetOfSurfels.html" title=" " alt="" coords="13,117,167,158"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="93,61,93,117,87,117,87,61"/>
+</map>

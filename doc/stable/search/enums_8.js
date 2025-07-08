@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['magicnumber_0',['MagicNumber',['../structDGtal_1_1PGMReader.html#ae03bf693e32acf80a35cd07ec3175558',1,'DGtal::PGMReader::MagicNumber'],['../structDGtal_1_1PPMReader.html#ae0713fd2f4bcf68ba3f437cdd646f7e3',1,'DGtal::PPMReader::MagicNumber']]],
-  ['main_5faxis_1',['MAIN_AXIS',['../classDGtal_1_1TangentFromDSS3DBy2DFunctor.html#aeaa5d6a79388f3d6a568a82ff8ef92ef',1,'DGtal::TangentFromDSS3DBy2DFunctor']]]
+  ['normalstype_0',['NormalsType',['../structDGtal_1_1SurfaceMeshHelper.html#ae82bf760634a092658792c5cceb520c9',1,'DGtal::SurfaceMeshHelper']]],
+  ['normtype_1',['NormType',['../classDGtal_1_1PointVector.html#ae1c647ad60b34b4d7c8b7d8d7b917fcb',1,'DGtal::PointVector']]]
 ];

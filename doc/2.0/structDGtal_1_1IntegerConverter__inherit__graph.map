@@ -1,0 +1,13 @@
+<map id="DGtal::IntegerConverter&lt; dim, TInteger &gt;" name="DGtal::IntegerConverter&lt; dim, TInteger &gt;">
+<area shape="rect" id="Node000001" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— INTEGER/POINT CONVERSION SERVICES &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—" alt="" coords="5,136,166,177"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1IntegerConverter.html" title=" " alt="" coords="378,5,555,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,123,149,96,189,73,235,55,284,42,377,28,378,33,285,47,237,60,191,77,152,100,119,127"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1IntegerConverter.html" title=" " alt="" coords="386,71,546,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,129,189,126,291,108,385,96,386,102,292,114,190,131,174,134"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1IntegerConverter_3_01dim_00_01DGtal_1_1BigInteger_01_4.html" title=" " alt="" coords="379,136,554,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,154,378,154,378,159,181,159"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1IntegerConverter_3_01dim_00_01DGtal_1_1int32__t_01_4.html" title=" " alt="" coords="386,201,546,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="173,178,190,182,292,199,386,211,385,217,291,205,189,187,172,183"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1IntegerConverter_3_01dim_00_01DGtal_1_1int64__t_01_4.html" title=" " alt="" coords="386,267,546,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="119,186,152,213,191,236,239,254,290,267,386,281,386,286,289,272,238,259,189,240,149,217,116,190"/>
+</map>

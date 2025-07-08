@@ -1,0 +1,5 @@
+<map id="IntegralCstToTag&lt; std::true_type &gt;" name="IntegralCstToTag&lt; std::true_type &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,102,157,143"/>
+<area shape="rect" id="Node000002" href="$structIntegralCstToTag.html" title="Transform a std::integral_constant&lt;bool, value&gt; to the corresponding DGtal tag." alt="" coords="5,5,158,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,46,84,102,79,102,79,46"/>
+</map>

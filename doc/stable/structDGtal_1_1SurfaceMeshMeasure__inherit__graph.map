@@ -1,0 +1,9 @@
+<map id="DGtal::SurfaceMeshMeasure&lt; TRealPoint, TRealVector, TValue &gt;" name="DGtal::SurfaceMeshMeasure&lt; TRealPoint, TRealVector, TValue &gt;">
+<area shape="rect" id="Node000001" title="Aim: stores an arbitrary measure on a SurfaceMesh object. The measure can be spread onto its vertices..." alt="" coords="5,95,196,150"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1SurfaceMeshMeasure.html" title=" " alt="" coords="397,15,587,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,86,219,71,310,53,396,44,397,49,310,58,220,76,175,91"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1SurfaceMeshMeasure.html" title=" " alt="" coords="397,95,587,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,120,396,120,396,125,211,125"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1SurfaceMeshMeasure.html" title=" " alt="" coords="397,175,587,230"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,154,220,169,310,186,397,196,396,201,310,191,219,174,175,159"/>
+</map>

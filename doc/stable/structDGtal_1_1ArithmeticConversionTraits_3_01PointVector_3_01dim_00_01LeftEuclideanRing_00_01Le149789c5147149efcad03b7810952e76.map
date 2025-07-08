@@ -1,0 +1,5 @@
+<map id="DGtal::ArithmeticConversionTraits&lt; PointVector&lt; dim, LeftEuclideanRing, LeftContainer &gt;, PointVector&lt; dim, RightEuclideanRing, RightContainer &gt;, typename std::enable_if&lt; IsArithmeticConversionValid&lt; LeftEuclideanRing, RightEuclideanRing &gt;::value &gt;::type &gt;" name="DGtal::ArithmeticConversionTraits&lt; PointVector&lt; dim, LeftEuclideanRing, LeftContainer &gt;, PointVector&lt; dim, RightEuclideanRing, RightContainer &gt;, typename std::enable_if&lt; IsArithmeticConversionValid&lt; LeftEuclideanRing, RightEuclideanRing &gt;::value &gt;::type &gt;">
+<area shape="rect" id="Node000001" title="Specialization of ArithmeticConversionTraits when both operands are PointVector." alt="" coords="5,259,339,375"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ArithmeticConversionTraits.html" title="Aim: Trait class to get result type of arithmetic binary operators between two given types." alt="" coords="78,5,266,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,61,175,259,169,259,169,61"/>
+</map>

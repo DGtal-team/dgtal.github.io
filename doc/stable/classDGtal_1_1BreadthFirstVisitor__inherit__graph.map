@@ -1,0 +1,9 @@
+<map id="DGtal::BreadthFirstVisitor&lt; TGraph, TMarkSet &gt;" name="DGtal::BreadthFirstVisitor&lt; TGraph, TMarkSet &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class is useful to perform a breadth&#45;first exploration of a graph given a starting point or..." alt="" coords="103,5,274,46"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="290,20,301,26,275,33,274,28,295,25,288,25"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="290,13,390,14,425,18,441,26,423,34,384,38,274,38,274,32,384,32,422,29,435,26,424,23,390,19,290,18"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1BreadthFirstVisitor.html" title=" " alt="" coords="5,117,177,158"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="163,59,110,118,106,115,159,56"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1BreadthFirstVisitor.html" title=" " alt="" coords="201,117,373,158"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="218,56,271,115,268,118,214,59"/>
+</map>

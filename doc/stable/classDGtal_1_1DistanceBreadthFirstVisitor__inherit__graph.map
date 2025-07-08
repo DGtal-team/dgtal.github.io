@@ -1,0 +1,7 @@
+<map id="DGtal::DistanceBreadthFirstVisitor&lt; TGraph, TVertexFunctor, TMarkSet &gt;" name="DGtal::DistanceBreadthFirstVisitor&lt; TGraph, TVertexFunctor, TMarkSet &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class is useful to perform an exploration of a graph given a starting point or set (called ..." alt="" coords="7,5,221,61"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="238,27,248,33,222,41,221,36,243,33,236,32"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="237,19,354,20,394,24,412,33,393,42,348,46,222,47,221,41,347,41,391,37,407,33,393,30,354,26,237,25"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1DistanceBreadthFirstVisitor.html" title=" " alt="" coords="5,132,223,173"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="117,77,117,131,111,131,111,77"/>
+</map>

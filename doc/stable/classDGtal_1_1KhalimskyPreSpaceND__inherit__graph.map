@@ -1,0 +1,9 @@
+<map id="DGtal::KhalimskyPreSpaceND&lt; dim, TInteger &gt;" name="DGtal::KhalimskyPreSpaceND&lt; dim, TInteger &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class is a model of CPreCellularGridSpaceND. It represents the cubical grid as a cell compl..." alt="" coords="5,71,187,111"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1KhalimskyPreSpaceND.html" title=" " alt="" coords="336,5,517,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,64,210,60,335,37,336,43,211,66,194,69"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1KhalimskyPreSpaceND.html" title=" " alt="" coords="336,71,517,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,88,335,88,335,94,202,94"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1KhalimskyPreSpaceND.html" title=" " alt="" coords="336,136,517,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,113,211,117,336,140,335,145,210,122,192,118"/>
+</map>

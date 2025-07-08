@@ -1,0 +1,5 @@
+<map id="DGtal::functors::Point2ShapePredicateComparator&lt; T, true, true &gt;" name="DGtal::functors::Point2ShapePredicateComparator&lt; T, true, true &gt;">
+<area shape="rect" id="Node000001" title="Aim: A small struct with an operator that compares two values (&gt;=)." alt="" coords="5,132,198,188"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1functors_1_1Point2ShapePredicateComparator.html" title="Aim: A small struct with an operator that compares two values according to two bool template paramete..." alt="" coords="5,5,198,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,77,104,132,99,132,99,77"/>
+</map>

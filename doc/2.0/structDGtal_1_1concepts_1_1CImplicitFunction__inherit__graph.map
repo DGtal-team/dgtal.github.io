@@ -1,0 +1,5 @@
+<map id="DGtal::concepts::CImplicitFunction&lt; T &gt;" name="DGtal::concepts::CImplicitFunction&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Describes any function of the form f(x), where x is some real point in the given space,..." alt="" coords="5,5,182,46"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1concepts_1_1CImplicitFunctionDiff1.html" title="Aim: Describes a 1&#45;differentiable function of the form f(x), where x is some real point in the given ..." alt="" coords="5,94,182,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,62,96,94,91,94,91,62"/>
+</map>

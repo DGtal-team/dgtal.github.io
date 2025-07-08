@@ -1,0 +1,7 @@
+<map id="DGtal::SimpleRandomAccessConstRangeFromPoint&lt; TConstIterator, DistanceFunctor &gt;" name="DGtal::SimpleRandomAccessConstRangeFromPoint&lt; TConstIterator, DistanceFunctor &gt;">
+<area shape="rect" id="Node000001" title="Aim: model of CConstBidirectionalRangeFromPoint that adapts any range of elements bounded by two iter..." alt="" coords="5,48,259,104"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1SimpleRandomAccessConstRangeFromPoint.html" title=" " alt="" coords="486,8,731,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,61,485,43,485,49,274,67"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1SimpleRandomAccessConstRangeFromPoint.html" title=" " alt="" coords="486,88,731,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,104,283,108,386,116,485,118,485,123,386,122,282,114,256,110"/>
+</map>

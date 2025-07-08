@@ -1,0 +1,9 @@
+<map id="DGtal::DigitalSetBySTLVector&lt; TDomain &gt;" name="DGtal::DigitalSetBySTLVector&lt; TDomain &gt;">
+<area shape="rect" id="Node000001" title="Aim: Realizes the concept CDigitalSet by using the STL container std::vector." alt="" coords="5,71,203,111"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1DigitalSetBySTLVector.html" title=" " alt="" coords="354,5,551,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,64,226,60,353,38,354,43,227,66,209,69"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1DigitalSetBySTLVector.html" title=" " alt="" coords="354,71,551,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,88,354,88,354,94,218,94"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1DigitalSetBySTLVector.html" title=" " alt="" coords="354,136,551,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,113,227,117,353,139,353,144,226,122,206,118"/>
+</map>

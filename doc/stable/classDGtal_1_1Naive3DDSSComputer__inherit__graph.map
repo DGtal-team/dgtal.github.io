@@ -1,0 +1,9 @@
+<map id="DGtal::Naive3DDSSComputer&lt; TIterator, TInteger, connectivity &gt;" name="DGtal::Naive3DDSSComputer&lt; TIterator, TInteger, connectivity &gt;">
+<area shape="rect" id="Node000001" title="Aim: Dynamic recognition of a 3d&#45;digital straight segment (DSS)" alt="" coords="5,114,205,169"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1Naive3DDSSComputer.html" title=" " alt="" coords="426,19,625,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,103,193,87,228,74,277,61,329,53,425,44,425,50,329,58,279,66,229,79,195,92,163,108"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1Naive3DDSSComputer.html" title=" " alt="" coords="420,114,631,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,139,419,139,419,144,220,144"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1Naive3DDSSComputer.html" title=" " alt="" coords="426,193,625,234"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,165,229,167,426,198,425,203,228,172,219,171"/>
+</map>

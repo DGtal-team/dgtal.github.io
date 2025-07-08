@@ -1,0 +1,5 @@
+<map id="DGtal::detail::toCoordinateImpl&lt; DGtal::BigInteger, DGtal::BigInteger &gt;" name="DGtal::detail::toCoordinateImpl&lt; DGtal::BigInteger, DGtal::BigInteger &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,182,193"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1detail_1_1toCoordinateImpl.html" title="Aim: Define a simple functor that can cast a signed integer (possibly a DGtal::BigInteger) into anoth..." alt="" coords="5,5,182,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,62,96,137,91,137,91,62"/>
+</map>

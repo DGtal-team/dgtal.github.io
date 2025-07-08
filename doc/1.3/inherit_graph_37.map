@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,157,81"/>
-<area shape="rect" id="node2" href="$classDGtal_1_1ConstIteratorAdapter.html" title="This class adapts any iterator so that operator* returns another element than the one pointed to by t..." alt="" coords="205,5,391,60"/>
-<area shape="rect" id="node3" href="$classDGtal_1_1ReverseIterator.html" title="This class adapts any bidirectional iterator so that operator++ calls operator&#45;&#45; and vice versa." alt="" coords="221,85,375,125"/>
-</map>

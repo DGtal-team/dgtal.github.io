@@ -1,0 +1,5 @@
+<map id="DGtal::ArithmeticConversionTraits&lt; T, BigInteger, typename std::enable_if&lt; std::is_integral&lt; T &gt;::value &gt;::type &gt;" name="DGtal::ArithmeticConversionTraits&lt; T, BigInteger, typename std::enable_if&lt; std::is_integral&lt; T &gt;::value &gt;::type &gt;">
+<area shape="rect" id="Node000001" title="Specialization when first operand is a BigInteger." alt="" coords="5,158,209,228"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ArithmeticConversionTraits.html" title="Aim: Trait class to get result type of arithmetic binary operators between two given types." alt="" coords="13,5,201,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,62,110,157,104,157,104,62"/>
+</map>

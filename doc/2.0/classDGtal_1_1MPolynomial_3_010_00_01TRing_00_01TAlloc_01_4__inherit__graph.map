@@ -1,0 +1,5 @@
+<map id="DGtal::MPolynomial&lt; 0, TRing, TAlloc &gt;" name="DGtal::MPolynomial&lt; 0, TRing, TAlloc &gt;">
+<area shape="rect" id="Node000001" title="Aim: Specialization of MPolynomial for degree 0." alt="" coords="5,117,145,158"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1MPolynomial.html" title="Aim: Represents a multivariate polynomial, i.e. an element of , where K is some ring or field." alt="" coords="5,5,145,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,61,78,117,72,117,72,61"/>
+</map>

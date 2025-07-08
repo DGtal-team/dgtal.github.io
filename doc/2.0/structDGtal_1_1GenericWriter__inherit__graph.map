@@ -1,0 +1,15 @@
+<map id="DGtal::GenericWriter&lt; TContainer, Tdim, TValue, TFunctor &gt;" name="DGtal::GenericWriter&lt; TContainer, Tdim, TValue, TFunctor &gt;">
+<area shape="rect" id="Node000001" title="Aim: Provide a mechanism to save image (2D or 3D) into file with the best saver loader according to a..." alt="" coords="5,224,191,279"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1GenericWriter_3_01TContainer_00_012_00_01DGtal_1_1Color_00_01TFunctor_01_4.html" title=" " alt="" coords="406,24,559,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,209,132,178,154,145,181,114,213,88,260,66,310,53,359,47,405,45,405,50,360,52,311,58,262,71,216,93,185,117,158,148,136,181,120,211"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1GenericWriter_3_01TContainer_00_012_00_01TValue_00_01TFunctor_01_4.html" title=" " alt="" coords="401,104,564,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,212,177,190,214,172,261,156,309,145,400,133,401,138,310,150,262,162,216,177,179,195,146,217"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1GenericWriter_3_01TContainer_00_012_00_01unsigned_01char_00_01TFunctor_01_4.html" title=" " alt="" coords="397,184,568,239"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,238,396,218,397,223,206,243"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1GenericWriter_3_01TContainer_00_013_00_01DGtal_1_1uint64__t_00_01TFunctor_01_4.html" title=" " alt="" coords="406,264,559,319"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,281,215,284,314,293,405,293,405,299,314,299,214,290,197,286"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1GenericWriter_3_01TContainer_00_013_00_01TValue_00_01TFunctor_01_4.html" title=" " alt="" coords="401,344,564,399"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="137,289,173,319,216,343,261,358,309,367,400,373,400,378,309,372,260,363,214,348,170,323,134,293"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1GenericWriter_3_01TContainer_00_013_00_01unsigned_01char_00_01TFunctor_01_4.html" title=" " alt="" coords="397,424,568,479"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="118,293,134,326,155,362,183,395,216,422,259,442,306,453,353,458,397,458,397,463,352,463,305,458,257,447,213,427,179,399,151,365,129,329,113,295"/>
+</map>

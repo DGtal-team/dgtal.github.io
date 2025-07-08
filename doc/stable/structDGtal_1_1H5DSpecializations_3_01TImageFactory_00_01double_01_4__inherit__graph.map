@@ -1,0 +1,5 @@
+<map id="DGtal::H5DSpecializations&lt; TImageFactory, double &gt;" name="DGtal::H5DSpecializations&lt; TImageFactory, double &gt;">
+<area shape="rect" id="Node000001" title="Aim: implements HDF5 reading and writing for specialized type double." alt="" coords="5,117,184,158"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1H5DSpecializations.html" title="Aim: implements HDF5 reading and writing for specialized type T." alt="" coords="5,5,184,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,61,97,117,92,117,92,61"/>
+</map>

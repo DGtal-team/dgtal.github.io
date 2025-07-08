@@ -1,0 +1,7 @@
+<map id="PointConverter&lt; StorageOrder &gt;" name="PointConverter&lt; StorageOrder &gt;">
+<area shape="rect" id="Node000001" title="Converter between col&#45;major and row&#45;major storage order." alt="" coords="87,5,296,31"/>
+<area shape="rect" id="Node000002" href="$structPointConverter_3_01ColMajorStorage_01_4.html" title=" " alt="" coords="5,102,178,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,41,135,57,117,80,103,103,98,100,112,76,131,53,152,37"/>
+<area shape="rect" id="Node000003" href="$structPointConverter_3_01RowMajorStorage_01_4.html" title=" " alt="" coords="202,102,381,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,36,264,53,280,77,289,101,284,103,275,79,260,57,239,41"/>
+</map>

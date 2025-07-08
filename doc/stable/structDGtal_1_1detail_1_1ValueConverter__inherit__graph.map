@@ -1,0 +1,11 @@
+<map id="DGtal::detail::ValueConverter&lt; X, Y &gt;" name="DGtal::detail::ValueConverter&lt; X, Y &gt;">
+<area shape="rect" id="Node000001" title="Generic definition of a class for converting type X toward type Y." alt="" coords="5,104,197,145"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1detail_1_1ValueConverter_3_01X_00_01std_1_1string_01_4.html" title="Specialized definitions of a class for converting type X toward type Y." alt="" coords="381,5,572,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,95,220,71,301,51,380,36,381,41,302,56,221,76,159,100"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1detail_1_1ValueConverter_3_01std_1_1string_00_01double_01_4.html" title="Specialized definitions of a class for converting type X toward type Y." alt="" coords="381,71,572,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,112,380,97,381,102,212,117"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1detail_1_1ValueConverter_3_01std_1_1string_00_01float_01_4.html" title="Specialized definitions of a class for converting type X toward type Y." alt="" coords="381,136,572,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,140,221,141,381,151,380,157,220,146,212,145"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1detail_1_1ValueConverter_3_01std_1_1string_00_01int_01_4.html" title="Specialized definitions of a class for converting type X toward type Y." alt="" coords="381,201,572,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="154,150,222,178,302,198,381,210,380,216,301,203,220,183,152,155"/>
+</map>

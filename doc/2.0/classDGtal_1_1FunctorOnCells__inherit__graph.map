@@ -1,0 +1,5 @@
+<map id="DGtal::FunctorOnCells&lt; TFunctorOnPoints, TKSpace &gt;" name="DGtal::FunctorOnCells&lt; TFunctorOnPoints, TKSpace &gt;">
+<area shape="rect" id="Node000001" title="Aim: Convert a functor on Digital Point to a Functor on Khalimsky Cell." alt="" coords="5,5,219,46"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1FunctorOnCells.html" title=" " alt="" coords="35,137,189,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,62,115,137,109,137,109,62"/>
+</map>

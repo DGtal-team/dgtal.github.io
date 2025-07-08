@@ -1,0 +1,9 @@
+<map id="DGtal::SimpleMatrixSpecializations&lt; TMatrix, TM, TN &gt;" name="DGtal::SimpleMatrixSpecializations&lt; TMatrix, TM, TN &gt;">
+<area shape="rect" id="Node000001" title="Aim: Implement internal matrix services for specialized matrix size." alt="" coords="5,71,233,111"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1SimpleMatrixSpecializations_3_01TMatrix_00_011_00_011_01_4.html" title="Aim:" alt="" coords="387,5,614,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,65,256,60,386,39,387,44,257,66,235,70"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1SimpleMatrixSpecializations_3_01TMatrix_00_012_00_012_01_4.html" title="Aim:" alt="" coords="387,71,614,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,88,386,88,386,94,248,94"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1SimpleMatrixSpecializations_3_01TMatrix_00_013_00_013_01_4.html" title="Aim:" alt="" coords="387,136,614,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,112,257,117,387,138,386,143,256,122,232,117"/>
+</map>
