@@ -37,7 +37,6 @@ DGtal now has a plugin for [paraview](http://paraview.org)  which is available a
 
 * Shortcuts are also available in the Python wrapper.
 
-TODO: code snippet
 
 ``` python
 from dgtal import *
