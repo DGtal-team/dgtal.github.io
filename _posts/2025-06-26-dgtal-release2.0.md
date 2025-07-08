@@ -22,9 +22,11 @@ The new version of DGtal (2.0) includes a brand new viewer that is based on [Pol
 
 
 ## DGtal Paraview Plugin
-DGtal now has a plugin for [paraview](http://paraview.org)  which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). The main motivation is to use DGtal geometry processing tools in a VTK/Paraview pipeline, widely used in scientific data visualization (medical imagine, material sciences...). For now, this plugin binds most of the Shortcuts and Geometry Shortcuts with a mapping between DGtal and vtk/paraview voxel-based object.
 
-![](img/paraview.png) 
+DGtal now has a plugin for [paraview](http://paraview.org)  which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). The main motivation is to use DGtal geometry processing tools in a VTK/Paraview pipeline, widely used in scientific data visualization (medical imagine, material sciences...). For now, this plugin binds most of the Shortcuts and Geometry Shortcuts with a mapping between DGtal and vtk/paraview voxel-based objects.
+
+![](../img/paraview.png) 
+
 
 ## New Geometry Shortcuts
 
@@ -53,12 +55,10 @@ normals = SH3.getIINormalVectors(al_capone, surfels, params)
 meanCurvs  = SH3.getIIMeanCurvatures(al_capone, surfels, params)
 gaussCurvs = SH3.getIIGaussianCurvatures(al_capone, surfels, params)
  
-# Display information
-XXXXX TODOOO 
+# Display information with polyscope 
 points  = pos[:, np.newaxis, :] + cubes
 points  = points.reshape(len(pos) * 8 , 3)
 indices = np.arange(len(pos) * 8).reshape(len(pos), 8)
- 
 ps.init()
 vmesh = ps.register_volume_mesh("Al", points, hexes=indices)
 vmesh.add_scalar_quantity("Mean Curvature", np.asarray(meanCurvs), defined_on='cells', enabled=False)
@@ -75,9 +75,9 @@ ps.show()
   * [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
   * [Ponca](https://poncateam.github.io/ponca/index.html)
   * [Polyscope](https://polyscope.run/) (see viewer section below)
-* `Patate` was upgraded to [Ponca](https://poncateam.github.io/ponca/index.html) for point cloud based differential estimators
-* `GMP` is no longer used; instead, we only rely on  Boost Multiprecision (with its own backend) for arbitrary precision integers  (enabled by default)
-* `Qt` and `libqglviewer` is no longer required for the viewer.
+* `Patate` was upgraded to [Ponca](https://poncateam.github.io/ponca/index.html) for point cloud based differential estimators.
+* `GMP` is no longer used; instead, we only rely on  Boost Multiprecision (with its own backend) for arbitrary precision integers  (enabled by default).
+* `Qt` and `libqglviewer` are no longer required for the viewer.
 * CI and CD are now built on top of actions that can be reused. These actions are used with side repositories.
 
 ## Breaking Changes
