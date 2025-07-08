@@ -24,7 +24,7 @@ The new version of DGtal (2.0) includes a brand new viewer that is based on [Pol
 ## DGtal Paraview Plugin
 DGtal now has a plugin for [paraview](http://paraview.org)  which is available at [https://github.com/DGtal-team/DGtal-paraview](https://github.com/DGtal-team/DGtal-paraview). The main motivation is to use DGtal geometry processing tools in a VTK/Paraview pipeline, widely used in scientific data visualization (medical imagine, material sciences...). For now, this plugin binds most of the Shortcuts and Geometry Shortcuts with a mapping between DGtal and vtk/paraview voxel-based object.
 
-SNAPSHOT 
+![](img/paraview.png) 
 
 ## New Geometry Shortcuts
 
@@ -91,6 +91,7 @@ The new minimal standard is now C++20, which replaced the previous standard of C
 
 ## Links
 
+  * [Discord server](https://discord.gg/zTyCYdfA)
   * DGtal 2.0: [http://dgtal.org/download/](http://dgtal.org/download)
   * Complete changelogs:
       * [https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md](https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md)
