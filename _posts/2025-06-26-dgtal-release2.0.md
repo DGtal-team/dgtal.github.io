@@ -4,8 +4,6 @@ title: DGtal release 2.0
 ---
 
 
-# DGtal release 2.0
-
 We are happy to announce the major release 2.0 of DGtal. This big update makes the library more modern, in both how it is built and the tools it uses. This release also includes new features in both the C++ library and its python binding. Let us take a look at the big changes (see more in the [Changelog](https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md) section).
 
 
