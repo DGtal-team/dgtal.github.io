@@ -1,0 +1,5 @@
+<map id="DGtal::detail::PointOnProbingRay&lt; Integer, Index &gt;" name="DGtal::detail::PointOnProbingRay&lt; Integer, Index &gt;">
+<area shape="rect" id="Node000001" title="A ray consists of a permutation &#160;and an integer index &#160;(position on the ray). For a triplet of vector..." alt="" coords="5,5,199,46"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="215,21,225,26,199,32,199,26,220,25,213,26"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="214,16,297,17,324,19,336,26,322,32,291,35,199,36,199,30,291,30,321,27,331,26,323,25,296,22,214,21"/>
+</map>

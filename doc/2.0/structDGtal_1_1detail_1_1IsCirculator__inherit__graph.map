@@ -1,0 +1,7 @@
+<map id="DGtal::detail::IsCirculator&lt; IC, flagHasNestedTypeCalledType &gt;" name="DGtal::detail::IsCirculator&lt; IC, flagHasNestedTypeCalledType &gt;">
+<area shape="rect" id="Node000001" title="Aim: Checks whether type IC is a circular or a classical iterator. Static value set to &#39;true&#39; for a c..." alt="" coords="5,54,253,94"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1detail_1_1IsCirculator.html" title=" " alt="" coords="476,10,692,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,60,475,44,476,49,269,66"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1detail_1_1IsCirculator_3_01IC_00_01true_01_4.html" title=" " alt="" coords="499,90,668,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,86,277,86,499,102,499,108,276,92,268,91"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DGtal::DigitalSurface&lt; TDigitalSurfaceContainer &gt;" name="DGtal::DigitalSurface&lt; TDigitalSurfaceContainer &gt;">
+<area shape="rect" id="Node000001" title="Aim: Represents a set of n&#45;1&#45;cells in a nD space, together with adjacency relation between these cell..." alt="" coords="5,104,197,145"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1DigitalSurface.html" title=" " alt="" coords="442,5,625,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,95,220,70,334,45,441,30,441,36,335,50,221,75,157,100"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1DigitalSurface.html" title=" " alt="" coords="446,71,620,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,113,446,95,446,100,213,118"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1DigitalSurface.html" title=" " alt="" coords="439,136,628,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,140,221,141,334,149,438,153,438,158,333,154,220,146,212,145"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1DigitalSurface.html" title=" " alt="" coords="433,201,634,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="151,150,185,167,221,181,275,194,329,204,432,215,432,221,329,209,273,199,220,186,183,172,148,155"/>
+</map>

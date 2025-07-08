@@ -1,0 +1,7 @@
+<map id="DGtal::SimpleRandomAccessRangeFromPoint&lt; TConstIterator, TIterator, DistanceFunctor &gt;" name="DGtal::SimpleRandomAccessRangeFromPoint&lt; TConstIterator, TIterator, DistanceFunctor &gt;">
+<area shape="rect" id="Node000001" title="Aim: model of CBidirectionalRangeFromPoint that adapts any range of elements bounded by two iterators..." alt="" coords="5,57,224,113"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1SimpleRandomAccessRangeFromPoint.html" title=" " alt="" coords="457,9,668,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,64,247,63,457,43,457,48,248,69,239,70"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1SimpleRandomAccessRangeFromPoint.html" title=" " alt="" coords="448,96,677,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,115,248,127,350,137,447,137,447,142,349,142,247,132,199,120"/>
+</map>

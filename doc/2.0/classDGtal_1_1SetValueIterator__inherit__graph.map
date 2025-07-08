@@ -1,0 +1,7 @@
+<map id="DGtal::SetValueIterator&lt; TImage, TIteratorOnPts &gt;" name="DGtal::SetValueIterator&lt; TImage, TIteratorOnPts &gt;">
+<area shape="rect" id="Node000001" title="Aim: implements an output iterator, which is able to write values in an underlying image,..." alt="" coords="5,55,189,95"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1SetValueIterator.html" title=" " alt="" coords="447,11,638,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,64,446,44,446,49,204,69"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1SetValueIterator.html" title=" " alt="" coords="464,91,620,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,90,213,91,346,102,464,107,464,112,345,107,212,97,204,96"/>
+</map>

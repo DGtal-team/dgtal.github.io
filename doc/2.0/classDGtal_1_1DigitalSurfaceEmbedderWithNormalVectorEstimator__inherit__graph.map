@@ -1,0 +1,5 @@
+<map id="DGtal::DigitalSurfaceEmbedderWithNormalVectorEstimator&lt; TDigitalSurfaceEmbedder, TNormalVectorEstimator &gt;" name="DGtal::DigitalSurfaceEmbedderWithNormalVectorEstimator&lt; TDigitalSurfaceEmbedder, TNormalVectorEstimator &gt;">
+<area shape="rect" id="Node000001" title="Aim: Combines a digital surface embedder with a normal vector estimator to get a model of CDigitalSur..." alt="" coords="5,13,210,84"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1DigitalSurfaceEmbedderWithNormalVectorEstimator.html" title=" " alt="" coords="426,13,630,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,46,425,46,425,51,225,51"/>
+</map>

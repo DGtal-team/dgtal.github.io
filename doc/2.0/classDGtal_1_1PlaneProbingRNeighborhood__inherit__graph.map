@@ -1,0 +1,9 @@
+<map id="DGtal::PlaneProbingRNeighborhood&lt; TPredicate &gt;" name="DGtal::PlaneProbingRNeighborhood&lt; TPredicate &gt;">
+<area shape="rect" id="Node000001" title="Aim: Represent a way to probe the R&#45;neighborhood." alt="" coords="274,39,504,79"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1PlaneProbingLNeighborhood.html" title="Aim: Represents a way to probe the L&#45;neighborhood, see lu2022 for details." alt="" coords="557,5,784,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="519,41,556,36,557,42,520,46"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1PlaneProbingR1Neighborhood.html" title="Aim: Represent a way to probe the R&#45;neighborhood, with the R1 optimization, see rldgci2019 for detail..." alt="" coords="552,71,789,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="520,71,552,75,551,80,519,76"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1PlaneProbingNeighborhood.html" title="Aim: A base virtual class that represents a way to probe a neighborhood, used in the plane probing ba..." alt="" coords="5,39,226,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,56,273,56,273,62,241,62"/>
+</map>

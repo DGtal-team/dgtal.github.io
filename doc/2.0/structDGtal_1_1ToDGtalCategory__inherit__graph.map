@@ -1,0 +1,23 @@
+<map id="DGtal::ToDGtalCategory&lt; C &gt;" name="DGtal::ToDGtalCategory&lt; C &gt;">
+<area shape="rect" id="Node000001" title="Aim: Provides the DGtal category matching C &#160;&#160;{ForwardCategory,BidirectionalCategory,..." alt="" coords="5,568,204,594"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ToDGtalCategory.html" title=" " alt="" coords="520,82,686,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,552,121,455,145,326,161,261,180,203,202,156,226,125,262,100,303,83,345,73,389,67,474,69,545,78,544,84,473,74,389,73,346,78,304,88,265,105,229,129,206,159,185,205,166,263,150,327,126,456,112,553"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1ToDGtalCategory_3_01boost_1_1bidirectional__traversal__tag_01_4.html" title=" " alt="" coords="521,141,685,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,553,106,479,112,433,122,382,138,331,159,282,188,237,226,199,242,192,268,187,343,178,520,169,520,174,344,184,269,192,243,198,229,203,193,240,164,285,143,333,127,384,117,433,111,480,108,553"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1ToDGtalCategory_3_01boost_1_1forward__traversal__tag_01_4.html" title=" " alt="" coords="498,224,708,264"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,552,113,492,133,414,148,374,169,335,194,300,226,271,264,260,332,253,497,244,497,249,332,258,265,266,229,276,198,304,173,338,153,376,138,416,118,493,110,553"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1ToDGtalCategory_3_01boost_1_1iterators_1_1detail_1_1iterator__category__with__tra5f13519ab9c7b4373448083983b5e2c4.html" title=" " alt="" coords="468,336,738,421"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="114,553,130,518,155,478,186,438,226,407,269,392,328,383,467,375,468,380,329,388,270,398,229,412,190,442,159,481,135,521,119,555"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1ToDGtalCategory_3_01boost_1_1iterators_1_1detail_1_1iterator__category__with__tra1420f29943a047e87f8a1879f4727e46.html" title=" " alt="" coords="481,470,724,556"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="154,560,227,540,358,522,480,513,481,518,358,527,228,545,156,565"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1ToDGtalCategory_3_01boost_1_1iterators_1_1detail_1_1iterator__category__with__trae914f9a0929cf720e4391e298ea12c0c.html" title=" " alt="" coords="457,586,749,672"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="138,601,179,625,228,644,285,655,343,659,401,657,456,653,456,658,401,663,343,664,284,660,227,649,177,630,135,605"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1ToDGtalCategory_3_01boost_1_1random__access__traversal__tag_01_4.html" title=" " alt="" coords="520,696,686,752"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="124,606,166,660,195,687,229,708,265,721,302,731,379,741,454,741,520,735,520,741,454,746,379,746,301,736,263,726,226,712,192,691,162,664,119,609"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1ToDGtalCategory_3_01std_1_1bidirectional__iterator__tag_01_4.html" title=" " alt="" coords="497,777,709,818"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="115,608,129,651,151,702,184,752,205,773,229,790,249,798,275,804,343,810,421,809,496,805,496,810,421,814,343,815,274,809,247,803,226,795,202,777,180,755,147,705,124,653,110,610"/>
+<area shape="rect" id="Node000010" href="$structDGtal_1_1ToDGtalCategory_3_01std_1_1forward__iterator__tag_01_4.html" title=" " alt="" coords="510,852,696,892"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="111,609,121,664,141,734,156,769,176,803,200,833,229,858,249,868,277,875,349,881,431,881,509,877,509,883,431,887,349,887,276,880,248,873,226,863,196,837,171,806,151,772,136,736,115,665,106,610"/>
+<area shape="rect" id="Node000011" href="$structDGtal_1_1ToDGtalCategory_3_01std_1_1random__access__iterator__tag_01_4.html" title=" " alt="" coords="485,926,720,967"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="108,609,113,678,130,768,145,814,166,859,194,899,229,932,263,952,299,966,338,974,377,978,455,976,523,965,524,970,455,981,377,983,337,979,298,971,260,957,226,936,190,902,162,861,140,816,125,769,108,679,103,610"/>
+</map>

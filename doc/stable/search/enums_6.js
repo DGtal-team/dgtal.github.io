@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['imagebelongtestability_0',['ImageBelongTestability',['../namespaceDGtal.html#afbda75b83fdb9094d0e38931838c8d6a',1,'DGtal']]],
-  ['imagedirection_1',['ImageDirection',['../classDGtal_1_1Viewer3D.html#ac62e198b80da8dcedc191434a2075f9e',1,'DGtal::Viewer3D']]],
-  ['imageiterability_2',['ImageIterability',['../namespaceDGtal.html#a7f3384cac6dea91b4d46cc1421854dda',1,'DGtal']]],
-  ['imagespecificcontainer_3',['ImageSpecificContainer',['../namespaceDGtal.html#a0a142484d2c7efc3d29f5bbde3b449b7',1,'DGtal']]]
+  ['linecap_0',['LineCap',['../structLibBoard_1_1Shape.html#af09a3c6f719c8a846447c0cd2e2d0368',1,'LibBoard::Shape']]],
+  ['linejoin_1',['LineJoin',['../structLibBoard_1_1Shape.html#a5618d9c1f412d36189695c557f1b9be2',1,'LibBoard::Shape']]],
+  ['linestyle_2',['LineStyle',['../structLibBoard_1_1Shape.html#ad9b9ccfae0a74f1d681cb126a225c900',1,'LibBoard::Shape']]]
 ];

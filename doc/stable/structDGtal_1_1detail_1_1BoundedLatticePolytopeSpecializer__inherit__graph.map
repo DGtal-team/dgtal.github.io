@@ -1,0 +1,5 @@
+<map id="DGtal::detail::BoundedLatticePolytopeSpecializer&lt; N, TInteger &gt;" name="DGtal::detail::BoundedLatticePolytopeSpecializer&lt; N, TInteger &gt;">
+<area shape="rect" id="Node000001" title="Aim: It is just a helper class for BoundedLatticePolytope to add dimension specific static methods." alt="" coords="5,5,232,46"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1detail_1_1BoundedLatticePolytopeSpecializer_3_013_00_01TInteger_01_4.html" title="Aim: 3D specialization for BoundedLatticePolytope to add dimension specific static methods." alt="" coords="7,117,230,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,61,121,117,116,117,116,61"/>
+</map>

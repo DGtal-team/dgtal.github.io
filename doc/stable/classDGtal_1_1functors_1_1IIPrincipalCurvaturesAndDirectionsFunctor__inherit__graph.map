@@ -1,0 +1,5 @@
+<map id="DGtal::functors::IIPrincipalCurvaturesAndDirectionsFunctor&lt; TSpace, TMatrix &gt;" name="DGtal::functors::IIPrincipalCurvaturesAndDirectionsFunctor&lt; TSpace, TMatrix &gt;">
+<area shape="rect" id="Node000001" title="Aim: A functor Matrix &#45;&gt; std::pair&lt;RealVector,RealVector&gt; that returns the first and the second princ..." alt="" coords="5,5,217,61"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1functors_1_1IIPrincipalCurvaturesAndDirectionsFunctor.html" title=" " alt="" coords="27,132,195,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,77,114,131,108,131,108,77"/>
+</map>

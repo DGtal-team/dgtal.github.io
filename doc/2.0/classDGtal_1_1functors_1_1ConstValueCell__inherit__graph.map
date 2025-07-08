@@ -1,0 +1,5 @@
+<map id="DGtal::functors::ConstValueCell&lt; TQuantity, TCell &gt;" name="DGtal::functors::ConstValueCell&lt; TQuantity, TCell &gt;">
+<area shape="rect" id="Node000001" title="Aim: Define a simple functor that returns a constant quantity (0 by default)." alt="" coords="5,5,191,46"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1functors_1_1ConstValueCell.html" title=" " alt="" coords="5,117,191,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,61,101,117,95,117,95,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DGtal::functors::BinaryPointPredicate&lt; TPointPredicate1, TPointPredicate2, AndBoolFct2 &gt;" name="DGtal::functors::BinaryPointPredicate&lt; TPointPredicate1, TPointPredicate2, AndBoolFct2 &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="464,41,683,97"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1functors_1_1BinaryPointPredicate.html" title="Aim: The predicate returns true when the given binary functor returns true for the two PointPredicate..." alt="" coords="5,41,240,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,66,463,66,463,72,255,72"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DGtal::ContainerTraits&lt; std::unordered_set&lt; Key, Hash, Pred, Alloc &gt; &gt;" name="DGtal::ContainerTraits&lt; std::unordered_set&lt; Key, Hash, Pred, Alloc &gt; &gt;">
+<area shape="rect" id="Node000001" title="Defines container traits for std::unordered_set&lt;&gt;." alt="" coords="5,137,186,193"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ContainerTraits.html" title="Defines default container traits for arbitrary types." alt="" coords="19,5,172,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,62,98,137,93,137,93,62"/>
+</map>

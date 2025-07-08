@@ -1,0 +1,9 @@
+<map id="DGtal::SurfaceMesh&lt; TRealPoint, TRealVector &gt;" name="DGtal::SurfaceMesh&lt; TRealPoint, TRealVector &gt;">
+<area shape="rect" id="Node000001" title="Aim: Represents an embedded mesh as faces and a list of vertices. Vertices may be shared among faces ..." alt="" coords="5,71,197,111"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1SurfaceMesh.html" title=" " alt="" coords="407,5,582,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,64,220,60,406,33,407,38,221,66,201,70"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1SurfaceMesh.html" title=" " alt="" coords="411,71,578,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,88,411,88,411,94,212,94"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1SurfaceMesh.html" title=" " alt="" coords="423,138,566,194"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,115,221,137,326,155,423,162,422,167,326,160,220,142,157,120"/>
+</map>

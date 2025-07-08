@@ -1,0 +1,9 @@
+<map id="DGtal::SaturatedSegmentation&lt; TSegmentComputer &gt;" name="DGtal::SaturatedSegmentation&lt; TSegmentComputer &gt;">
+<area shape="rect" id="Node000001" title="Aim: Computes the saturated segmentation, that is the whole set of maximal segments within a range gi..." alt="" coords="5,71,205,111"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1SaturatedSegmentation.html" title=" " alt="" coords="458,5,658,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,64,228,60,347,43,458,31,458,37,348,49,229,66,208,70"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1SaturatedSegmentation.html" title=" " alt="" coords="458,71,658,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,88,458,88,458,94,220,94"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1SaturatedSegmentation.html" title=" " alt="" coords="452,136,664,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,112,229,117,344,133,452,145,451,150,343,139,228,122,205,118"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="DGtal::functors::Point2ShapePredicate&lt; TSurface, isUpward, isClosed &gt;" name="DGtal::functors::Point2ShapePredicate&lt; TSurface, isUpward, isClosed &gt;">
+<area shape="rect" id="Node000001" title="Aim: Predicate returning &#39;true&#39; iff a given point is in the &#39;interior&#39; of a given shape,..." alt="" coords="5,201,214,257"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1functors_1_1Point2ShapePredicate.html" title=" " alt="" coords="405,5,598,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,187,185,146,236,108,277,88,320,71,404,47,405,53,322,76,279,93,239,113,188,150,146,191"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1functors_1_1Point2ShapePredicate.html" title=" " alt="" coords="405,85,598,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,193,237,173,322,149,404,129,405,135,324,154,239,178,187,198"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1functors_1_1Point2ShapePredicate.html" title=" " alt="" coords="405,165,598,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,216,405,199,405,205,230,221"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1functors_1_1Point2ShapePredicate.html" title=" " alt="" coords="403,245,600,286"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="230,241,238,242,402,256,402,261,237,247,229,246"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1functors_1_1Point2ShapePredicate.html" title=" " alt="" coords="405,309,598,365"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="184,261,238,282,323,304,405,320,404,325,322,309,237,287,182,266"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1functors_1_1Point2ShapePredicate.html" title=" " alt="" coords="405,389,598,445"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="146,266,188,307,239,343,279,362,322,378,405,400,404,405,320,383,277,367,236,348,185,311,142,270"/>
+</map>

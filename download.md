@@ -4,7 +4,7 @@ title: Download
 ---
 ### Releases
 
-* Last stable DGtal release: [DGtal 1.4.2][2]
+* Last stable DGtal release: [DGtal 2.0][2]
 
 ### Development version
 
@@ -14,22 +14,19 @@ title: Download
 
 ### Requirements
 
-* C++ compiler with C++11 features (gcc&gt;=4.7, clang &gt;= 3.0, VS14,...)
-* [cmake][4] to generate the project and compile the library (&gt;=2.6)
-* [boost][5] (&gt;= 1.46)
+* C++ compiler with C++20 features
+* [cmake][4] to generate the project and compile the library (&gt;=3.20)
 * [zlib][13] for compressed Vol files
 
 &nbsp;
 
-### Optional dependencies
+### Main optional dependencies
 
-* [Gnu Multiprecision Arithmetic Library][6] (GMP) (arbitrarily large integers)
-* [libQGLViewer][7] interactive viewer of 3D objects (see "stream 3D" in the documentation), libQGLViewer would require to have OpenGL and QT4 installed on your system.
-* [CGAL][8] (to be able to consider point cloud based differential estimators).
+* [polyscope](http://polyscope.run) for the built-in 3d viewer
 * [InsightToolkit][9] (ITK) to merge ITK pipelines in DGtal via the image container.
 * [doxygen][11] (to generate the source code documentation)
-* C++ compiler with cpp0x instructions (gcc &gt;= 4.4, Visual C++ 2010, ...)
-
+* [CGAL][8] to be able to consider point cloud based differential estimators.
+* [Ponca](https://github.com/poncateam/ponca) for point cloud based differential estimators
 ### How to build the library
 See also [ the dedicated page][12] in the DGtal documentation.
 

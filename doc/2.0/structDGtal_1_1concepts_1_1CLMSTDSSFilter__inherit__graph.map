@@ -1,0 +1,9 @@
+<map id="DGtal::concepts::CLMSTDSSFilter&lt; T &gt;" name="DGtal::concepts::CLMSTDSSFilter&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Defines the concept describing a functor which filters DSSes for L&#45;MST calculations." alt="" coords="266,55,524,80"/>
+<area shape="rect" id="Node000002" href="$structboost_1_1DefaultConstructible.html" title="Go to http://www.sgi.com/tech/stl/DefaultConstructible.html." alt="" coords="5,5,218,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,32,317,51,316,57,204,37"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1CopyConstructible.html" title="Go to http://www.sgi.com/tech/stl/CopyConstructible.html." alt="" coords="11,55,212,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,65,265,65,265,70,228,70"/>
+<area shape="rect" id="Node000004" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="33,104,190,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,98,316,78,317,84,205,103"/>
+</map>

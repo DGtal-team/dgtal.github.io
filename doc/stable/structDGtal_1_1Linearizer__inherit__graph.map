@@ -1,0 +1,9 @@
+<map id="DGtal::Linearizer&lt; TDomain, TStorageOrder &gt;" name="DGtal::Linearizer&lt; TDomain, TStorageOrder &gt;">
+<area shape="rect" id="Node000001" title="Aim: Linearization and de&#45;linearization interface for domains." alt="" coords="5,80,189,121"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1Linearizer.html" title=" " alt="" coords="440,5,627,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,71,212,52,330,33,439,25,440,30,330,38,213,58,157,76"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1Linearizer.html" title=" " alt="" coords="419,80,648,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,98,418,98,418,103,204,103"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1Linearizer_3_01HyperRectDomain_3_01TSpace_01_4_00_01TStorageOrder_01_4.html" title="Aim: Linearization and de&#45;linearization interface for HyperRectDomain." alt="" coords="438,147,628,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,125,213,146,271,158,329,166,438,173,438,178,329,171,270,163,212,152,151,130"/>
+</map>

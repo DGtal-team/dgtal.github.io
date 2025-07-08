@@ -1,0 +1,5 @@
+<map id="DGtal::ContainerTraits&lt; boost::unordered_map&lt; Value, T, Hash, Pred, Alloc &gt; &gt;" name="DGtal::ContainerTraits&lt; boost::unordered_map&lt; Value, T, Hash, Pred, Alloc &gt; &gt;">
+<area shape="rect" id="Node000001" title="Defines container traits for boost::unordered_map&lt;&gt;." alt="" coords="5,158,168,228"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ContainerTraits.html" title="Defines default container traits for arbitrary types." alt="" coords="10,5,163,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,62,89,157,84,157,84,62"/>
+</map>

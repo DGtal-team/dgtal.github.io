@@ -1,0 +1,13 @@
+<map id="DGtal::concepts::CIncrementalPrimitiveComputer&lt; T &gt;" name="DGtal::concepts::CIncrementalPrimitiveComputer&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Defines the concept describing an object that computes some primitive from input points given on..." alt="" coords="499,47,701,88"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1concepts_1_1CAdditivePrimitiveComputer.html" title="Aim: Defines the concept describing an object that computes some primitive from input points given gr..." alt="" coords="749,47,931,88"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="717,65,749,65,749,70,717,70"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1concepts_1_1CPrimitiveComputer.html" title="Aim: Defines the concept describing an object that computes some primitive from input points,..." alt="" coords="266,47,451,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,65,499,65,499,70,467,70"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1DefaultConstructible.html" title="Go to http://www.sgi.com/tech/stl/DefaultConstructible.html." alt="" coords="5,5,218,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,32,266,46,265,52,194,37"/>
+<area shape="rect" id="Node000004" href="$structboost_1_1CopyConstructible.html" title="Go to http://www.sgi.com/tech/stl/CopyConstructible.html." alt="" coords="11,55,212,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="228,65,265,65,265,70,228,70"/>
+<area shape="rect" id="Node000005" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="33,104,190,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="194,98,265,83,266,89,195,103"/>
+</map>

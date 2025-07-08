@@ -1,0 +1,7 @@
+<map id="LibBoard::GouraudTriangle" name="LibBoard::GouraudTriangle">
+<area shape="rect" id="Node000001" title="A triangle with shaded filling according to colors given for each vertex." alt="" coords="5,153,181,178"/>
+<area shape="rect" id="Node000002" href="$structLibBoard_1_1Polyline.html" title="A polygonal line described by a series of 2D points." alt="" coords="30,79,156,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,120,96,152,90,152,90,120"/>
+<area shape="rect" id="Node000003" href="$structLibBoard_1_1Shape.html" title="Abstract structure for a 2D shape." alt="" coords="34,5,152,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,46,96,79,90,79,90,46"/>
+</map>

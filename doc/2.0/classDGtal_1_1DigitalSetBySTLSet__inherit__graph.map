@@ -1,0 +1,9 @@
+<map id="DGtal::DigitalSetBySTLSet&lt; TDomain, TCompare &gt;" name="DGtal::DigitalSetBySTLSet&lt; TDomain, TCompare &gt;">
+<area shape="rect" id="Node000001" title="Aim: A container class for storing sets of digital points within some given domain." alt="" coords="5,71,186,111"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1DigitalSetBySTLSet.html" title=" " alt="" coords="372,5,552,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,64,209,60,371,34,372,39,210,66,193,69"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1DigitalSetBySTLSet.html" title=" " alt="" coords="372,71,552,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,88,371,88,371,94,201,94"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1DigitalSetBySTLSet.html" title=" " alt="" coords="372,136,552,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,113,210,117,372,143,371,148,209,122,190,118"/>
+</map>

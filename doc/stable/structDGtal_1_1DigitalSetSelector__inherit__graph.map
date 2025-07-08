@@ -1,0 +1,9 @@
+<map id="DGtal::DigitalSetSelector&lt; Domain, Preferences &gt;" name="DGtal::DigitalSetSelector&lt; Domain, Preferences &gt;">
+<area shape="rect" id="Node000001" title="Aim: Automatically defines an adequate digital set type according to the hints given by the user." alt="" coords="5,99,174,139"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1DigitalSetSelector.html" title=" " alt="" coords="392,24,544,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,90,197,71,298,53,391,44,392,49,298,58,198,76,147,95"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1DigitalSetSelector.html" title=" " alt="" coords="392,99,544,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,116,391,116,391,122,189,122"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1DigitalSetSelector.html" title=" " alt="" coords="392,173,544,214"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,144,198,165,248,176,298,183,391,190,391,196,298,189,247,181,197,170,142,149"/>
+</map>

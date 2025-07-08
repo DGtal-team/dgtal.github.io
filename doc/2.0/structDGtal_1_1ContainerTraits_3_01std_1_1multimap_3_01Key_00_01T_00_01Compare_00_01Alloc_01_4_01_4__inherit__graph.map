@@ -1,0 +1,5 @@
+<map id="DGtal::ContainerTraits&lt; std::multimap&lt; Key, T, Compare, Alloc &gt; &gt;" name="DGtal::ContainerTraits&lt; std::multimap&lt; Key, T, Compare, Alloc &gt; &gt;">
+<area shape="rect" id="Node000001" title="Defines container traits for std::multimap&lt;&gt;." alt="" coords="5,137,158,193"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ContainerTraits.html" title="Defines default container traits for arbitrary types." alt="" coords="5,5,158,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,62,84,137,79,137,79,62"/>
+</map>

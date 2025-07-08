@@ -1,0 +1,9 @@
+<map id="DGtal::CanonicEmbedder&lt; TSpace &gt;" name="DGtal::CanonicEmbedder&lt; TSpace &gt;">
+<area shape="rect" id="Node000001" title="Aim: A trivial embedder for digital points, which corresponds to the canonic injection of Zn into Rn." alt="" coords="5,71,176,111"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1CanonicEmbedder.html" title=" " alt="" coords="319,5,489,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,64,199,60,318,37,319,42,200,66,185,69"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1CanonicEmbedder.html" title=" " alt="" coords="319,71,489,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,88,318,88,318,94,192,94"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1CanonicEmbedder.html" title=" " alt="" coords="319,136,489,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,113,200,117,319,140,318,145,199,122,183,118"/>
+</map>

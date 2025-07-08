@@ -1,0 +1,7 @@
+<map id="DGtal::detail::toCoordinateImpl&lt; TInput, TOutput &gt;" name="DGtal::detail::toCoordinateImpl&lt; TInput, TOutput &gt;">
+<area shape="rect" id="Node000001" title="Aim: Define a simple functor that can cast a signed integer (possibly a DGtal::BigInteger) into anoth..." alt="" coords="5,55,182,96"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1detail_1_1toCoordinateImpl_3_01DGtal_1_1BigInteger_00_01DGtal_1_1BigInteger_01_4.html" title=" " alt="" coords="363,8,539,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,62,362,43,362,48,197,67"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1detail_1_1toCoordinateImpl_3_01DGtal_1_1BigInteger_00_01TOutput_01_4.html" title=" " alt="" coords="363,88,539,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,99,206,108,286,116,362,117,362,123,285,122,205,114,163,104"/>
+</map>

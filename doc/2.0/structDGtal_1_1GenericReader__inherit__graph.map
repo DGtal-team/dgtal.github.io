@@ -1,0 +1,13 @@
+<map id="DGtal::GenericReader&lt; TContainer, Tdim, TValue &gt;" name="DGtal::GenericReader&lt; TContainer, Tdim, TValue &gt;">
+<area shape="rect" id="Node000001" title="Aim: Provide a mechanism to load with the bestloader according to an image (2D or 3D) filename (by pa..." alt="" coords="5,167,199,208"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1GenericReader_3_01TContainer_00_012_00_01DGtal_1_1uint32__t_01_4.html" title=" " alt="" coords="414,13,567,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,154,172,118,221,87,269,69,319,56,413,42,413,47,320,61,271,74,224,92,175,123,135,158"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1GenericReader_3_01TContainer_00_012_00_01TValue_01_4.html" title=" " alt="" coords="405,92,576,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,158,222,139,316,122,404,114,404,119,316,128,223,144,165,163"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1GenericReader_3_01TContainer_00_013_00_01DGtal_1_1uint32__t_01_4.html" title=" " alt="" coords="414,158,567,214"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,184,413,183,413,189,214,189"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1GenericReader_3_01TContainer_00_013_00_01DGtal_1_1uint64__t_01_4.html" title=" " alt="" coords="414,238,567,294"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,212,223,233,322,251,414,260,413,266,321,257,222,238,159,217"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1GenericReader_3_01TContainer_00_013_00_01TValue_01_4.html" title=" " alt="" coords="405,318,576,358"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="133,217,174,254,224,286,268,304,315,317,405,331,404,336,314,322,267,309,221,291,170,258,130,221"/>
+</map>

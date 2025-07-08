@@ -1,0 +1,5 @@
+<map id="DGtal::VoronoiCovarianceMeasureOnDigitalSurface&lt; TDigitalSurfaceContainer, TSeparableMetric, TKernelFunction &gt;" name="DGtal::VoronoiCovarianceMeasureOnDigitalSurface&lt; TDigitalSurfaceContainer, TSeparableMetric, TKernelFunction &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class specializes the Voronoi covariance measure for digital surfaces. It adds notably the ..." alt="" coords="5,13,248,84"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1VoronoiCovarianceMeasureOnDigitalSurface.html" title=" " alt="" coords="459,13,633,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,46,458,46,458,51,263,51"/>
+</map>

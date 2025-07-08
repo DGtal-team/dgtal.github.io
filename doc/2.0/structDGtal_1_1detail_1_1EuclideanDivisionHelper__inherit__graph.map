@@ -1,0 +1,9 @@
+<map id="DGtal::detail::EuclideanDivisionHelper&lt; TNumber &gt;" name="DGtal::detail::EuclideanDivisionHelper&lt; TNumber &gt;">
+<area shape="rect" id="Node000001" title="Aim: Small stucture that provides a static method returning the Euclidean division of two integers." alt="" coords="5,71,190,111"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1detail_1_1EuclideanDivisionHelper_3_01double_01_4.html" title=" " alt="" coords="350,5,518,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,64,213,60,349,36,350,41,214,66,197,69"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1detail_1_1EuclideanDivisionHelper_3_01float_01_4.html" title=" " alt="" coords="354,71,514,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,88,354,88,354,94,205,94"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1detail_1_1EuclideanDivisionHelper_3_01long_01double_01_4.html" title=" " alt="" coords="336,136,532,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,113,214,117,336,139,335,144,213,122,194,118"/>
+</map>

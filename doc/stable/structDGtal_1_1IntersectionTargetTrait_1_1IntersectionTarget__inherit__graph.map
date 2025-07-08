@@ -1,0 +1,9 @@
+<map id="DGtal::IntersectionTargetTrait&lt; TSpace, TSeparation, TDimension &gt;::IntersectionTarget&lt; Space, Separation, Dimension &gt;" name="DGtal::IntersectionTargetTrait&lt; TSpace, TSeparation, TDimension &gt;::IntersectionTarget&lt; Space, Separation, Dimension &gt;">
+<area shape="rect" id="Node000001" title="Internal intersection target structure." alt="" coords="5,100,228,171"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1IntersectionTargetTrait_1_1IntersectionTarget.html" title=" " alt="" coords="423,5,669,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,105,422,65,423,70,244,110"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1IntersectionTargetTrait_1_1IntersectionTarget_3_01Space_00_0126_00_011_01_4.html" title=" " alt="" coords="436,100,656,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,133,436,133,436,138,244,138"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1IntersectionTargetTrait_1_1IntersectionTarget_3_01Space_00_016_00_011_01_4.html" title=" " alt="" coords="436,195,656,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,161,436,203,435,208,243,166"/>
+</map>
