@@ -8,11 +8,7 @@ We are happy to announce the major release 2.0 of DGtal. This big update makes t
 
 
 ## New Polyscope-based viewer
-The new version of DGtal (2.0) includes a brand new viewer that is based on [Polyscope](https://polyscope.run/). This modern viewer lets you customise things like colors, transforms, clipping planes and more while you're using it. This is also the perfect time to make the viewer's code simpler and easier to use. A [guide]((https://dgtal-team.github.io/doc-nightly/migratingViewer3D.html) is available to help you adapt old codes to the new viewer. In short (for most common uses):
-* First, remove any mention to `QApplication` in the code.
-* Change the name of the viewer (e.g. `Viewer3D` to `PolyscopeViewer`).
-* Put the `.show()` method at the end of the file. This will make the user interface (UI) start and appear.
-* Delete any `CustomColors3D` . You can set the color directly using the stream API by typing `viewer << color;`.
+The new version of DGtal (2.0) includes a brand new viewer that is based on [Polyscope](https://polyscope.run/). This modern viewer lets you customise things like colors, transforms, clipping planes and more while you're using it. This is also the perfect time to make the viewer's code simpler and easier to use. A [guide](https://dgtal-team.github.io/doc-nightly/migratingViewer3D.html) is available to help you adapt old codes to the new viewer. 
 
  Digital surfaces | Distance transformation | Diff. Estimators
 --|--|--
