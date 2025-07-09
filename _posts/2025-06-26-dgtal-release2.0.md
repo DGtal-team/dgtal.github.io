@@ -6,6 +6,7 @@ title: DGtal release 2.0
 
 We are happy to announce the major release 2.0 of DGtal. This big update makes the library more modern, in both how it is built and the tools it uses. This release also includes new features in both the C++ library and its python binding. Let us take a look at the big changes (see more in the [Changelog](https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md) section).
 
+![](../img/logo_white_blue.png)
 
 ## New Polyscope-based viewer
 The new version of DGtal (2.0) includes a brand new viewer that is based on [Polyscope](https://polyscope.run/). This modern viewer lets you customise things like colors, transforms, clipping planes and more while you're using it. This is also the perfect time to make the viewer's code simpler and easier to use. A [guide](https://dgtal-team.github.io/doc-nightly/migratingViewer3D.html) is available to help you adapt old codes to the new viewer. 
