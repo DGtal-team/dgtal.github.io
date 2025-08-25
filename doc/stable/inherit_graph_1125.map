@@ -1,23 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,308,121,333"/>
-<area shape="rect" id="Node000001" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,5,401,46"/>
-<area shape="poly" id="edge378_Node000000_Node000001" title=" " alt="" coords="65,292,74,242,92,178,122,113,142,83,167,57,185,44,188,49,170,61,147,87,127,116,97,180,79,243,70,293"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,71,401,111"/>
-<area shape="poly" id="edge379_Node000000_Node000002" title=" " alt="" coords="69,292,82,254,102,208,130,162,167,122,187,110,190,114,170,126,134,165,107,211,87,256,74,294"/>
-<area shape="rect" id="Node000003" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,136,401,177"/>
-<area shape="poly" id="edge380_Node000000_Node000003" title=" " alt="" coords="76,293,113,239,138,211,167,187,191,175,193,179,170,192,142,215,117,243,81,296"/>
-<area shape="rect" id="Node000004" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,201,401,242"/>
-<area shape="poly" id="edge381_Node000000_Node000004" title=" " alt="" coords="93,296,128,274,168,253,200,240,202,245,170,257,131,278,96,301"/>
-<area shape="rect" id="Node000005" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,267,401,307"/>
-<area shape="poly" id="edge382_Node000000_Node000005" title=" " alt="" coords="135,307,168,302,168,307,136,312"/>
-<area shape="rect" id="Node000006" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,332,401,373"/>
-<area shape="poly" id="edge383_Node000000_Node000006" title=" " alt="" coords="136,328,168,333,168,338,135,333"/>
-<area shape="rect" id="Node000007" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,397,401,438"/>
-<area shape="poly" id="edge384_Node000000_Node000007" title=" " alt="" coords="96,340,131,362,170,382,203,394,201,399,168,387,128,366,93,344"/>
-<area shape="rect" id="Node000008" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,462,401,533"/>
-<area shape="poly" id="edge385_Node000000_Node000008" title=" " alt="" coords="82,345,119,396,143,424,170,448,189,460,186,464,167,452,139,427,115,400,78,348"/>
-<area shape="rect" id="Node000009" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,557,401,598"/>
-<area shape="poly" id="edge386_Node000000_Node000009" title=" " alt="" coords="72,348,83,391,102,443,131,497,149,521,170,542,189,555,186,559,167,546,145,525,127,500,98,446,78,392,67,349"/>
-<area shape="rect" id="Node000010" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="169,623,401,663"/>
-<area shape="poly" id="edge387_Node000000_Node000010" title=" " alt="" coords="69,348,76,403,93,473,107,510,124,545,145,579,170,608,187,620,184,624,167,612,140,582,119,548,102,512,88,475,71,404,64,349"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,46,127,72"/>
+<area shape="rect" id="Node000001" href="$classDGtal_1_1ImageContainerBySTLMap.html" title=" " alt="" coords="175,5,395,46"/>
+<area shape="poly" id="edge378_Node000000_Node000001" title=" " alt="" coords="142,45,174,40,175,45,142,50"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ImageContainerBySTLMap.html" title=" " alt="" coords="175,71,395,111"/>
+<area shape="poly" id="edge379_Node000000_Node000002" title=" " alt="" coords="142,67,175,72,174,77,142,73"/>
 </map>

@@ -128,10 +128,10 @@ Introduction</h1>
 <div class="line"><span class="keyword">auto</span> kspace          = <a class="code hl_function" href="classDGtal_1_1Shortcuts.html#a25d0be45d2b76a79be6cc83c8e2442b2">SH3::getKSpace</a>( params );</div>
 <div class="line"><span class="keyword">auto</span> digitized_shape = <a class="code hl_function" href="classDGtal_1_1Shortcuts.html#a2e31dfecc5a7dc9116f5bfc7161c136c">SH3::makeDigitizedImplicitShape3D</a>( implicit_shape, params );</div>
 <div class="line">std::cout &lt;&lt; *digitized_shape &lt;&lt; std::endl;</div>
-<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_a25d0be45d2b76a79be6cc83c8e2442b2"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#a25d0be45d2b76a79be6cc83c8e2442b2">DGtal::Shortcuts&lt; KSpace &gt;::getKSpace</a></div><div class="ttdeci">static KSpace getKSpace(const Point &amp;low, const Point &amp;up, Parameters params=parametersKSpace())</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00333">Shortcuts.h:333</a></div></div>
-<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_a2e31dfecc5a7dc9116f5bfc7161c136c"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#a2e31dfecc5a7dc9116f5bfc7161c136c">DGtal::Shortcuts&lt; KSpace &gt;::makeDigitizedImplicitShape3D</a></div><div class="ttdeci">static CountedPtr&lt; DigitizedImplicitShape3D &gt; makeDigitizedImplicitShape3D(CountedPtr&lt; ImplicitShape3D &gt; shape, Parameters params=parametersDigitizedImplicitShape3D())</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00523">Shortcuts.h:524</a></div></div>
-<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_ac893d3bc87b6dee19a48044627c42df9"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#ac893d3bc87b6dee19a48044627c42df9">DGtal::Shortcuts&lt; KSpace &gt;::defaultParameters</a></div><div class="ttdeci">static Parameters defaultParameters()</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00204">Shortcuts.h:204</a></div></div>
-<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_afa5bfec9d0da321962c3a17e39c25926"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#afa5bfec9d0da321962c3a17e39c25926">DGtal::Shortcuts&lt; KSpace &gt;::makeImplicitShape3D</a></div><div class="ttdeci">static CountedPtr&lt; ImplicitShape3D &gt; makeImplicitShape3D(const Parameters &amp;params=parametersImplicitShape3D())</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00283">Shortcuts.h:283</a></div></div>
+<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_a25d0be45d2b76a79be6cc83c8e2442b2"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#a25d0be45d2b76a79be6cc83c8e2442b2">DGtal::Shortcuts&lt; KSpace &gt;::getKSpace</a></div><div class="ttdeci">static KSpace getKSpace(const Point &amp;low, const Point &amp;up, Parameters params=parametersKSpace())</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00329">Shortcuts.h:329</a></div></div>
+<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_a2e31dfecc5a7dc9116f5bfc7161c136c"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#a2e31dfecc5a7dc9116f5bfc7161c136c">DGtal::Shortcuts&lt; KSpace &gt;::makeDigitizedImplicitShape3D</a></div><div class="ttdeci">static CountedPtr&lt; DigitizedImplicitShape3D &gt; makeDigitizedImplicitShape3D(CountedPtr&lt; ImplicitShape3D &gt; shape, Parameters params=parametersDigitizedImplicitShape3D())</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00519">Shortcuts.h:520</a></div></div>
+<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_ac893d3bc87b6dee19a48044627c42df9"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#ac893d3bc87b6dee19a48044627c42df9">DGtal::Shortcuts&lt; KSpace &gt;::defaultParameters</a></div><div class="ttdeci">static Parameters defaultParameters()</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00200">Shortcuts.h:200</a></div></div>
+<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_afa5bfec9d0da321962c3a17e39c25926"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#afa5bfec9d0da321962c3a17e39c25926">DGtal::Shortcuts&lt; KSpace &gt;::makeImplicitShape3D</a></div><div class="ttdeci">static CountedPtr&lt; ImplicitShape3D &gt; makeImplicitShape3D(const Parameters &amp;params=parametersImplicitShape3D())</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00279">Shortcuts.h:279</a></div></div>
 </div><!-- fragment --><p>As one can see, a <a class="el" href="structDGtal_1_1Parameters.html">Parameters</a> object stores parameter values and can be simply updated by the user with the function operator().</p>
 <dl class="section note"><dt>Note</dt><dd>Big objects (like images, explicit shapes, explicit surfaces) are always returned or passed as smart pointers (with <a class="el" href="classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts.">CountedPtr</a>). Smaller objects (like vectors of scalars, etc) are efficiently passed by value. Hence you never have to take care of their lifetime and you do not need to delete them explicitly.</dd></dl>
 <h1 class="doxsection"><a class="anchor" id="dgtal_shortcuts_sec2"></a>
@@ -153,7 +153,7 @@ Short 3D examples</h1>
 <div class="line"><span class="keyword">typedef</span> ShortcutsGeometry&lt;Z3i::KSpace&gt; <a class="code hl_typedef" href="testIntegralInvariantShortcuts_8cpp.html#ae4f1207d47e755c2bacefd09fa73c44f">SHG3</a>;</div>
 <div class="line"><span class="keyword">auto</span> params = <a class="code hl_function" href="classDGtal_1_1Shortcuts.html#ac893d3bc87b6dee19a48044627c42df9">SH3::defaultParameters</a>()</div>
 <div class="line">              | <a class="code hl_function" href="classDGtal_1_1ShortcutsGeometry.html#ab5cadcb5184506f8b51bea27df021221">SHG3::defaultParameters</a>();</div>
-<div class="ttc" id="aclassDGtal_1_1ShortcutsGeometry_html_ab5cadcb5184506f8b51bea27df021221"><div class="ttname"><a href="classDGtal_1_1ShortcutsGeometry.html#ab5cadcb5184506f8b51bea27df021221">DGtal::ShortcutsGeometry&lt; Z3i::KSpace &gt;::defaultParameters</a></div><div class="ttdeci">static Parameters defaultParameters()</div><div class="ttdef"><b>Definition</b> <a href="ShortcutsGeometry_8h_source.html#l00209">ShortcutsGeometry.h:209</a></div></div>
+<div class="ttc" id="aclassDGtal_1_1ShortcutsGeometry_html_ab5cadcb5184506f8b51bea27df021221"><div class="ttname"><a href="classDGtal_1_1ShortcutsGeometry.html#ab5cadcb5184506f8b51bea27df021221">DGtal::ShortcutsGeometry&lt; Z3i::KSpace &gt;::defaultParameters</a></div><div class="ttdeci">static Parameters defaultParameters()</div><div class="ttdef"><b>Definition</b> <a href="ShortcutsGeometry_8h_source.html#l00215">ShortcutsGeometry.h:215</a></div></div>
 <div class="ttc" id="atestIntegralInvariantShortcuts_8cpp_html_ae4f1207d47e755c2bacefd09fa73c44f"><div class="ttname"><a href="testIntegralInvariantShortcuts_8cpp.html#ae4f1207d47e755c2bacefd09fa73c44f">SHG3</a></div><div class="ttdeci">ShortcutsGeometry&lt; Z3i::KSpace &gt; SHG3</div><div class="ttdef"><b>Definition</b> <a href="testIntegralInvariantShortcuts_8cpp_source.html#l00047">testIntegralInvariantShortcuts.cpp:47</a></div></div>
 </div><!-- fragment --><h2 class="doxsection"><a class="anchor" id="dgtal_shortcuts_ssec2_1"></a>
 Load vol file -&gt; ...</h2>
@@ -635,6 +635,49 @@ Principal directions of curvatures colored according to their value (blue negati
 Principal directions of curvatures colored according to their value (blue negative, red positive) on goursat shape.</div></div>
  </td></tr>
 </table>
+<h3 class="doxsection"><a class="anchor" id="dgtal_shortcuts_ssec2_1_15"></a>
+Load vol file -&gt; Compute VoronoiMap -&gt; Display distances to shape in viewer</h3>
+<p>This example requires <a class="el" href="classDGtal_1_1ShortcutsGeometry.html" title="Aim: This class is used to simplify shape and surface creation. With it, you can create new shapes an...">ShortcutsGeometry</a> and <a class="el" href="classDGtal_1_1PolyscopeViewer.html">PolyscopeViewer</a>. This shows how to compute distance to a shape using different metrics.</p>
+<div class="fragment"><div class="line">    <span class="keyword">auto</span> bimage    = <a class="code hl_function" href="classDGtal_1_1Shortcuts.html#af8ce3bb03c1ddbb306b77207afc091d0">SH3::makeBinaryImage</a>( examplesPath + <span class="stringliteral">&quot;samples/Al.100.vol&quot;</span>, params );</div>
+<div class="line">    <span class="keyword">auto</span> <a class="code hl_variable" href="testProjection_8cpp.html#a1f1a69f8d8b037b72c2160ed12b3ef51">domain</a>    = bimage-&gt;domain();</div>
+<div class="line">    </div>
+<div class="line">    <span class="comment">// Extract points location</span></div>
+<div class="line">    std::vector&lt;SH3::Point&gt; sites;</div>
+<div class="line">    std::copy_if(<a class="code hl_variable" href="testProjection_8cpp.html#a1f1a69f8d8b037b72c2160ed12b3ef51">domain</a>.begin(), </div>
+<div class="line">                 <a class="code hl_variable" href="testProjection_8cpp.html#a1f1a69f8d8b037b72c2160ed12b3ef51">domain</a>.end(), </div>
+<div class="line">                 std::back_inserter(sites), </div>
+<div class="line">                 *bimage);</div>
+<div class="line">    </div>
+<div class="line">    <span class="comment">// Compute VoronoiMap and get distances from sites</span></div>
+<div class="line">    <span class="keyword">auto</span> vmap1 = <a class="code hl_function" href="classDGtal_1_1ShortcutsGeometry.html#a885200e2c2d7ea17ca0fc4351f09902a">SHG3::getDistanceTransformation&lt;1&gt;</a>(bimage-&gt;domain(), sites, params);</div>
+<div class="line">    <span class="keyword">auto</span> vmap2 = <a class="code hl_function" href="classDGtal_1_1ShortcutsGeometry.html#a885200e2c2d7ea17ca0fc4351f09902a">SHG3::getDistanceTransformation&lt;2&gt;</a>(bimage-&gt;domain(), sites, params);</div>
+<div class="line"> </div>
+<div class="line">    PolyscopeViewer&lt;&gt; viewer;</div>
+<div class="line">    viewer.<a class="code hl_function" href="classDGtal_1_1Display3D.html#af2bd66618ef13fd92a8d5e29dc170242">newCubeList</a>(<span class="stringliteral">&quot;VoronoiMap distance&quot;</span>);</div>
+<div class="line">    viewer.<a class="code hl_variable" href="classDGtal_1_1Display3D.html#a028b3d586e835825720786b8bd660734">allowReuseList</a> = <span class="keyword">true</span>;</div>
+<div class="line"> </div>
+<div class="line">    <span class="keywordflow">for</span> (<span class="keyword">auto</span> it = <a class="code hl_variable" href="testProjection_8cpp.html#a1f1a69f8d8b037b72c2160ed12b3ef51">domain</a>.begin(); it != <a class="code hl_variable" href="testProjection_8cpp.html#a1f1a69f8d8b037b72c2160ed12b3ef51">domain</a>.end(); ++it)</div>
+<div class="line">    {</div>
+<div class="line">      viewer &lt;&lt; <a class="code hl_struct" href="structDGtal_1_1WithQuantity.html">WithQuantity</a>(</div>
+<div class="line">                  <a class="code hl_struct" href="structDGtal_1_1WithQuantity.html">WithQuantity</a>(*it, </div>
+<div class="line">                     <span class="stringliteral">&quot;L1 distance&quot;</span>, vmap1(*it)</div>
+<div class="line">                  ), <span class="stringliteral">&quot;L2 distance&quot;</span>, vmap2(*it)</div>
+<div class="line">                );</div>
+<div class="line">    }</div>
+<div class="line"> </div>
+<div class="line">    viewer.<a class="code hl_function" href="classDGtal_1_1PolyscopeViewer.html#a8581233ea7c2efc437b4813ad51d4c33">show</a>();</div>
+</div><!-- fragment --><table class="doxtable">
+<tr>
+<td><div class="image">
+<img src="voronoimapl1.png" alt=""/>
+<div class="caption">
+L1 distance to shape computed using VoronoiMap (image sliced within the viewer)</div></div>
+ </td><td><div class="image">
+<img src="voronoimapl2.png" alt=""/>
+<div class="caption">
+L2 distance to shape computed using VoronoiMap (image sliced within the viewer)</div></div>
+ </td></tr>
+</table>
 <h1 class="doxsection"><a class="anchor" id="dgtal_shortcuts_sec2b"></a>
 Few 2D examples</h1>
 <p>We give below some minimalistic examples to show that shortcuts can save a lot of lines of code. All examples need at least the following lines:</p>
@@ -652,9 +695,9 @@ Load pgm file -&gt; ...</h2>
 <div class="fragment"><div class="line"><span class="keyword">auto</span> g_image = <a class="code hl_function" href="classDGtal_1_1Shortcuts.html#a7af8c87cb8c5589925ac2984ba8211ef">SH2::makeGrayScaleImage</a>( examplesPath + <span class="stringliteral">&quot;samples/contourS.pgm&quot;</span> );</div>
 <div class="line"><span class="keyword">auto</span> b_image = <a class="code hl_function" href="classDGtal_1_1Shortcuts.html#af8ce3bb03c1ddbb306b77207afc091d0">SH2::makeBinaryImage</a>   ( g_image, params( <span class="stringliteral">&quot;thresholdMin&quot;</span>, 128 ) );</div>
 <div class="line"><span class="keyword">auto</span> ok      = <a class="code hl_function" href="classDGtal_1_1Shortcuts.html#ac1b806609d39694507734820b363b822">SH2::saveBinaryImage</a>   ( b_image, <span class="stringliteral">&quot;contourS-128.pgm&quot;</span> );</div>
-<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_a7af8c87cb8c5589925ac2984ba8211ef"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#a7af8c87cb8c5589925ac2984ba8211ef">DGtal::Shortcuts&lt; KSpace &gt;::makeGrayScaleImage</a></div><div class="ttdeci">static CountedPtr&lt; GrayScaleImage &gt; makeGrayScaleImage(Domain aDomain)</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00737">Shortcuts.h:737</a></div></div>
-<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_ac1b806609d39694507734820b363b822"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#ac1b806609d39694507734820b363b822">DGtal::Shortcuts&lt; KSpace &gt;::saveBinaryImage</a></div><div class="ttdeci">static bool saveBinaryImage(CountedPtr&lt; BinaryImage &gt; bimage, std::string output)</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00708">Shortcuts.h:709</a></div></div>
-<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_af8ce3bb03c1ddbb306b77207afc091d0"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#af8ce3bb03c1ddbb306b77207afc091d0">DGtal::Shortcuts&lt; KSpace &gt;::makeBinaryImage</a></div><div class="ttdeci">static CountedPtr&lt; BinaryImage &gt; makeBinaryImage(Domain shapeDomain)</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00562">Shortcuts.h:562</a></div></div>
+<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_a7af8c87cb8c5589925ac2984ba8211ef"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#a7af8c87cb8c5589925ac2984ba8211ef">DGtal::Shortcuts&lt; KSpace &gt;::makeGrayScaleImage</a></div><div class="ttdeci">static CountedPtr&lt; GrayScaleImage &gt; makeGrayScaleImage(Domain aDomain)</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00869">Shortcuts.h:869</a></div></div>
+<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_ac1b806609d39694507734820b363b822"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#ac1b806609d39694507734820b363b822">DGtal::Shortcuts&lt; KSpace &gt;::saveBinaryImage</a></div><div class="ttdeci">static bool saveBinaryImage(CountedPtr&lt; BinaryImage &gt; bimage, std::string output)</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00840">Shortcuts.h:841</a></div></div>
+<div class="ttc" id="aclassDGtal_1_1Shortcuts_html_af8ce3bb03c1ddbb306b77207afc091d0"><div class="ttname"><a href="classDGtal_1_1Shortcuts.html#af8ce3bb03c1ddbb306b77207afc091d0">DGtal::Shortcuts&lt; KSpace &gt;::makeBinaryImage</a></div><div class="ttdeci">static CountedPtr&lt; BinaryImage &gt; makeBinaryImage(Domain shapeDomain)</div><div class="ttdef"><b>Definition</b> <a href="Shortcuts_8h_source.html#l00558">Shortcuts.h:558</a></div></div>
 </div><!-- fragment --><h1 class="doxsection"><a class="anchor" id="dgtal_shortcuts_sec3"></a>
 Philosophy and naming conventions</h1>
 <p>Commands are constructed as <b>prefix</b> + <b>type</b> name. Most of them are static methods and are overloaded to accept different set of parameters.</p>
@@ -812,6 +855,10 @@ Main methods</h2>
 <li><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a576b78357b2deb1f73db565e51b1bf6c">ShortcutsGeometry::getScalarsAbsoluteDifference</a>: return the range of scalars that is the difference of two range of scalars</li>
 <li><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#ac3ee836d055e1261985a2b351fc44cd6">ShortcutsGeometry::getVectorsAngleDeviation</a>: return the range of scalars that form the angle deviations between two range of vectors</li>
 <li><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#ad3f4a6326d56b0414939cb6b477c74c9">ShortcutsGeometry::getStatistic</a>: return the statistic of the given range of values.</li>
+<li><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a6910dc3fb8865712665d8c8e77732238" title="Computes the VoronoiMap of a domain, where sites are given through a range.">ShortcutsGeometry::getVoronoiMap</a>: return the voronoi map on a domain from a list of sites</li>
+<li><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a885200e2c2d7ea17ca0fc4351f09902a" title="Computes the VoronoiMap of a domain, where sites are given through a range.">ShortcutsGeometry::getDistanceTransformation</a>: return the distance to the closest voronoi site on a domain from a list of sites</li>
+<li><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a7d75ea9a1b51dae79feae6c94daa29dd" title="Computes the direction of the closest site of a range of points.">ShortcutsGeometry::getDirectionToClosestSite</a>: return the list of vector to the closest site</li>
+<li><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a7e0f17bd003206c657679de04d1cacf3" title="Computes the distance of the closest site of a range of points.">ShortcutsGeometry::getDistanceToClosestSite</a>: return the distance to the closest site</li>
 </ul>
 </li>
 <li>ATApproximation services<ul>
@@ -843,7 +890,7 @@ Parameters</h2>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a href="index.html">DGtal - Digital Geometry Tools and Algorithms Library.</a></li>
+    <li class="navelem"><a href="index.html">DGtal - Digital Geometry Tools and Algorithms Library.</a></li><li class="navelem"><a href="packageIntroduction.html">Getting started</a></li><li class="navelem"><a href="packagePython.html">DGtal python binding</a></li>
     <li class="footer">Generated on <span class="timestamp"></span> for DGtal by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.14.0 </li>
   </ul>
 </div>

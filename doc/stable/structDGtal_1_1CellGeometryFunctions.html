@@ -139,7 +139,7 @@ struct DGtal::CellGeometryFunctions&lt; TKSpace, i, N &gt;</div><p>Utility class
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00429">429</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00441">441</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 </div><a name="doc-typedef-members" id="doc-typedef-members"></a><h2 id="header-doc-typedef-members" class="groupheader">Member Typedef Documentation</h2>
 <a id="a9b3dff008cb46ba89375cd030d99085a" name="a9b3dff008cb46ba89375cd030d99085a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a9b3dff008cb46ba89375cd030d99085a">&#9670;&#160;</a></span>Cell</h2>
@@ -155,7 +155,7 @@ template&lt;typename TKSpace, int i, int N&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00434">434</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00446">446</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>
@@ -173,7 +173,7 @@ template&lt;typename TKSpace, int i, int N&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00432">432</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00444">444</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>
@@ -191,7 +191,7 @@ template&lt;typename TKSpace, int i, int N&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00435">435</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00447">447</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>
@@ -209,7 +209,7 @@ template&lt;typename TKSpace, int i, int N&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00433">433</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00445">445</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>
@@ -285,23 +285,23 @@ template&lt;typename PointelIterator&gt; </div>
 <dl class="section return"><dt>Returns</dt><dd>the incident i-cells to the given range of pointels [itB, itE). </dd></dl>
 <dl class="section note"><dt>Note</dt><dd>General method. Note as efficient as specializations. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00446">446</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  448</span>    {</div>
-<div class="line"><span class="lineno">  449</span>      <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">std::unordered_set&lt;typename KSpace::Cell&gt;</a> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>;</div>
-<div class="line"><span class="lineno">  450</span>      <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> == 0 )</div>
-<div class="line"><span class="lineno">  451</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
-<div class="line"><span class="lineno">  452</span>          <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>.insert( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> );</div>
-<div class="line"><span class="lineno">  453</span>      <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  454</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
-<div class="line"><span class="lineno">  455</span>          {</div>
-<div class="line"><span class="lineno">  456</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> = *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a>;</div>
-<div class="line"><span class="lineno">  457</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uCoFaces( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> );</div>
-<div class="line"><span class="lineno">  458</span>            <span class="keywordflow">for</span> ( <span class="keyword">auto</span>&amp;&amp; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> : <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> )</div>
-<div class="line"><span class="lineno">  459</span>              <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uDim( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> ) == <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> ) <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> );</div>
-<div class="line"><span class="lineno">  460</span>          }</div>
-<div class="line"><span class="lineno">  461</span>      <span class="keywordflow">return</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>;</div>
-<div class="line"><span class="lineno">  462</span>    }</div>
-<div class="ttc" id="astructDGtal_1_1CellGeometryFunctions_html"><div class="ttname"><a href="structDGtal_1_1CellGeometryFunctions.html">DGtal::CellGeometryFunctions</a></div><div class="ttdef"><b>Definition</b> <a href="CellGeometry_8h_source.html#l00429">CellGeometry.h:430</a></div></div>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00458">458</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  460</span>    {</div>
+<div class="line"><span class="lineno">  461</span>      <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">std::unordered_set&lt;typename KSpace::Cell&gt;</a> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>;</div>
+<div class="line"><span class="lineno">  462</span>      <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> == 0 )</div>
+<div class="line"><span class="lineno">  463</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
+<div class="line"><span class="lineno">  464</span>          <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>.insert( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> );</div>
+<div class="line"><span class="lineno">  465</span>      <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  466</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
+<div class="line"><span class="lineno">  467</span>          {</div>
+<div class="line"><span class="lineno">  468</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> = *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a>;</div>
+<div class="line"><span class="lineno">  469</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uCoFaces( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> );</div>
+<div class="line"><span class="lineno">  470</span>            <span class="keywordflow">for</span> ( <span class="keyword">auto</span>&amp;&amp; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> : <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> )</div>
+<div class="line"><span class="lineno">  471</span>              <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uDim( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> ) == <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> ) <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> );</div>
+<div class="line"><span class="lineno">  472</span>          }</div>
+<div class="line"><span class="lineno">  473</span>      <span class="keywordflow">return</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>;</div>
+<div class="line"><span class="lineno">  474</span>    }</div>
+<div class="ttc" id="astructDGtal_1_1CellGeometryFunctions_html"><div class="ttname"><a href="structDGtal_1_1CellGeometryFunctions.html">DGtal::CellGeometryFunctions</a></div><div class="ttdef"><b>Definition</b> <a href="CellGeometry_8h_source.html#l00441">CellGeometry.h:442</a></div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="testCubicalComplex_8cpp_source.html#l00062">K</a>.</p>
 
@@ -359,22 +359,22 @@ template&lt;typename PointIterator&gt; </div>
 <dl class="section return"><dt>Returns</dt><dd>the incident i-cells to the given range of points [itB, itE). </dd></dl>
 <dl class="section note"><dt>Note</dt><dd>General method. Note as efficient as specializations. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00473">473</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  475</span>    {</div>
-<div class="line"><span class="lineno">  476</span>      <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">std::unordered_set&lt;typename KSpace::Cell&gt;</a> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>;</div>
-<div class="line"><span class="lineno">  477</span>      <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> == 0 )</div>
-<div class="line"><span class="lineno">  478</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
-<div class="line"><span class="lineno">  479</span>          <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uPointel( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> ) );</div>
-<div class="line"><span class="lineno">  480</span>      <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  481</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
-<div class="line"><span class="lineno">  482</span>          {</div>
-<div class="line"><span class="lineno">  483</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uPointel( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> );</div>
-<div class="line"><span class="lineno">  484</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uCoFaces( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> );</div>
-<div class="line"><span class="lineno">  485</span>            <span class="keywordflow">for</span> ( <span class="keyword">auto</span>&amp;&amp; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> : <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> )</div>
-<div class="line"><span class="lineno">  486</span>              <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uDim( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> ) == <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> ) <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> );</div>
-<div class="line"><span class="lineno">  487</span>          }</div>
-<div class="line"><span class="lineno">  488</span>      <span class="keywordflow">return</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>;</div>
-<div class="line"><span class="lineno">  489</span>    }</div>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00485">485</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  487</span>    {</div>
+<div class="line"><span class="lineno">  488</span>      <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">std::unordered_set&lt;typename KSpace::Cell&gt;</a> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>;</div>
+<div class="line"><span class="lineno">  489</span>      <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> == 0 )</div>
+<div class="line"><span class="lineno">  490</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
+<div class="line"><span class="lineno">  491</span>          <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uPointel( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> ) );</div>
+<div class="line"><span class="lineno">  492</span>      <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  493</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
+<div class="line"><span class="lineno">  494</span>          {</div>
+<div class="line"><span class="lineno">  495</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uPointel( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> );</div>
+<div class="line"><span class="lineno">  496</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uCoFaces( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> );</div>
+<div class="line"><span class="lineno">  497</span>            <span class="keywordflow">for</span> ( <span class="keyword">auto</span>&amp;&amp; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> : <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> )</div>
+<div class="line"><span class="lineno">  498</span>              <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uDim( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> ) == <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> ) <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> );</div>
+<div class="line"><span class="lineno">  499</span>          }</div>
+<div class="line"><span class="lineno">  500</span>      <span class="keywordflow">return</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cells</a>;</div>
+<div class="line"><span class="lineno">  501</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="testCubicalComplex_8cpp_source.html#l00062">K</a>.</p>
 
@@ -432,23 +432,23 @@ template&lt;typename PointIterator&gt; </div>
 <dl class="section return"><dt>Returns</dt><dd>the incident i-kpoints to the given range of points [itB, itE). </dd></dl>
 <dl class="section note"><dt>Note</dt><dd>General method. Note as efficient as specializations. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00501">501</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  503</span>    {</div>
-<div class="line"><span class="lineno">  504</span>      <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">UnorderedSetByBlock</a>&lt; <span class="keyword">typename</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">KSpace::Point</a>,</div>
-<div class="line"><span class="lineno">  505</span>                           <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">Splitter&lt; typename KSpace::Point, uint64_t &gt;</a> &gt; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">kpoints</a>;</div>
-<div class="line"><span class="lineno">  506</span>      <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> == 0 )</div>
-<div class="line"><span class="lineno">  507</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
-<div class="line"><span class="lineno">  508</span>          <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">kpoints</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uKCoords( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uPointel( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> ) ) );</div>
-<div class="line"><span class="lineno">  509</span>      <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  510</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
-<div class="line"><span class="lineno">  511</span>          {</div>
-<div class="line"><span class="lineno">  512</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uPointel( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> );</div>
-<div class="line"><span class="lineno">  513</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uCoFaces( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> );</div>
-<div class="line"><span class="lineno">  514</span>            <span class="keywordflow">for</span> ( <span class="keyword">auto</span>&amp;&amp; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> : <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> )</div>
-<div class="line"><span class="lineno">  515</span>              <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uDim( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> ) == <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> ) <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">kpoints</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uKCoords( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> ) );</div>
-<div class="line"><span class="lineno">  516</span>          }</div>
-<div class="line"><span class="lineno">  517</span>      <span class="keywordflow">return</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">kpoints</a>;</div>
-<div class="line"><span class="lineno">  518</span>    }</div>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00513">513</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  515</span>    {</div>
+<div class="line"><span class="lineno">  516</span>      <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">UnorderedSetByBlock</a>&lt; <span class="keyword">typename</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">KSpace::Point</a>,</div>
+<div class="line"><span class="lineno">  517</span>                           <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">Splitter&lt; typename KSpace::Point, uint64_t &gt;</a> &gt; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">kpoints</a>;</div>
+<div class="line"><span class="lineno">  518</span>      <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> == 0 )</div>
+<div class="line"><span class="lineno">  519</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
+<div class="line"><span class="lineno">  520</span>          <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">kpoints</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uKCoords( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uPointel( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> ) ) );</div>
+<div class="line"><span class="lineno">  521</span>      <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  522</span>        <span class="keywordflow">for</span> ( <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itB</a>; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> != <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">itE</a>; ++<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> )</div>
+<div class="line"><span class="lineno">  523</span>          {</div>
+<div class="line"><span class="lineno">  524</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uPointel( *<a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">it</a> );</div>
+<div class="line"><span class="lineno">  525</span>            <span class="keyword">auto</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> = <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uCoFaces( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">pointel</a> );</div>
+<div class="line"><span class="lineno">  526</span>            <span class="keywordflow">for</span> ( <span class="keyword">auto</span>&amp;&amp; <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> : <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">cofaces</a> )</div>
+<div class="line"><span class="lineno">  527</span>              <span class="keywordflow">if</span> ( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uDim( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> ) == <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">i</a> ) <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">kpoints</a>.insert( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">K</a>.uKCoords( <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">f</a> ) );</div>
+<div class="line"><span class="lineno">  528</span>          }</div>
+<div class="line"><span class="lineno">  529</span>      <span class="keywordflow">return</span> <a class="code hl_struct" href="structDGtal_1_1CellGeometryFunctions.html">kpoints</a>;</div>
+<div class="line"><span class="lineno">  530</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="testCubicalComplex_8cpp_source.html#l00062">K</a>.</p>
 

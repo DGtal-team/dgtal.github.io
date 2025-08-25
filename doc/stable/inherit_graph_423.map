@@ -1,31 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$structDGtal_1_1DrawableWithBoard2D.html" title=" " alt="" coords="5,327,202,352"/>
-<area shape="rect" id="Node000001" href="$structDGtal_1_1CustomColors.html" title="Custom style class redefining the pen color and the fill color. You may use Board2D::Color::None for ..." alt="" coords="273,5,420,31"/>
-<area shape="poly" id="edge268_Node000000_Node000001" title=" " alt="" coords="108,311,122,254,149,180,168,142,190,105,217,70,248,40,271,27,274,31,251,44,221,74,195,108,172,145,154,183,128,255,113,312"/>
-<area shape="rect" id="Node000002" href="$structDGtal_1_1CustomFillColor.html" title="Custom style class redefining the fill color. You may use Board2D::Color::None for transparent color." alt="" coords="268,55,426,80"/>
-<area shape="poly" id="edge269_Node000000_Node000002" title=" " alt="" coords="111,311,128,263,157,202,196,141,221,113,248,89,267,79,269,83,251,94,224,117,200,145,161,205,133,265,116,313"/>
-<area shape="rect" id="Node000003" href="$structDGtal_1_1CustomPen.html" title="Custom style class redefining the pen attributes. You may use Board2D::Color::None for transparent co..." alt="" coords="281,104,413,130"/>
-<area shape="poly" id="edge270_Node000000_Node000003" title=" " alt="" coords="115,311,135,272,164,225,202,178,248,139,279,124,281,129,251,143,206,182,169,229,139,275,119,314"/>
-<area shape="rect" id="Node000004" href="$structDGtal_1_1CustomPenColor.html" title="Custom style class redefining the pen color. You may use Board2D::Color::None for transparent color." alt="" coords="265,153,428,179"/>
-<area shape="poly" id="edge271_Node000000_Node000004" title=" " alt="" coords="120,312,173,250,208,216,248,188,272,177,274,182,251,192,212,220,177,253,124,316"/>
-<area shape="rect" id="Node000005" href="$structMyDomainStyleCustomRed.html" title=" " alt="" coords="255,203,439,228"/>
-<area shape="poly" id="edge272_Node000000_Node000005" title=" " alt="" coords="130,314,183,275,249,237,278,226,280,231,251,242,186,279,133,319"/>
-<area shape="rect" id="Node000006" href="$structMyDrawStyleCustomBlue.html" title=" " alt="" coords="261,252,433,278"/>
-<area shape="poly" id="edge273_Node000000_Node000006" title=" " alt="" coords="154,318,249,286,287,276,289,281,250,291,155,323"/>
-<area shape="rect" id="Node000007" href="$structMyDrawStyleCustomColor.html" title=" " alt="" coords="258,301,436,327"/>
-<area shape="poly" id="edge274_Node000000_Node000007" title=" " alt="" coords="217,325,257,321,258,326,218,330"/>
-<area shape="rect" id="Node000008" href="$structMyDrawStyleCustomFillColor.html" title=" " alt="" coords="250,351,444,376"/>
-<area shape="poly" id="edge275_Node000000_Node000008" title=" " alt="" coords="217,348,249,351,249,357,217,353"/>
-<area shape="rect" id="Node000009" href="$structMyDrawStyleCustomGreen.html" title=" " alt="" coords="256,400,438,426"/>
-<area shape="poly" id="edge276_Node000000_Node000009" title=" " alt="" coords="156,355,250,386,289,397,288,402,249,391,155,360"/>
-<area shape="rect" id="Node000010" href="$structMyDrawStyleCustomRed.html" title=" " alt="" coords="262,449,432,475"/>
-<area shape="poly" id="edge277_Node000000_Node000010" title=" " alt="" coords="134,360,186,399,251,436,280,446,278,451,249,441,183,403,130,365"/>
-<area shape="rect" id="Node000011" href="$structMyObjectStyleCustom.html" title=" " alt="" coords="270,499,424,524"/>
-<area shape="poly" id="edge278_Node000000_Node000011" title=" " alt="" coords="125,364,177,425,212,458,251,485,274,496,272,500,248,490,209,462,173,429,121,367"/>
-<area shape="rect" id="Node000012" href="$structMyObjectStyleCustomRed.html" title=" " alt="" coords="258,548,436,574"/>
-<area shape="poly" id="edge279_Node000000_Node000012" title=" " alt="" coords="119,365,140,404,169,450,206,496,251,535,271,545,269,550,248,539,202,500,164,453,135,406,115,368"/>
-<area shape="rect" id="Node000013" href="$structMyStyleCustom.html" title=" " alt="" coords="289,597,404,623"/>
-<area shape="poly" id="edge280_Node000000_Node000013" title=" " alt="" coords="116,366,133,414,161,473,201,533,224,561,251,584,269,594,290,601,288,606,267,599,248,588,221,564,196,537,157,476,128,416,111,368"/>
-<area shape="rect" id="Node000014" href="$structMyStyleCustomRed.html" title=" " alt="" coords="277,647,416,672"/>
-<area shape="poly" id="edge281_Node000000_Node000014" title=" " alt="" coords="113,367,128,423,154,496,173,534,195,570,221,604,251,633,278,648,275,652,248,638,217,608,190,573,168,536,149,498,123,425,108,368"/>
+<area shape="rect" id="Node000000" href="$classDGtal_1_1DomainAdjacency.html" title="Aim: Given a domain and an adjacency, limits the given adjacency to the specified domain for all adja..." alt="" coords="5,5,180,46"/>
 </map>

@@ -3,7 +3,7 @@ var index =
     [ "Overview", "index.html#autotoc_md153", [
       [ "Helpers and Tutorials", "index.html#autotoc_md154", null ],
       [ "DGtal Packages", "index.html#autotoc_md155", null ],
-      [ " Contributing", "index.html#autotoc_md156", null ],
+      [ "Contributing", "index.html#autotoc_md156", null ],
       [ "Links", "index.html#autotoc_md157", null ]
     ] ],
     [ "Getting started", "packageIntroduction.html", "packageIntroduction" ],
@@ -33,7 +33,8 @@ var index =
           [ "-&gt; digitize -&gt; save primal surface and VCM normal field as obj", "moduleShortcuts.html#dgtal_shortcuts_ssec2_2_11", null ],
           [ "-&gt; digitize -&gt; II normals -&gt; AT piecewise-smooth approximation", "moduleShortcuts.html#dgtal_shortcuts_ssec2_2_12", null ],
           [ "-&gt; load mesh -&gt; CNC curvatures -&gt; export mesh", "moduleShortcuts.html#dgtal_shortcuts_ssec2_1_14", null ],
-          [ "-&gt; digitize -&gt; True principal curvatures", "moduleShortcuts.html#dgtal_shortcuts_ssec2_2_13", null ]
+          [ "-&gt; digitize -&gt; True principal curvatures", "moduleShortcuts.html#dgtal_shortcuts_ssec2_2_13", null ],
+          [ "Load vol file -&gt; Compute VoronoiMap -&gt; Display distances to shape in viewer", "moduleShortcuts.html#dgtal_shortcuts_ssec2_1_15", null ]
         ] ]
       ] ],
       [ "Few 2D examples", "moduleShortcuts.html#dgtal_shortcuts_sec2b", [

@@ -740,8 +740,10 @@ var hierarchy =
     [ "std::false_type", null, [
       [ "DGtal::IsAPointVector< PointVector< dim, TEuclideanRing, TContainer > >", "structDGtal_1_1IsAPointVector_3_01PointVector_3_01dim_00_01TEuclideanRing_00_01TContainer_01_4_01_4.html", null ],
       [ "DGtal::IsArithmeticConversionValid< T, U, typename std::conditional< false, ArithmeticConversionType< T, U >, void >::type >", "structDGtal_1_1IsArithmeticConversionValid_3_01T_00_01U_00_01typename_01std_1_1conditional_3_01f3d12afaad57391e67b8a4fff74de6483.html", null ],
+      [ "DGtal::Shortcuts< TKSpace >::is_double_nested_container< C< D< T > > >", "structDGtal_1_1Shortcuts_1_1is__double__nested__container_3_01C_3_01D_3_01T_01_4_01_4_01_4.html", null ],
       [ "DGtal::IsAPointVector< T >", "structDGtal_1_1IsAPointVector.html", null ],
-      [ "DGtal::IsArithmeticConversionValid< T, U, Enable >", "structDGtal_1_1IsArithmeticConversionValid.html", null ]
+      [ "DGtal::IsArithmeticConversionValid< T, U, Enable >", "structDGtal_1_1IsArithmeticConversionValid.html", null ],
+      [ "DGtal::Shortcuts< TKSpace >::is_double_nested_container< T >", "structDGtal_1_1Shortcuts_1_1is__double__nested__container.html", null ]
     ] ],
     [ "DGtal::functors::FalseBoolFct0", "structDGtal_1_1functors_1_1FalseBoolFct0.html", null ],
     [ "FalseOutsideDomain< Predicate, Domain >", "structFalseOutsideDomain.html", null ],
@@ -1530,6 +1532,8 @@ var hierarchy =
     [ "DGtal::SternBrocot< TInteger, TQuotient >", "classDGtal_1_1SternBrocot.html", null ],
     [ "DGtal::StraightLineFrom2Points< TPoint >", "classDGtal_1_1StraightLineFrom2Points.html", null ],
     [ "DGtal::functors::StrictTruncationFunctor< Integer >", "structDGtal_1_1functors_1_1StrictTruncationFunctor.html", null ],
+    [ "DGtal::BoundedLatticePolytope< TSpace >::StrictUnitCell", "structDGtal_1_1BoundedLatticePolytope_1_1StrictUnitCell.html", null ],
+    [ "DGtal::BoundedLatticePolytope< TSpace >::StrictUnitSegment", "structDGtal_1_1BoundedLatticePolytope_1_1StrictUnitSegment.html", null ],
     [ "string", "classstring.html", null ],
     [ "DGtal::Style2DFactory", "structDGtal_1_1Style2DFactory.html", null ],
     [ "DGtal::SpaceND< dim, TInteger >::Subcospace< codimension >", "structDGtal_1_1SpaceND_1_1Subcospace.html", null ],
@@ -1636,7 +1640,8 @@ var hierarchy =
     [ "Triple< T1, T2, T3 >", "structTriple.html", null ],
     [ "std::true_type", null, [
       [ "DGtal::IsAPointVector< PointVector< dim, TEuclideanRing, TContainer > >", "structDGtal_1_1IsAPointVector_3_01PointVector_3_01dim_00_01TEuclideanRing_00_01TContainer_01_4_01_4.html", null ],
-      [ "DGtal::IsArithmeticConversionValid< T, U, typename std::conditional< false, ArithmeticConversionType< T, U >, void >::type >", "structDGtal_1_1IsArithmeticConversionValid_3_01T_00_01U_00_01typename_01std_1_1conditional_3_01f3d12afaad57391e67b8a4fff74de6483.html", null ]
+      [ "DGtal::IsArithmeticConversionValid< T, U, typename std::conditional< false, ArithmeticConversionType< T, U >, void >::type >", "structDGtal_1_1IsArithmeticConversionValid_3_01T_00_01U_00_01typename_01std_1_1conditional_3_01f3d12afaad57391e67b8a4fff74de6483.html", null ],
+      [ "DGtal::Shortcuts< TKSpace >::is_double_nested_container< C< D< T > > >", "structDGtal_1_1Shortcuts_1_1is__double__nested__container_3_01C_3_01D_3_01T_01_4_01_4_01_4.html", null ]
     ] ],
     [ "DGtal::functors::TrueBoolFct0", "structDGtal_1_1functors_1_1TrueBoolFct0.html", null ],
     [ "DGtal::TrueDigitalSurfaceLocalEstimator< TKSpace, TShape, TGeometricFunctor >", "classDGtal_1_1TrueDigitalSurfaceLocalEstimator.html", null ],

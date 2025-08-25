@@ -1,3 +1,11 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$structDGtal_1_1ConvexityHelper.html" title="Aim: Provides a set of functions to facilitate the computation of convex hulls and polytopes,..." alt="" coords="5,5,226,46"/>
+<area shape="rect" id="Node000000" href="$structDGtal_1_1ConvexHullCommonKernel.html" title="Aim: the common part of all geometric kernels for computing the convex hull or Delaunay triangulation..." alt="" coords="5,121,227,177"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1ConvexHullIntegralKernel.html" title=" " alt="" coords="282,5,472,61"/>
+<area shape="poly" id="edge244_Node000000_Node000001" title=" " alt="" coords="186,112,274,71,301,59,303,64,276,76,189,116"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ConvexHullRationalKernel.html" title=" " alt="" coords="282,85,472,141"/>
+<area shape="poly" id="edge245_Node000000_Node000002" title=" " alt="" coords="242,129,281,124,282,129,243,134"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1DelaunayIntegralKernel.html" title=" " alt="" coords="275,165,479,206"/>
+<area shape="poly" id="edge246_Node000000_Node000003" title=" " alt="" coords="243,164,275,168,274,174,242,169"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1DelaunayRationalKernel.html" title=" " alt="" coords="275,230,479,271"/>
+<area shape="poly" id="edge247_Node000000_Node000004" title=" " alt="" coords="194,181,276,215,310,227,309,232,274,220,192,186"/>
 </map>

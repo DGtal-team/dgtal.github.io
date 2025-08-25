@@ -1,5 +1,13 @@
 var NAVTREEINDEX12 =
 {
+"classDGtal_1_1ChordNaivePlaneComputer.html#a3b7803ef8983801401bc9800baef2a76":[3,0,2,73,85],
+"classDGtal_1_1ChordNaivePlaneComputer.html#a3b7803ef8983801401bc9800baef2a76":[4,0,2,67,85],
+"classDGtal_1_1ChordNaivePlaneComputer.html#a3d6ed9662e334b9dee8d87b5cc62c0ee":[3,0,2,73,36],
+"classDGtal_1_1ChordNaivePlaneComputer.html#a3d6ed9662e334b9dee8d87b5cc62c0ee":[4,0,2,67,36],
+"classDGtal_1_1ChordNaivePlaneComputer.html#a3dc8742231de5010d6f6fbeee1dda436":[3,0,2,73,46],
+"classDGtal_1_1ChordNaivePlaneComputer.html#a3dc8742231de5010d6f6fbeee1dda436":[4,0,2,67,46],
+"classDGtal_1_1ChordNaivePlaneComputer.html#a408f943ec924c9cf154ad3e65806e6c9":[3,0,2,73,34],
+"classDGtal_1_1ChordNaivePlaneComputer.html#a408f943ec924c9cf154ad3e65806e6c9":[4,0,2,67,34],
 "classDGtal_1_1ChordNaivePlaneComputer.html#a413cac0a5565b2f0ac19f0836f8f707b":[3,0,2,73,16],
 "classDGtal_1_1ChordNaivePlaneComputer.html#a413cac0a5565b2f0ac19f0836f8f707b":[4,0,2,67,16],
 "classDGtal_1_1ChordNaivePlaneComputer.html#a4b04abc0f4a7e53b98a19c2c6b650667":[3,0,2,73,75],
@@ -241,13 +249,5 @@ var NAVTREEINDEX12 =
 "classDGtal_1_1Circulator.html#a38bb1db24bfc686f178f830746cde9ea":[3,0,2,76,38],
 "classDGtal_1_1Circulator.html#a38bb1db24bfc686f178f830746cde9ea":[4,0,2,70,38],
 "classDGtal_1_1Circulator.html#a3edebbe5b07690bdb881cb799ba824e3":[3,0,2,76,18],
-"classDGtal_1_1Circulator.html#a3edebbe5b07690bdb881cb799ba824e3":[4,0,2,70,18],
-"classDGtal_1_1Circulator.html#a52fc02b056b6ab344961671a4ea20220":[3,0,2,76,27],
-"classDGtal_1_1Circulator.html#a52fc02b056b6ab344961671a4ea20220":[4,0,2,70,27],
-"classDGtal_1_1Circulator.html#a5772000ee91f2f63877b94de98e05b3b":[3,0,2,76,24],
-"classDGtal_1_1Circulator.html#a5772000ee91f2f63877b94de98e05b3b":[4,0,2,70,24],
-"classDGtal_1_1Circulator.html#a591e4fd287cda5fddcf1b816481dd140":[3,0,2,76,30],
-"classDGtal_1_1Circulator.html#a591e4fd287cda5fddcf1b816481dd140":[4,0,2,70,30],
-"classDGtal_1_1Circulator.html#a5b71549d74512dda656b15b4d3f70111":[3,0,2,76,15],
-"classDGtal_1_1Circulator.html#a5b71549d74512dda656b15b4d3f70111":[4,0,2,70,15]
+"classDGtal_1_1Circulator.html#a3edebbe5b07690bdb881cb799ba824e3":[4,0,2,70,18]
 };

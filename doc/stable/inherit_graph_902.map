@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$structDGtal_1_1PPMWriter.html" title="Aim: Export a 2D and a 3D Image using the Netpbm PPM formats (ASCII mode)." alt="" coords="5,5,192,46"/>
+<area shape="rect" id="Node000000" href="$classDGtal_1_1PowerMap.html" title="Aim: Implementation of the linear in time Power map construction." alt="" coords="5,45,214,101"/>
+<area shape="rect" id="Node000001" href="$classDGtal_1_1ReverseDistanceTransformation.html" title=" " alt="" coords="262,5,513,61"/>
+<area shape="poly" id="edge315_Node000000_Node000001" title=" " alt="" coords="229,53,261,49,262,54,229,59"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ReverseDistanceTransformation.html" title="Aim: Implementation of the linear in time reverse distance transformation for separable metrics." alt="" coords="262,85,513,141"/>
+<area shape="poly" id="edge316_Node000000_Node000002" title=" " alt="" coords="229,88,262,92,261,98,229,93"/>
 </map>

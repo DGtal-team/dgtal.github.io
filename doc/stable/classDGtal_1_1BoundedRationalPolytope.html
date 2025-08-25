@@ -161,6 +161,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a6bf0397a4a272cc42aab49e97ce27c1f" id="r_a6bf0397a4a272cc42aab49e97ce27c1f"><td class="memItemLeft" align="right" valign="top">const std::vector&lt; bool &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a6bf0397a4a272cc42aab49e97ce27c1f">getI</a> () const</td></tr>
 <tr class="memitem:a178c990fa3345b7bd37b8aea31f30413" id="r_a178c990fa3345b7bd37b8aea31f30413"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a178c990fa3345b7bd37b8aea31f30413">canBeSummed</a> () const</td></tr>
 <tr id="pub-methods-2" class="groupHeader"><td colspan="2"><div class="groupHeader">Check point services (is inside test)</div></td></tr>
+<tr><td colspan="2" class="ititle"><div class="groupText"><dl class="section note"><dt>Note</dt><dd>These services consider the rational polytope embedded as continuous polytope. Therefore even vertices of the rational polytope may not be lattice points if their coordinates do not reduce to an integer when divided by the denominator of the rational polytope. </dd></dl>
+</div></td></tr>
 <tr class="memitem:ab2711186ff636af9eebb15b1cfb98852" id="r_ab2711186ff636af9eebb15b1cfb98852"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ab2711186ff636af9eebb15b1cfb98852">isInside</a> (const <a class="el" href="#adef4f1135b169a60150720254f2f1419">Point</a> &amp;p) const</td></tr>
 <tr class="memitem:a82df9a7c15e5a125d031dfded92056a4" id="r_a82df9a7c15e5a125d031dfded92056a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a82df9a7c15e5a125d031dfded92056a4">isDomainPointInside</a> (const <a class="el" href="#adef4f1135b169a60150720254f2f1419">Point</a> &amp;p) const</td></tr>
 <tr class="memitem:af1f81e2ffbc3be84f211d3c6f8411d02" id="r_af1f81e2ffbc3be84f211d3c6f8411d02"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af1f81e2ffbc3be84f211d3c6f8411d02">isInterior</a> (const <a class="el" href="#adef4f1135b169a60150720254f2f1419">Point</a> &amp;p) const</td></tr>
@@ -1048,7 +1050,7 @@ b</span> where <span class="tt">a</span> is some axis vector.</p>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>the index of the constraint in the polytope. </dd></dl>
 
-<p class="reference">Referenced by <a class="el" href="BoundedRationalPolytope_8h_source.html#l00762">DGtal::detail::BoundedRationalPolytopeSpecializer&lt; 3, TInteger &gt;::addEdgeConstraint()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="BoundedRationalPolytope_8h_source.html#l00769">DGtal::detail::BoundedRationalPolytopeSpecializer&lt; 3, TInteger &gt;::addEdgeConstraint()</a>.</p>
 
 </div>
 </div>
@@ -2007,7 +2009,7 @@ template&lt;typename TSpace&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00630">630</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00637">637</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
 
 </div>
 </div>
@@ -2033,7 +2035,7 @@ template&lt;typename TSpace&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00632">632</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00639">639</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
 
 </div>
 </div>
@@ -2085,7 +2087,7 @@ template&lt;typename TSpace&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00638">638</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00645">645</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
 
 </div>
 </div>
@@ -2111,7 +2113,7 @@ template&lt;typename TSpace&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00636">636</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00643">643</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
 
 </div>
 </div>
@@ -2137,7 +2139,7 @@ template&lt;typename TSpace&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00640">640</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00647">647</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
 
 </div>
 </div>
@@ -2163,7 +2165,7 @@ template&lt;typename TSpace&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00628">628</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00635">635</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
 
 </div>
 </div>
@@ -2189,7 +2191,7 @@ template&lt;typename TSpace&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00634">634</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedRationalPolytope_8h_source.html#l00641">641</a> of file <a class="el" href="BoundedRationalPolytope_8h_source.html">BoundedRationalPolytope.h</a>.</p>
 
 </div>
 </div>

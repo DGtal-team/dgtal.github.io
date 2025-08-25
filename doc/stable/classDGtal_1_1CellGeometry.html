@@ -1030,6 +1030,8 @@ template&lt;typename TKSpace&gt; </div>
       </table>
 </div><div class="memdoc">
 <p>Given a rational <em class="arg">polytope</em>, such that <span class="tt">polytope.canBeSummed()==true</span>, return the <em class="arg">i-cells</em> that intersect it.</p>
+<dl class="section note"><dt>Note</dt><dd>The rational polytope is dilated to a denominator 1 so that the cells/k-points have a meaning.</dd></dl>
+<dl class="section warning"><dt>Warning</dt><dd>Do not use when the polytope's denominator is too big, otherwise the returned set can be huge.</dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">polytope</td><td>any rational polytope such that <span class="tt">polytope.canBeSummed() == true</span> </td></tr>
@@ -1094,6 +1096,8 @@ template&lt;typename TKSpace&gt; </div>
       </table>
 </div><div class="memdoc">
 <p>Given a rational <em class="arg">polytope</em>, such that <span class="tt">polytope.canBeSummed()==true</span>, return the <em class="arg">i-kpoints</em> that intersect it.</p>
+<dl class="section note"><dt>Note</dt><dd>The rational polytope is dilated to a denominator 1 so that the cells/k-points have a meaning.</dd></dl>
+<dl class="section warning"><dt>Warning</dt><dd>Do not use when the polytope's denominator is too big, otherwise the returned set can be huge.</dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">polytope</td><td>any rational polytope such that <span class="tt">polytope.canBeSummed() == true</span> </td></tr>
@@ -1560,7 +1564,7 @@ template&lt;typename TKSpace&gt; </div>
 
 <p>The cellular space for cells. </p>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00377">377</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00389">389</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>
@@ -1588,7 +1592,7 @@ template&lt;typename TKSpace&gt; </div>
 
 <p>The unordered set that stores cells. </p>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00380">380</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00392">392</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>
@@ -1616,7 +1620,7 @@ template&lt;typename TKSpace&gt; </div>
 
 <p>The maximal cell dimension. </p>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00384">384</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00396">396</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>
@@ -1644,7 +1648,7 @@ template&lt;typename TKSpace&gt; </div>
 
 <p>The minimum cell dimension. </p>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00382">382</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00394">394</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>
@@ -1672,7 +1676,7 @@ template&lt;typename TKSpace&gt; </div>
 
 <p>Tells if verbose mode. </p>
 
-<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00386">386</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="CellGeometry_8h_source.html#l00398">398</a> of file <a class="el" href="CellGeometry_8h_source.html">CellGeometry.h</a>.</p>
 
 </div>
 </div>

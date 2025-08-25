@@ -1,5 +1,13 @@
 var NAVTREEINDEX8 =
 {
+"classDGtal_1_1BoundedLatticePolytopeCounter.html#a8394062b3a4f0ee08d5d5567bd86b692":[3,0,2,53,7],
+"classDGtal_1_1BoundedLatticePolytopeCounter.html#a8394062b3a4f0ee08d5d5567bd86b692":[4,0,2,47,7],
+"classDGtal_1_1BoundedLatticePolytopeCounter.html#a840561f7033fe7ed054133a0da2d5ae5":[3,0,2,53,27],
+"classDGtal_1_1BoundedLatticePolytopeCounter.html#a840561f7033fe7ed054133a0da2d5ae5":[4,0,2,47,27],
+"classDGtal_1_1BoundedLatticePolytopeCounter.html#a852d513c89b9b130f0c0f6fea6ec2a5c":[3,0,2,53,15],
+"classDGtal_1_1BoundedLatticePolytopeCounter.html#a852d513c89b9b130f0c0f6fea6ec2a5c":[4,0,2,47,15],
+"classDGtal_1_1BoundedLatticePolytopeCounter.html#a8962e265e86b108ca18538c56735b653":[3,0,2,53,25],
+"classDGtal_1_1BoundedLatticePolytopeCounter.html#a8962e265e86b108ca18538c56735b653":[4,0,2,47,25],
 "classDGtal_1_1BoundedLatticePolytopeCounter.html#a949448e939e43abf27d94794f81a1fa5":[3,0,2,53,18],
 "classDGtal_1_1BoundedLatticePolytopeCounter.html#a949448e939e43abf27d94794f81a1fa5":[4,0,2,47,18],
 "classDGtal_1_1BoundedLatticePolytopeCounter.html#a9c5c9b81255bb0906456e1ca92aa0b28":[3,0,2,53,19],
@@ -241,13 +249,5 @@ var NAVTREEINDEX8 =
 "classDGtal_1_1COBAGenericNaivePlaneComputer.html#a1a82f85c13140565e8bbefa365a1997a":[3,0,2,82,32],
 "classDGtal_1_1COBAGenericNaivePlaneComputer.html#a1a82f85c13140565e8bbefa365a1997a":[4,0,2,76,32],
 "classDGtal_1_1COBAGenericNaivePlaneComputer.html#a1f86b1c32ee42905bb0802c307967581":[3,0,2,82,24],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a1f86b1c32ee42905bb0802c307967581":[4,0,2,76,24],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a21c8c7fd783546c879ff2373fe8a6653":[3,0,2,82,8],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a21c8c7fd783546c879ff2373fe8a6653":[4,0,2,76,8],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a24befc506f56f3fa2484798be2e84fd7":[3,0,2,82,35],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a24befc506f56f3fa2484798be2e84fd7":[4,0,2,76,35],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a26c56763efdb792fb73d48fa6d6e91b4":[3,0,2,82,9],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a26c56763efdb792fb73d48fa6d6e91b4":[4,0,2,76,9],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a28537c7f8a8c296f4f03e1bfa7602302":[3,0,2,82,10],
-"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a28537c7f8a8c296f4f03e1bfa7602302":[4,0,2,76,10]
+"classDGtal_1_1COBAGenericNaivePlaneComputer.html#a1f86b1c32ee42905bb0802c307967581":[4,0,2,76,24]
 };

@@ -930,6 +930,8 @@ var namespaceDGtal =
     [ "operator+", "namespaceDGtal.html#ac46a7b9c949e01848e801f40177853dd", null ],
     [ "operator+", "namespaceDGtal.html#a7a4da979d1cca037b81d2bab9a768c79", null ],
     [ "operator+", "namespaceDGtal.html#a24b5a3cd015d3fb15622a4f03531322d", null ],
+    [ "operator+", "namespaceDGtal.html#aafb0e23f87c1ccab737615529f78f6f0", null ],
+    [ "operator+", "namespaceDGtal.html#a7c96bc42afaf7f4bc0b718e6412464be", null ],
     [ "operator+", "namespaceDGtal.html#ac81e4bfd88ea9b04dfac2bccd43aa020", null ],
     [ "operator+", "namespaceDGtal.html#ad5173521fbb7ff07572be9188c8bb007", null ],
     [ "operator+", "namespaceDGtal.html#a5456a2c95be6ed03862471fc78f6a05c", null ],

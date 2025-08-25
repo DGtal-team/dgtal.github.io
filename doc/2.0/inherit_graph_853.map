@@ -1,13 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$structDGtal_1_1NumberTraitsImpl.html" title="Aim: The traits class for all models of Cinteger (implementation)" alt="" coords="5,120,173,161"/>
-<area shape="rect" id="Node000001" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="222,5,416,31"/>
-<area shape="poly" id="edge306_Node000000_Node000001" title=" " alt="" coords="122,108,167,73,220,41,251,29,253,34,222,46,170,77,126,112"/>
-<area shape="rect" id="Node000002" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="221,55,417,96"/>
-<area shape="poly" id="edge307_Node000000_Node000002" title=" " alt="" coords="176,113,244,94,245,99,178,118"/>
-<area shape="rect" id="Node000003" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="238,120,400,161"/>
-<area shape="poly" id="edge308_Node000000_Node000003" title=" " alt="" coords="188,138,237,138,237,144,188,144"/>
-<area shape="rect" id="Node000004" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="238,186,400,226"/>
-<area shape="poly" id="edge309_Node000000_Node000004" title=" " alt="" coords="178,163,245,183,244,188,176,168"/>
-<area shape="rect" id="Node000005" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="224,251,414,276"/>
-<area shape="poly" id="edge310_Node000000_Node000005" title=" " alt="" coords="126,170,170,204,222,236,253,248,251,253,220,241,167,209,122,174"/>
+<area shape="rect" id="Node000000" href="$structDGtal_1_1NumberTraitsImpl.html" title=" " alt="" coords="5,5,177,46"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1NumberTraits.html" title="Aim: The traits class for all models of Cinteger." alt="" coords="225,13,399,38"/>
+<area shape="poly" id="edge302_Node000000_Node000001" title=" " alt="" coords="192,23,224,23,224,28,192,28"/>
 </map>

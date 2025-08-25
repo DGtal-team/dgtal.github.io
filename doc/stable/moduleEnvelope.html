@@ -123,9 +123,10 @@ Envelope of a digital set</h2>
 \)</p>
 <p>where:</p><ul>
 <li>\( \mathrm{CvxH} \) denotes the standard convex hull in Euclidean space,</li>
-<li>\( \mathrm{Star} \) denotes the set of cells of the cubical grid complex induced by lattice points, whose closure intersects the given set,</li>
+<li>\( \mathrm{Star} \) denotes the set of cells of the cubical grid complex whose closure intersects the given Euclidean set,</li>
 <li>\( \mathrm{Skel} \) denotes the skeleton of a cell complex, i.e. the smallest cell complex whose star is equal to the input cell complex,</li>
-<li>\( \mathrm{Extr} \) returns the set of lattice points that are vertices of cells of the given cell complex.</li>
+<li>\( \mathrm{Extr} \) returns the set of lattice points that are vertices of cells of the given cell complex,</li>
+<li>\( \mathrm{Cover} \) denotes the set of cells of the cubical grid complex which have a non empty intersection with the given Euclidean set.</li>
 </ul>
 <p>The envelope operator is the limit of the iterated repetition of operator \( \mathrm{FC} \). It is proven that this sequence achieves a fixed point in a bounded number of iterations. The figure below illustrates this operator in 2D.</p>
 <div class="image">
@@ -163,6 +164,7 @@ Computing fully convex envelopes</h2>
 <li><a class="el" href="classDGtal_1_1DigitalConvexity.html#a5f8e046968925ce2b36313e6a97b6382">DigitalConvexity::Extr</a> computes the extremal vertices of a range of cells.</li>
 <li><a class="el" href="classDGtal_1_1DigitalConvexity.html#a472d893d2d1736c7fc662a39f0756179">DigitalConvexity::ExtrCvxH</a> computes the extremal vertices of the convex hull of a range of lattice points.</li>
 <li><a class="el" href="classDGtal_1_1DigitalConvexity.html#ace8e05ee36ff537409e7d37c09264bb4">DigitalConvexity::ExtrSkel</a> computes the extremal vertices of the skeleton of a range of cells.</li>
+<li><a class="el" href="classDGtal_1_1DigitalConvexity.html#ab7677f3e5eabebf589500dadb3043149">DigitalConvexity::CoverCvxH</a> computes the set of lattice cells \( \mathrm{Cover}(\mathrm{CvxH}(a,b)) \) or \( \mathrm{Cover}(\mathrm{CvxH}(a,b,c)) \), i.e. the cells that have a non-empty intersection with the convex hull of the given triangle (limited to 3D at the moment).</li>
 </ul>
 <p><b>Representations</b> and <b>conversions</b> </p>
 <p>The previous static methods use two representations for lattice points and cells:</p>

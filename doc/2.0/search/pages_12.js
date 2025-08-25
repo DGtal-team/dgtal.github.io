@@ -1,7 +1,7 @@
 var searchData=
 [
   ['k_20form_20and_20vector_20field_0',['Scalar field, k-form and vector field',['../moduleDECIntroduction.html#sectDECIntroductionObjects',1,'']]],
-  ['kernel_1',['Kernel',['../moduleIntroduction.html#dgtalintroPackagesKernel',1,'']]],
+  ['kernel_1',['Kernel',['../packagePython.html#base_topology_kernel',1,'Base, Topology and Kernel'],['../moduleIntroduction.html#dgtalintroPackagesKernel',1,'Kernel']]],
   ['kernel_20concepts_2',['Kernel Concepts',['../packageKernelConcepts.html',1,'packageKernel']]],
   ['kernel_20laplace_20ndash_20beltrami_20operator_3',['Heat Kernel Laplace&amp;ndash;Beltrami Operator',['../moduleHeatLaplaceOperator.html',1,'packageDEC']]],
   ['kernel_20package_4',['Kernel package',['../packageKernel.html',1,'index']]],

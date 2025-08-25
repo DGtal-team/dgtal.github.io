@@ -1,5 +1,13 @@
 var NAVTREEINDEX11 =
 {
+"classDGtal_1_1ChordGenericNaivePlaneComputer.html#a4172061afd24d78d4adcf046ea09c356":[3,0,2,71,41],
+"classDGtal_1_1ChordGenericNaivePlaneComputer.html#a4172061afd24d78d4adcf046ea09c356":[4,0,2,65,41],
+"classDGtal_1_1ChordGenericNaivePlaneComputer.html#a4280c297ad75f6ab56828daba03f67f5":[3,0,2,71,2],
+"classDGtal_1_1ChordGenericNaivePlaneComputer.html#a4280c297ad75f6ab56828daba03f67f5":[4,0,2,65,2],
+"classDGtal_1_1ChordGenericNaivePlaneComputer.html#a46a221b59607be14e052e164795f3b16":[3,0,2,71,19],
+"classDGtal_1_1ChordGenericNaivePlaneComputer.html#a46a221b59607be14e052e164795f3b16":[4,0,2,65,19],
+"classDGtal_1_1ChordGenericNaivePlaneComputer.html#a49d1b7c58ca2b1c25bf19fec9d08f9e6":[3,0,2,71,45],
+"classDGtal_1_1ChordGenericNaivePlaneComputer.html#a49d1b7c58ca2b1c25bf19fec9d08f9e6":[4,0,2,65,45],
 "classDGtal_1_1ChordGenericNaivePlaneComputer.html#a52d5c3687d2f43f6157d43a63fa4805b":[3,0,2,71,6],
 "classDGtal_1_1ChordGenericNaivePlaneComputer.html#a52d5c3687d2f43f6157d43a63fa4805b":[4,0,2,65,6],
 "classDGtal_1_1ChordGenericNaivePlaneComputer.html#a567ba9389661a52acc40a4734fb6a8bb":[3,0,2,71,24],
@@ -241,13 +249,5 @@ var NAVTREEINDEX11 =
 "classDGtal_1_1ChordNaivePlaneComputer.html#a3264fbfe2a8b7261186062247d40e36a":[3,0,2,73,57],
 "classDGtal_1_1ChordNaivePlaneComputer.html#a3264fbfe2a8b7261186062247d40e36a":[4,0,2,67,57],
 "classDGtal_1_1ChordNaivePlaneComputer.html#a397bcc3c6e543b6d82f4e41ed81faeb4":[3,0,2,73,60],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a397bcc3c6e543b6d82f4e41ed81faeb4":[4,0,2,67,60],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a3b7803ef8983801401bc9800baef2a76":[3,0,2,73,85],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a3b7803ef8983801401bc9800baef2a76":[4,0,2,67,85],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a3d6ed9662e334b9dee8d87b5cc62c0ee":[3,0,2,73,36],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a3d6ed9662e334b9dee8d87b5cc62c0ee":[4,0,2,67,36],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a3dc8742231de5010d6f6fbeee1dda436":[3,0,2,73,46],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a3dc8742231de5010d6f6fbeee1dda436":[4,0,2,67,46],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a408f943ec924c9cf154ad3e65806e6c9":[3,0,2,73,34],
-"classDGtal_1_1ChordNaivePlaneComputer.html#a408f943ec924c9cf154ad3e65806e6c9":[4,0,2,67,34]
+"classDGtal_1_1ChordNaivePlaneComputer.html#a397bcc3c6e543b6d82f4e41ed81faeb4":[4,0,2,67,60]
 };

@@ -1,14 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,138,113,163"/>
-<area shape="rect" id="Node000001" href="$structDGtal_1_1IsAPointVector_3_01PointVector_3_01dim_00_01TEuclideanRing_00_01TContainer_01_4_01_4.html" title="Specialization of IsAPointVector for a PointVector." alt="" coords="189,5,396,61"/>
-<area shape="poly" id="edge368_Node000000_Node000001" title=" " alt="" coords="93,126,111,114,134,91,159,70,187,56,189,61,162,74,138,94,114,118,97,131"/>
-<area shape="rect" id="Node000003" href="$structDGtal_1_1IsArithmeticConversionValid_3_01T_00_01U_00_01typename_01std_1_1conditional_3_01f3d12afaad57391e67b8a4fff74de6483.html" title="Specialization when arithmetic operation between the two given type is valid." alt="" coords="161,84,424,155"/>
-<area shape="poly" id="edge369_Node000000_Node000003" title=" " alt="" coords="128,139,160,135,160,140,129,144"/>
-<area shape="rect" id="Node000004" href="$structDGtal_1_1IsAPointVector.html" title="Type trait to check if a given type is a PointVector." alt="" coords="201,179,384,205"/>
-<area shape="poly" id="edge370_Node000000_Node000004" title=" " alt="" coords="129,160,217,176,216,181,128,165"/>
-<area shape="rect" id="Node000005" href="$structDGtal_1_1IsArithmeticConversionValid.html" title="Helper to determine if an arithmetic operation between two given types has a valid result type (ie is..." alt="" coords="193,229,392,270"/>
-<area shape="poly" id="edge371_Node000000_Node000005" title=" " alt="" coords="90,171,124,194,162,215,193,226,191,231,160,220,121,199,87,175"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="8,78,110,103"/>
-<area shape="poly" id="edge372_Node000002_Node000001" title=" " alt="" coords="124,72,187,56,189,61,125,77"/>
-<area shape="poly" id="edge373_Node000002_Node000003" title=" " alt="" coords="125,96,160,101,160,106,125,101"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,100,120,126"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1KhalimskyPreSpaceND_1_1AnyCellCollection.html" title=" " alt="" coords="168,5,364,61"/>
+<area shape="poly" id="edge360_Node000000_Node000001" title=" " alt="" coords="110,92,192,59,194,64,112,97"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1KhalimskyPreSpaceND_1_1AnyCellCollection.html" title=" " alt="" coords="168,85,364,141"/>
+<area shape="poly" id="edge361_Node000000_Node000002" title=" " alt="" coords="135,110,167,110,167,116,135,116"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1KhalimskyPreSpaceND_1_1AnyCellCollection.html" title=" " alt="" coords="168,165,364,221"/>
+<area shape="poly" id="edge362_Node000000_Node000003" title=" " alt="" coords="112,130,194,162,192,167,110,135"/>
 </map>

@@ -99,30 +99,43 @@ $(function(){initNavTree('packagePython.html','',''); });
   <div class="headertitle"><div class="title">DGtal python binding </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><dl class="section user"><dt>Package managers: </dt><dd>Pablo Hernandez-Cerdan, David Coeurjolly </dd></dl>
+<div class="textblock"><dl class="section user"><dt>Package managers: </dt><dd>David Coeurjolly </dd></dl>
 <dl class="section since"><dt>Since</dt><dd>1.2</dd></dl>
 <p><b>Package</b> <b>Overview</b> </p>
 <p>Since release 1.2, <a class="el" href="namespaceDGtal.html" title="DGtal is the top-level namespace which contains all DGtal functions and types.">DGtal</a> has a partial python binding using <a href="https://github.com/pybind/pybind11">pybind11</a>. To install the python package, just use: </p><div class="fragment"><div class="line">pip install dgtal</div>
-</div><!-- fragment --><p>Then, you can import the module in python:</p>
+</div><!-- fragment --><h1 class="doxsection"><a class="anchor" id="install_and_build"></a>
+Installing and building the library</h1>
+<p>For most use case, it is sufficient to install the library from its pypy repository.</p>
+<div class="fragment"><div class="line">pip install dgtal</div>
+</div><!-- fragment --><p>If it fails, it is also possible to build from sources. See []. In short:</p>
+<div class="fragment"><div class="line">git clone </div>
+<div class="line">cd <a class="code hl_namespace" href="namespaceDGtal.html">DGtal</a> &amp;&amp; mkdir build &amp;&amp; cd build</div>
+<div class="line">cmake .. -DDGTAL_WRAP_PYTHON=<a class="code hl_enumvalue" href="namespaceDGtal.html#a9f6cc75dc44e45506a66cd233e0deb41a7671a5416d92f37137f9999ca23dd65e">ON</a></div>
+<div class="ttc" id="anamespaceDGtal_html"><div class="ttname"><a href="namespaceDGtal.html">DGtal</a></div><div class="ttdoc">DGtal is the top-level namespace which contains all DGtal functions and types.</div><div class="ttdef"><b>Definition</b> <a href="ClosedIntegerHalfPlane_8h_source.html#l00048">ClosedIntegerHalfPlane.h:49</a></div></div>
+<div class="ttc" id="anamespaceDGtal_html_a9f6cc75dc44e45506a66cd233e0deb41a7671a5416d92f37137f9999ca23dd65e"><div class="ttname"><a href="namespaceDGtal.html#a9f6cc75dc44e45506a66cd233e0deb41a7671a5416d92f37137f9999ca23dd65e">DGtal::ON</a></div><div class="ttdeci">@ ON</div><div class="ttdef"><b>Definition</b> <a href="Common_8h_source.html#l00124">Common.h:124</a></div></div>
+</div><!-- fragment --><p>Which build the necessary shared library and copy the few plain python code; which may need to be further installed depending on your installation.</p>
+<p>To import the module and access its functionalities:</p>
 <div class="fragment"><div class="line"><span class="keyword">import</span> dgtal</div>
 <div class="line">....</div>
-</div><!-- fragment --><p>At this point, only a partial support is available (some base, kernel, image, topology classes). For a complete review of the available tools, have a look to this <a href="https://github.com/DGtal-team/DGtal/pull/1528">Pull-Request</a>.</p>
-<p>Just a quick example (Euler characteristics and simple point detection on random sets):</p>
+</div><!-- fragment --><h1 class="doxsection"><a class="anchor" id="code_example"></a>
+Examples</h1>
+<h2 class="doxsection"><a class="anchor" id="topology_example"></a>
+Topology example (Euler characteristics)</h2>
 <div class="fragment"><div class="line"><span class="keyword">import</span> dgtal</div>
-<div class="line">import random</div>
+<div class="line"><span class="keyword">import</span> random</div>
 <div class="line"> </div>
 <div class="line">Point  = dgtal.kernel.Point3D</div>
 <div class="line">Domain = dgtal.kernel.DomainZ3i</div>
 <div class="line">Set    = dgtal._dgtal.kernel.DigitalSetZ3i</div>
 <div class="line"> </div>
-<div class="line">dom    = Domain( Point(0,0,0), Point(10,10,10))</div>
+<div class="line">dom    = Domain( <a class="code hl_class" href="classMyPointD.html">Point</a>(0,0,0), <a class="code hl_class" href="classMyPointD.html">Point</a>(10,10,10))</div>
 <div class="line">mySet  = Set(dom)</div>
 <div class="line"> </div>
-<div class="line"># Random set</div>
-<div class="line">for i in range(50*50):</div>
-<div class="line">  mySet.insert(Point(random.randint(0,10),random.randint(0,10),random.randint(0,10)))</div>
+<div class="line"><span class="comment"># Random set</span></div>
+<div class="line"><span class="keywordflow">for</span> i <span class="keywordflow">in</span> range(50*50):</div>
+<div class="line">  mySet.insert(<a class="code hl_class" href="classMyPointD.html">Point</a>(random.randint(0,10),random.randint(0,10),random.randint(0,10)))</div>
 <div class="line"> </div>
-<div class="line"># Digital Object (with topology)</div>
+<div class="line"><span class="comment"># Digital Object (with topology)</span></div>
 <div class="line">Object = dgtal.topology.Object26_6</div>
 <div class="line">Topo   = Object.TDigitalTopology</div>
 <div class="line">FAdj   = Topo.TForegroundAdjacency</div>
@@ -132,20 +145,228 @@ $(function(){initNavTree('packagePython.html','',''); });
 <div class="line">topo   = Topo(fadj, badj)</div>
 <div class="line">obj    = Object(topo,mySet)</div>
 <div class="line"> </div>
-<div class="line">#Counting the simple points</div>
+<div class="line"><span class="comment">#Counting the simple points</span></div>
 <div class="line">cptSimple=0</div>
-<div class="line">for p in mySet:</div>
-<div class="line">    if obj.isSimple(p):</div>
+<div class="line"><span class="keywordflow">for</span> p <span class="keywordflow">in</span> mySet:</div>
+<div class="line">    <span class="keywordflow">if</span> obj.isSimple(p):</div>
 <div class="line">        cptSimple += 1</div>
-<div class="line">print(&quot;Number of simple points: &quot;+str(cptSimple)+ <span class="stringliteral">&quot; / &quot;</span> + str(mySet.size()))</div>
+<div class="line">print(<span class="stringliteral">&quot;Number of simple points: &quot;</span>+str(cptSimple)+ <span class="stringliteral">&quot; / &quot;</span> + str(mySet.size()))</div>
 <div class="line"> </div>
-<div class="line"># Cubical Complex</div>
+<div class="line"><span class="comment"># Cubical Complex</span></div>
 <div class="line">kspace   = dgtal.topology.KSpace3D()</div>
 <div class="line">ccomplex = dgtal.topology.CubicalComplex3D(kspace)</div>
 <div class="line">ccomplex.construct(mySet)</div>
 <div class="line"> </div>
 <div class="line">print(<span class="stringliteral">&quot;Euler characteristic: &quot;</span>+str(ccomplex.euler()))</div>
-</div><!-- fragment --> </div></div><!-- contents -->
+<div class="ttc" id="aclassMyPointD_html"><div class="ttname"><a href="classMyPointD.html">MyPointD</a></div><div class="ttdef"><b>Definition</b> <a href="testClone2_8cpp_source.html#l00346">testClone2.cpp:346</a></div></div>
+</div><!-- fragment --><h2 class="doxsection"><a class="anchor" id="shortcuts_examples"></a>
+Geometrical Estimators (Curvature and normals)</h2>
+<p>This example loads a binary image and computes integral invariant estimators and displays them within an interactive viewer. It mostly follows <a class="el" href="classDGtal_1_1Shortcuts.html" title="Aim: This class is used to simplify shape and surface creation. With it, you can create new shapes an...">Shortcuts</a> examples with a one-to-one mapping. <a class="el" href="structA.html">A</a> few other utilities are provided not to loop over elements in python.</p>
+<p>This example requires <a href="https://polyscope.run/py/">polyscope</a> to be installed</p>
+<div class="fragment"><div class="line"><span class="keyword">from</span> dgtal <span class="keyword">import</span> *</div>
+<div class="line"><span class="keyword">from</span> dgtal <span class="keyword">import</span> SH3</div>
+<div class="line"><span class="keyword">import</span> polyscope <span class="keyword">as</span> ps</div>
+<div class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</div>
+<div class="line"> </div>
+<div class="line"> </div>
+<div class="line">params = SH3.defaultParameters()</div>
+<div class="line"> </div>
+<div class="line"><span class="comment"># Available within examples/samples. This path can be obtained with SH3.helpers.SAMPLES_PATH</span></div>
+<div class="line">al_capone = SH3.makeBinaryImage(<span class="stringliteral">&quot;Al.100.vol&quot;</span>, params)</div>
+<div class="line"> </div>
+<div class="line"><span class="comment"># An image can also be obtained with a tri-dimensionnal array of 1 and 0s</span></div>
+<div class="line"><span class="comment"># size = np.asarray([100, 100, 100])</span></div>
+<div class="line"><span class="comment"># img = np.zeros(shape=size)</span></div>
+<div class="line"><span class="comment"># img[25:76, 25:76, 25:76] = 1 # A cube 50 voxels wide</span></div>
+<div class="line"><span class="comment"># digitalCube = SH3.makeBinaryImage(img.flatten().tolist(), Domain(Point(data=[0, 0, 0]), Point(data=size - 1))) # Domain are inclusive on their bounds.</span></div>
+<div class="line"> </div>
+<div class="line">K = SH3.getKSpace(al_capone, params)</div>
+<div class="line">surface = SH3.makeLightDigitalSurface(al_capone, K, params)</div>
+<div class="line">surfels = SH3.getSurfelRange(surface, params)</div>
+<div class="line"> </div>
+<div class="line">normals = SH3.getIINormalVectors(al_capone, surfels, params)</div>
+<div class="line">meanCurvs  = SH3.getIIMeanCurvatures(al_capone, surfels, params)</div>
+<div class="line">gaussCurvs = SH3.getIIGaussianCurvatures(al_capone, surfels, params)</div>
+<div class="line"> </div>
+<div class="line"><span class="comment"># Display information</span></div>
+<div class="line"> </div>
+<div class="line"><span class="comment"># Define coordinates of the unit cube</span></div>
+<div class="line">pos = SH3.getEmbeddedPositions(K, surfels)</div>
+<div class="line">cubes = np.asarray([</div>
+<div class="line">    [-0.5, -0.5, -0.5],</div>
+<div class="line">    [-0.5,  0.5, -0.5],</div>
+<div class="line">    [ 0.5,  0.5, -0.5],</div>
+<div class="line">    [ 0.5, -0.5, -0.5],</div>
+<div class="line">    [-0.5, -0.5,  0.5],</div>
+<div class="line">    [-0.5,  0.5,  0.5],</div>
+<div class="line">    [ 0.5,  0.5,  0.5],</div>
+<div class="line">    [ 0.5, -0.5,  0.5]</div>
+<div class="line">])</div>
+<div class="line"> </div>
+<div class="line">points  = pos[:, np.newaxis, :] + cubes</div>
+<div class="line">points  = points.reshape(len(pos) * 8 , 3)</div>
+<div class="line">indices = np.arange(len(pos) * 8).reshape(len(pos), 8)</div>
+<div class="line"> </div>
+<div class="line">ps.init()</div>
+<div class="line">vmesh = ps.register_volume_mesh(<span class="stringliteral">&quot;Al&quot;</span>, points, hexes=indices)</div>
+<div class="line">vmesh.add_scalar_quantity(<span class="stringliteral">&quot;Mean Curvature&quot;</span>, np.asarray(meanCurvs), defined_on=<span class="stringliteral">&#39;cells&#39;</span>, enabled=<span class="keyword">False</span>)</div>
+<div class="line">vmesh.add_scalar_quantity(<span class="stringliteral">&quot;Gaussian Curvature&quot;</span>, np.asarray(gaussCurvs), defined_on=<span class="stringliteral">&#39;cells&#39;</span>, enabled=<span class="keyword">True</span>)</div>
+<div class="line">vmesh.add_vector_quantity(<span class="stringliteral">&quot;Normals&quot;</span>, np.asarray(normals), defined_on=<span class="stringliteral">&#39;cells&#39;</span>, enabled=<span class="keyword">True</span>)</div>
+<div class="line">ps.show()</div>
+<div class="line"><span class="comment"># colors = SH3.applyColorMap(np.arange(len(surfels)), params)</span></div>
+<div class="line"><span class="comment"># SH3.saveOBJ(surface, [], colors, &quot;al.obj&quot;)</span></div>
+</div><!-- fragment --><h1 class="doxsection"><a class="anchor" id="documentation"></a>
+Documentation</h1>
+<h2 class="doxsection"><a class="anchor" id="base_topology_kernel"></a>
+Base, Topology and Kernel</h2>
+<p>In this section, we provide a list of functions and classes that can be used in python. You may find more documentation and example usage by calling the help function on these classes (eg. help(dgtal.Object4_8)). The python constructor column shows how objects can be inferred through their parameters (for example, point dimension and type from the data parameter). Often, this is done through factories that are written in python.</p>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadNone">Python class(es)  </th><th class="markdownTableHeadNone">C++ class(es)  </th><th class="markdownTableHeadNone">Python constructor  </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">Point2D, <a class="el" href="structPoint3D.html">Point3D</a>, RealPoint2D, <a class="el" href="sphereCotangentLaplaceOperator_8cpp.html#a99ac5d02e94a826f7d0ce6da9297ea03">RealPoint3D</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1PointVector.html" title="Aim: Implements basic operations that will be used in Point and Vector classes.">DGtal::PointVector</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1SpaceND.html">Point</a>(data=list_or_np_array)  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">DomainZ2i, DomainZ3i  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1HyperRectDomain.html" title="Aim: Parallelepidec region of a digital space, model of a &#39;CDomain&#39;.">DGtal::HyperRectDomain</a>  </td><td class="markdownTableBodyNone"><a class="el" href="testSimpleRandomAccessRangeFromPoint_8cpp.html#acd532b318489cd93df57e0b3d136d050">Domain(point_lower, point_upper)</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">PreCell2D, SPreCell2D, KPreSpace2D, PreCell3D, SPreCell3D, KPreSpace3D  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1KhalimskyPreSpaceND.html" title="Aim: This class is a model of CPreCellularGridSpaceND. It represents the cubical grid as a cell compl...">DGtal::KhalimskyPreSpaceND</a> <a class="el" href="structDGtal_1_1KhalimskyPreCell.html" title="Represents an unsigned cell in an unbounded cellular grid space by its Khalimsky coordinates.">DGtal::KhalimskyPreCell</a>  </td><td class="markdownTableBodyNone">N/A  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">Cell2D, SCell2D, KSpace2D Cell3D, SCell3D, KSpace3D  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1KhalimskySpaceND.html" title="Aim: This class is a model of CCellularGridSpaceND. It represents the cubical grid as a cell complex,...">DGtal::KhalimskySpaceND</a> <a class="el" href="structDGtal_1_1KhalimskyCell.html" title="Represents an (unsigned) cell in a cellular grid space by its Khalimsky coordinates.">DGtal::KhalimskyCell</a>  </td><td class="markdownTableBodyNone"><a class="el" href="testArithmeticalDSSComputerOnSurfels_8cpp.html#aebe586e91159919ccf2f565d4407fff7">KSpace(dim)</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">Adj4, Adj8, Adj6, Adj18, Adj26  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1MetricAdjacency.html" title="Aim: Describes digital adjacencies in digital spaces that are defined with the 1-norm and the infinit...">DGtal::MetricAdjacency</a>  </td><td class="markdownTableBodyNone">MetricAdjacency(dim, maxnorm) Ex: adj26 implies dim=3, maxnorm=3  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">DT4_8, DT8_4, DT6_16, DT18_6, DT6_26, DT26_6  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1DigitalTopology.html" title="Aim: Represents a digital topology as a couple of adjacency relations.">DGtal::DigitalTopology</a>  </td><td class="markdownTableBodyNone">DigitalTopology(foreground, background)  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">Object4_8, Object8_4, Object6_18, Object18_6, Object6_26, Object26_6  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Object.html" title="Aim: An object (or digital object) represents a set in some digital space associated with a digital t...">DGtal::Object</a>  </td><td class="markdownTableBodyNone">Object(topology, domain, points, connectedness)  </td></tr>
+</table>
+<h2 class="doxsection"><a class="anchor" id="shortcuts"></a>
+Shortcuts</h2>
+<p>Most shortcuts (see. <a class="el" href="moduleShortcuts.html">Shortcuts (for the impatient developper)</a>) also have their binding. These are available under:</p>
+<div class="fragment"><div class="line">from dgtal <span class="keyword">import</span> SH3 #Import both shortcuts and geometry shortcuts</div>
+<div class="line">SH3.a_function_or_classes..</div>
+</div><!-- fragment --><h3 class="doxsection"><a class="anchor" id="shortcuts_classes"></a>
+Classes</h3>
+<p>Objects within this module are not expected to be manipulated by the user. They are meant to be passed around to the next functions and are prefixed by two underscores. We reference them for completeness</p>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadNone">Python class(es)  </th><th class="markdownTableHeadNone">C++ class(es)  </th><th class="markdownTableHeadNone">Available methods (if any)  </th><th class="markdownTableHeadNone">Comments  </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">__PtrBInaryImage  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts.">DGtal::CountedPtr</a> on <a class="el" href="classDGtal_1_1Shortcuts.html#a07689c2d5826beb32aca7b465c1a9124" title="defines a black and white image with (hyper-)rectangular domain.">DGtal::Shortcuts::BinaryImage</a>  </td><td class="markdownTableBodyNone">None  </td><td class="markdownTableBodyNone">Not to be used.  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">__PtrGrayScaleImage  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts.">DGtal::CountedPtr</a> on <a class="el" href="classDGtal_1_1Shortcuts.html#a9f7c28818db99ec718b27c1e5fb91166" title="defines a grey-level image with (hyper-)rectangular domain.">DGtal::Shortcuts::GrayScaleImage</a>  </td><td class="markdownTableBodyNone">None  </td><td class="markdownTableBodyNone">Not to be used.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">__PtrLightDigitalSurface  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts.">DGtal::CountedPtr</a> on <a class="el" href="classDGtal_1_1Shortcuts.html#af76e952f409c0d74e974f0ec1b6c4504" title="defines a connected digital surface over a binary image.">DGtal::Shortcuts::LightDigitalSurface</a>  </td><td class="markdownTableBodyNone">len(object): Number of surfels / object.size(): Number of surfels  </td><td class="markdownTableBodyNone">Not to be used (except to query size)  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">__PtrTriangulatedSurface  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts.">DGtal::CountedPtr</a> on <a class="el" href="classDGtal_1_1Shortcuts.html#a48907f746327a48738eb270775ff716b">DGtal::Shortcuts::TriangulatedSurface</a>  </td><td class="markdownTableBodyNone">None  </td><td class="markdownTableBodyNone">Not to be used.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">__PtrMesh  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts.">DGtal::CountedPtr</a> on <a class="el" href="classDGtal_1_1Shortcuts.html#a73c1b5c0cbc153a9a018a9bcf810ea82">DGtal::Shortcuts::Mesh</a>  </td><td class="markdownTableBodyNone">len(object): Number of vertices / object.nbVertex: Number of vertices  </td><td class="markdownTableBodyNone">Not to be used (except to query size)  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">__PtrImplicitShape3D  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts.">DGtal::CountedPtr</a> on <a class="el" href="classDGtal_1_1Shortcuts.html#a664bab94d1b13e1b1f545c78582e406f">DGtal::Shortcuts::ImplicitShape3D</a>  </td><td class="markdownTableBodyNone">None  </td><td class="markdownTableBodyNone">Not to be used.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">__PtrDigitizedImplicitShape3D  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1CountedPtr.html" title="Aim: Smart pointer based on reference counts.">DGtal::CountedPtr</a> on <a class="el" href="classDGtal_1_1Shortcuts.html#ac144d899eb54b2af3224be913bfcc171" title="defines the digitization of an implicit shape.">DGtal::Shortcuts::DigitizedImplicitShape3D</a>  </td><td class="markdownTableBodyNone">None  </td><td class="markdownTableBodyNone">Not to be used.  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">Cell2Index  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a494dc8f34f9ce89efd13f5e34a183e9e">DGtal::Shortcuts::Cell2Index</a>  </td><td class="markdownTableBodyNone">None  </td><td class="markdownTableBodyNone">Not to be used (except to be created and passed to funtions)  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">ColorMap  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a029023159c20c462528a0f4873933c35">DGtal::Shortcuts::ColorMap</a>  </td><td class="markdownTableBodyNone">ColorMap(min, max) / object.addColor(dgtal.Color): adds a color / object(value): convert value to color /  </td><td class="markdownTableBodyNone">See: applyColorMap  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SurfelRange  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a76a14a037dda3235860ff71596ce915b">DGtal::Shortcuts::SurfelRange</a>  </td><td class="markdownTableBodyNone"></td><td class="markdownTableBodyNone">std::vector&lt;SCell&gt;. See documentation of kernel binding above.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">ScalarStatistic  </td><td class="markdownTableBodyNone">DGtal::Shortcuts::ScalarStatistic  </td><td class="markdownTableBodyNone">samples(): number of samples / size(): number of samples / mean(): mean / variance(): biased variance / unbiasedVariance(): unbiased variance / min(): min / <a class="el" href="testArithmeticalDSS_8cpp.html#af082905f7eac6d03e92015146bbc1925">max()</a>: max / values: list of values  </td><td class="markdownTableBodyNone">Not to be created.  </td></tr>
+</table>
+<h3 class="doxsection"><a class="anchor" id="shortcuts_functions"></a>
+Functions</h3>
+<p>Static functions are also bound. For overloads, we only indicate the main parameters, not the whole signature. Refer to the C++ functions for complete signature (1 to 1 match).</p>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadNone">Python method  </th><th class="markdownTableHeadNone">C++ method  </th><th class="markdownTableHeadNone">Overloads (see C++ methods for more details)  </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.makeBinaryImage  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#af8ce3bb03c1ddbb306b77207afc091d0">Shortcuts::makeBinaryImage</a>  </td><td class="markdownTableBodyNone">std::string / <a class="el" href="classDGtal_1_1Shortcuts.html#ac144d899eb54b2af3224be913bfcc171" title="defines the digitization of an implicit shape.">Shortcuts::DigitizedImplicitShape3D</a> / std::vector  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.makeGrayScaleImage  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a7af8c87cb8c5589925ac2984ba8211ef">Shortcuts::makeGrayScaleImage</a>  </td><td class="markdownTableBodyNone">std::string / std::vector  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.makeDigitalSurface  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a93309902099a369efffe30a7e849673e">Shortcuts::makeDigitalSurface</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a07689c2d5826beb32aca7b465c1a9124" title="defines a black and white image with (hyper-)rectangular domain.">Shortcuts::BinaryImage</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.makeLightDigitalSurface  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a8b113fa75b72b9f3a354454f4be88969">Shortcuts::makeLightDigitalSurface</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.makeLightDigitalSurfaces  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a73f202cf83c63cf90a5cef9c6300bb8f">Shortcuts::makeLightDigitalSurfaces</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a07689c2d5826beb32aca7b465c1a9124" title="defines a black and white image with (hyper-)rectangular domain.">Shortcuts::BinaryImage</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.makeTriangulatedSurface  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#aff7ae78444d8de1a8a26e801c66ea2f1">Shortcuts::makeTriangulatedSurface</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a9f7c28818db99ec718b27c1e5fb91166" title="defines a grey-level image with (hyper-)rectangular domain.">Shortcuts::GrayScaleImage</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.makeMesh  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a5b1ae4172ef9bd8dea3159a317f60159">Shortcuts::makeMesh</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a48907f746327a48738eb270775ff716b">Shortcuts::TriangulatedSurface</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.makeImplicitShape3D  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#afa5bfec9d0da321962c3a17e39c25926">Shortcuts::makeImplicitShape3D</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.makeDigitizedImplicitShape3D  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a2e31dfecc5a7dc9116f5bfc7161c136c">Shortcuts::makeDigitizedImplicitShape3D</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.makeIdxDigitalSurface  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#ac8ac0b387df6b9dc10f59da942864d80">Shortcuts::makeIdxDigitalSurface</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a07689c2d5826beb32aca7b465c1a9124" title="defines a black and white image with (hyper-)rectangular domain.">Shortcuts::BinaryImage</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.saveBinaryImage  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#ac1b806609d39694507734820b363b822">Shortcuts::saveBinaryImage</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.saveOBJ  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#af32637a785c463811df270bfa43bcd2c">Shortcuts::saveOBJ</a>  </td><td class="markdownTableBodyNone">(<a class="el" href="classDGtal_1_1Shortcuts.html#a48907f746327a48738eb270775ff716b">Shortcuts::TriangulatedSurface</a> or <a class="el" href="classDGtal_1_1Shortcuts.html#af76e952f409c0d74e974f0ec1b6c4504" title="defines a connected digital surface over a binary image.">Shortcuts::LightDigitalSurface</a>, std::string) / (<a class="el" href="classDGtal_1_1Shortcuts.html#a48907f746327a48738eb270775ff716b">Shortcuts::TriangulatedSurface</a> or <a class="el" href="classDGtal_1_1Shortcuts.html#af76e952f409c0d74e974f0ec1b6c4504" title="defines a connected digital surface over a binary image.">Shortcuts::LightDigitalSurface</a>, <a class="el" href="classDGtal_1_1Shortcuts.html#ab5c13eabc8d26346e29053cad7faa9e1">Shortcuts::RealVectors</a>, <a class="el" href="classDGtal_1_1Shortcuts.html#a591d318436190bbe84bab07330826ff1">Shortcuts::Colors</a>, std::string) / (<a class="el" href="classDGtal_1_1Shortcuts.html#aa5abd1d4ed310885cec0bf295a0ac397" title="defines an arbitrary digital surface over a binary image.">Shortcuts::DigitalSurface</a>, std::string)  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.saveVectorFieldOBJ  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#abcfd9f635f872371c403503bf0013327">Shortcuts::saveVectorFieldOBJ</a>  </td><td class="markdownTableBodyNone">(<a class="el" href="classDGtal_1_1Shortcuts.html#aad9e800d0ac50823f6857ce008c361cb">Shortcuts::RealPoints</a>, <a class="el" href="classDGtal_1_1Shortcuts.html#ab5c13eabc8d26346e29053cad7faa9e1">Shortcuts::RealVectors</a>, double, <a class="el" href="classDGtal_1_1Shortcuts.html#a591d318436190bbe84bab07330826ff1">Shortcuts::Colors</a>, std::string)  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getKSpace  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a25d0be45d2b76a79be6cc83c8e2442b2">Shortcuts::getKSpace</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a07689c2d5826beb32aca7b465c1a9124" title="defines a black and white image with (hyper-)rectangular domain.">Shortcuts::BinaryImage</a>, (<a class="el" href="classDGtal_1_1Shortcuts.html#a51182b3cc8771047c00bc7b32ee86e69" title="Point with integer coordinates.">Shortcuts::Point</a>, <a class="el" href="classDGtal_1_1Shortcuts.html#a51182b3cc8771047c00bc7b32ee86e69" title="Point with integer coordinates.">Shortcuts::Point</a>), (std::vector, std::vector)*  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getCellEmbedder  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#af966b58e2fad4928161de50b10dde44c">Shortcuts::getCellEmbedder</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#aed820ce066390668f6c9c29d826798ff" title="Digital cellular space.">Shortcuts::KSpace</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getSCellEmbedder  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a90d76604fe87e8d9f77579f9caf2c853">Shortcuts::getSCellEmbedder</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#aed820ce066390668f6c9c29d826798ff" title="Digital cellular space.">Shortcuts::KSpace</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getSurfelRange  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a883a5d30e0c886e8c27c7f6f45188313">Shortcuts::getSurfelRange</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#af76e952f409c0d74e974f0ec1b6c4504" title="defines a connected digital surface over a binary image.">Shortcuts::LightDigitalSurface</a> / <a class="el" href="classDGtal_1_1Shortcuts.html#aa5abd1d4ed310885cec0bf295a0ac397" title="defines an arbitrary digital surface over a binary image.">Shortcuts::DigitalSurface</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getPointelRange  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a4f8b1f94bbce1f2bd1b7023d49293bde">Shortcuts::getPointelRange</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#af76e952f409c0d74e974f0ec1b6c4504" title="defines a connected digital surface over a binary image.">Shortcuts::LightDigitalSurface</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getCellRange  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a35d384b51725f38b67531d83ac53561f">Shortcuts::getCellRange</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#af76e952f409c0d74e974f0ec1b6c4504" title="defines a connected digital surface over a binary image.">Shortcuts::LightDigitalSurface</a> / <a class="el" href="classDGtal_1_1Shortcuts.html#aa5abd1d4ed310885cec0bf295a0ac397" title="defines an arbitrary digital surface over a binary image.">Shortcuts::DigitalSurface</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getRangeMatch  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a9c9c89dff22a81c38a74d9c8d8cb4f58">Shortcuts::getRangeMatch</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a24284802f4b13595dcc533d77cd587e8">Shortcuts::Surfel</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getMatchedRange  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#aeb047b0ff90b4eb3aa28427f64767782">Shortcuts::getMatchedRange</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#ab5c13eabc8d26346e29053cad7faa9e1">Shortcuts::RealVectors</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getColorMap  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#adc95d5c04787e6388f32b95ac68e7c82">Shortcuts::getColorMap</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getIIMeanCurvatures  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#aa4339de34a7eac558af49f6ee0a2f7ae">ShortcutsGeometry::getIIMeanCurvatures</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a07689c2d5826beb32aca7b465c1a9124" title="defines a black and white image with (hyper-)rectangular domain.">Shortcuts::BinaryImage</a> / <a class="el" href="classDGtal_1_1Shortcuts.html#ac144d899eb54b2af3224be913bfcc171" title="defines the digitization of an implicit shape.">Shortcuts::DigitizedImplicitShape3D</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getIIGaussianCurvatures  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a04549e05419459784fbb6a11983de098">ShortcutsGeometry::getIIGaussianCurvatures</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a07689c2d5826beb32aca7b465c1a9124" title="defines a black and white image with (hyper-)rectangular domain.">Shortcuts::BinaryImage</a> / <a class="el" href="classDGtal_1_1Shortcuts.html#ac144d899eb54b2af3224be913bfcc171" title="defines the digitization of an implicit shape.">Shortcuts::DigitizedImplicitShape3D</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getIINormalVectors  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a4be8870b5d89c075c05bdd928fd3c1ea">ShortcutsGeometry::getIINormalVectors</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a07689c2d5826beb32aca7b465c1a9124" title="defines a black and white image with (hyper-)rectangular domain.">Shortcuts::BinaryImage</a> / <a class="el" href="classDGtal_1_1Shortcuts.html#ac144d899eb54b2af3224be913bfcc171" title="defines the digitization of an implicit shape.">Shortcuts::DigitizedImplicitShape3D</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getPositions  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a1cbff180ceb8ad1b028e0b55404dee80">ShortcutsGeometry::getPositions</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a664bab94d1b13e1b1f545c78582e406f">Shortcuts::ImplicitShape3D</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getNormalVectors  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a62acd7608ba2fc933075913c419295ef">ShortcutsGeometry::getNormalVectors</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a664bab94d1b13e1b1f545c78582e406f">Shortcuts::ImplicitShape3D</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getMeanCurvatures  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a1cb96ef81a9b8be93d59dd2e08425a7c">ShortcutsGeometry::getMeanCurvatures</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a664bab94d1b13e1b1f545c78582e406f">Shortcuts::ImplicitShape3D</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getGaussianCurvatures  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#abb44bb9b2965f44428c8da06ea72e45b">ShortcutsGeometry::getGaussianCurvatures</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#a664bab94d1b13e1b1f545c78582e406f">Shortcuts::ImplicitShape3D</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getFirstPrincipalCurvatures  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#ac8efae51be55f12a22005a74b0995509">ShortcutsGeometry::getFirstPrincipalCurvatures</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getSecondPrincipalCurvatures  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#af41acf9fee05150c9cb3593991a2b3b3">ShortcutsGeometry::getSecondPrincipalCurvatures</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getFirstPrincipalDirections  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a787397cc44aa82ef8ca1fccc1e6c8832">ShortcutsGeometry::getFirstPrincipalDirections</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getSecondPrincipalDirections  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a833f096399157a7f1b3d28d60e9e033c">ShortcutsGeometry::getSecondPrincipalDirections</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getVCMNormalVectors  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#afc9c5cfff9a32d072e2486ab491b269f">ShortcutsGeometry::getVCMNormalVectors</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#af76e952f409c0d74e974f0ec1b6c4504" title="defines a connected digital surface over a binary image.">Shortcuts::LightDigitalSurface</a> / <a class="el" href="classDGtal_1_1Shortcuts.html#aa5abd1d4ed310885cec0bf295a0ac397" title="defines an arbitrary digital surface over a binary image.">Shortcuts::DigitalSurface</a>  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getATScalarFieldApproximation  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#ad73673fac4e0fbaf4d7d693f9a647ac6">ShortcutsGeometry::getATScalarFieldApproximation</a>  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1Shortcuts.html#af76e952f409c0d74e974f0ec1b6c4504" title="defines a connected digital surface over a binary image.">Shortcuts::LightDigitalSurface</a> / <a class="el" href="classDGtal_1_1Shortcuts.html#aa5abd1d4ed310885cec0bf295a0ac397" title="defines an arbitrary digital surface over a binary image.">Shortcuts::DigitalSurface</a>  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getScalarsAbsoluteDifference  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#a576b78357b2deb1f73db565e51b1bf6c">ShortcutsGeometry::getScalarsAbsoluteDifference</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.getStatistic  </td><td class="markdownTableBodyNone"><a class="el" href="classDGtal_1_1ShortcutsGeometry.html#ad3f4a6326d56b0414939cb6b477c74c9">ShortcutsGeometry::getStatistic</a>  </td><td class="markdownTableBodyNone">All.  </td></tr>
+</table>
+<h3 class="doxsection"><a class="anchor" id="shortcuts_helpers"></a>
+Helpers functions</h3>
+<p>Looping through objects is slow in python and digital objects may be large. For this reason, we also provide a few helper functions for ease of usage and faster code:</p>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadNone">Python function  </th><th class="markdownTableHeadNone">Description  </th><th class="markdownTableHeadNone">Example usage  </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">SH3.applyColorMap  </td><td class="markdownTableBodyNone">Applies a colormap to a list of values  </td><td class="markdownTableBodyNone"><div class="fragment"><div class="line">cmap = SH3.getColorMap(params); colors = SH3.applyColorMap([0, 1, 2], cmap) </div>
+</div><!-- fragment -->  </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">SH3.getEmbeddedPosition  </td><td class="markdownTableBodyNone">Returns the position of a list of surfels.  </td><td class="markdownTableBodyNone"><div class="fragment"><div class="line">K = SH3.getKSpace(image, params); surface = SH3.makeLightDigitalSurface(image, K, params); surfels = SH3.getSurfelRange(surface, params); pos = SH3.getEmbeddedPositions(K, surfels) </div>
+</div><!-- fragment -->  </td></tr>
+</table>
+</div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->
 <div id="page-nav" class="page-nav-panel">

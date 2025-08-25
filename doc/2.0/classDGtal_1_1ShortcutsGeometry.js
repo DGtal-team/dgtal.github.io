@@ -10,6 +10,7 @@ var classDGtal_1_1ShortcutsGeometry =
     [ "CNCComputer", "classDGtal_1_1ShortcutsGeometry.html#a34b7a588c05f77052cfcb47a33f6d7c5", null ],
     [ "CurvatureTensorQuantities", "classDGtal_1_1ShortcutsGeometry.html#a5d01f28e9cc3eb345238b4bf1d653be0", null ],
     [ "CurvatureTensorQuantity", "classDGtal_1_1ShortcutsGeometry.html#a216a3c7514352ee782327b5dadb35443", null ],
+    [ "DigitalSet", "classDGtal_1_1ShortcutsGeometry.html#a3a001e1ecbb18c62ab47c63ac63e7d25", null ],
     [ "DigitalSurface", "classDGtal_1_1ShortcutsGeometry.html#a87c704bdc660aabfe6c6a329844bedd4", null ],
     [ "DigitizedImplicitShape3D", "classDGtal_1_1ShortcutsGeometry.html#a88527e5d6142158e0f886bb195060d7a", null ],
     [ "Domain", "classDGtal_1_1ShortcutsGeometry.html#adf598c4fbfc633a6aa45176846486e2f", null ],
@@ -70,6 +71,7 @@ var classDGtal_1_1ShortcutsGeometry =
     [ "TrueSecondPrincipalDirectionEstimator", "classDGtal_1_1ShortcutsGeometry.html#a692cca4b2c741a4a8fd9cee004382fe7", null ],
     [ "Vector", "classDGtal_1_1ShortcutsGeometry.html#ae09ac07c297836b0c24422964fa182f1", null ],
     [ "Vertex", "classDGtal_1_1ShortcutsGeometry.html#a00d51244c79cca6c4ac5a526c564f0a5", null ],
+    [ "VoronoiPointPredicate", "classDGtal_1_1ShortcutsGeometry.html#aa51bbd698b05327ea9a3259e480d843d", null ],
     [ "ShortcutsGeometry", "classDGtal_1_1ShortcutsGeometry.html#a3978964120ca3355240a3005e79e3685", null ],
     [ "~ShortcutsGeometry", "classDGtal_1_1ShortcutsGeometry.html#aa2257c2b449dd2a31e6f3aabd30193f8", null ],
     [ "ShortcutsGeometry", "classDGtal_1_1ShortcutsGeometry.html#a1492a32c1cdf344fe7c085b32d8fd60b", null ],
@@ -90,6 +92,10 @@ var classDGtal_1_1ShortcutsGeometry =
     [ "getCNCPrincipalCurvaturesAndDirections", "classDGtal_1_1ShortcutsGeometry.html#a771304d5148b293e653d748bb085e85b", null ],
     [ "getCNCPrincipalCurvaturesAndDirections", "classDGtal_1_1ShortcutsGeometry.html#aa5785760e610a72c06c8c86880cd4385", null ],
     [ "getCTrivialNormalVectors", "classDGtal_1_1ShortcutsGeometry.html#a990ca47b5af10af8b74800c06cb5aa43", null ],
+    [ "getDirectionToClosestSite", "classDGtal_1_1ShortcutsGeometry.html#a7d75ea9a1b51dae79feae6c94daa29dd", null ],
+    [ "getDistanceToClosestSite", "classDGtal_1_1ShortcutsGeometry.html#a7e0f17bd003206c657679de04d1cacf3", null ],
+    [ "getDistanceTransformation", "classDGtal_1_1ShortcutsGeometry.html#a11de23b2ef7f6c3bf0a326cb656734fb", null ],
+    [ "getDistanceTransformation", "classDGtal_1_1ShortcutsGeometry.html#a885200e2c2d7ea17ca0fc4351f09902a", null ],
     [ "getFirstPrincipalCurvatures", "classDGtal_1_1ShortcutsGeometry.html#ac8efae51be55f12a22005a74b0995509", null ],
     [ "getFirstPrincipalDirections", "classDGtal_1_1ShortcutsGeometry.html#a787397cc44aa82ef8ca1fccc1e6c8832", null ],
     [ "getGaussianCurvatures", "classDGtal_1_1ShortcutsGeometry.html#abb44bb9b2965f44428c8da06ea72e45b", null ],
@@ -126,6 +132,8 @@ var classDGtal_1_1ShortcutsGeometry =
     [ "getTrivialNormalVectors", "classDGtal_1_1ShortcutsGeometry.html#a0a6ba6f8d0b6036dcaa90d3ea547d109", null ],
     [ "getVCMNormalVectors", "classDGtal_1_1ShortcutsGeometry.html#afc9c5cfff9a32d072e2486ab491b269f", null ],
     [ "getVectorsAngleDeviation", "classDGtal_1_1ShortcutsGeometry.html#ac3ee836d055e1261985a2b351fc44cd6", null ],
+    [ "getVoronoiMap", "classDGtal_1_1ShortcutsGeometry.html#a5cb708d8a1e1c0d9eb6966eccef59384", null ],
+    [ "getVoronoiMap", "classDGtal_1_1ShortcutsGeometry.html#a6910dc3fb8865712665d8c8e77732238", null ],
     [ "operator=", "classDGtal_1_1ShortcutsGeometry.html#a283a778ee9323ff31a2f21bfc4af8b63", null ],
     [ "operator=", "classDGtal_1_1ShortcutsGeometry.html#aec2ed410f4f0375bd3b34b251e12bba6", null ],
     [ "orientVectors", "classDGtal_1_1ShortcutsGeometry.html#a4421834c48d4cff27c96ebe6a5957263", null ],
@@ -133,5 +141,6 @@ var classDGtal_1_1ShortcutsGeometry =
     [ "parametersDigitizedImplicitShape3D", "classDGtal_1_1ShortcutsGeometry.html#ad2842b305b5fbf838862e6a9ddbf256e", null ],
     [ "parametersGeometryEstimation", "classDGtal_1_1ShortcutsGeometry.html#a1c3b761c952fe024b72f1d5913a3f29f", null ],
     [ "parametersKSpace", "classDGtal_1_1ShortcutsGeometry.html#a1e8150d741b9584d4b60599406a9eaa5", null ],
-    [ "parametersShapeGeometry", "classDGtal_1_1ShortcutsGeometry.html#a30a13ecd630268c458b0023724e4f674", null ]
+    [ "parametersShapeGeometry", "classDGtal_1_1ShortcutsGeometry.html#a30a13ecd630268c458b0023724e4f674", null ],
+    [ "parametersVoronoiMap", "classDGtal_1_1ShortcutsGeometry.html#aae765e89fcc52972d84f1240ba00033a", null ]
 ];

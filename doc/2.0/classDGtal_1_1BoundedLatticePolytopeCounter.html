@@ -633,8 +633,8 @@ template&lt;typename TSpace&gt; </div>
 </div><div class="memdoc">
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramdir">[out]</td><td class="paramname">pts</td><td>the range of lattice points that are interior to this polytope. </td></tr>
-    <tr><td class="paramdir"></td><td class="paramname">a</td><td>any axis with 0 &lt;= a &lt; d, where d is the dimension of the space.</td></tr>
+    <tr><td class="paramdir">[out]</td><td class="paramname">pts</td><td>the range of lattice points that are interior to this polytope (i.e. strictly inside).</td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">a</td><td>any axis with 0 &lt;= a &lt; d, where d is the dimension of the space.</td></tr>
   </table>
   </dd>
 </dl>
@@ -863,9 +863,9 @@ template&lt;typename TSpace&gt; </div>
 </div><div class="memdoc">
 <dl class="section return"><dt>Returns</dt><dd>the lower point of the tight bounding box of the current polytope. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00196">196</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  196</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="#a7f5aae5023da1535ab86d3395d2e2795">myLower</a>; }</div>
-<div class="ttc" id="aclassDGtal_1_1BoundedLatticePolytopeCounter_html_a7f5aae5023da1535ab86d3395d2e2795"><div class="ttname"><a href="#a7f5aae5023da1535ab86d3395d2e2795">DGtal::BoundedLatticePolytopeCounter::myLower</a></div><div class="ttdeci">Point myLower</div><div class="ttdoc">The lower point of the tight bounding box to the associated polytope.</div><div class="ttdef"><b>Definition</b> <a href="BoundedLatticePolytopeCounter_8h_source.html#l00205">BoundedLatticePolytopeCounter.h:205</a></div></div>
+<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00199">199</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  199</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="#a7f5aae5023da1535ab86d3395d2e2795">myLower</a>; }</div>
+<div class="ttc" id="aclassDGtal_1_1BoundedLatticePolytopeCounter_html_a7f5aae5023da1535ab86d3395d2e2795"><div class="ttname"><a href="#a7f5aae5023da1535ab86d3395d2e2795">DGtal::BoundedLatticePolytopeCounter::myLower</a></div><div class="ttdeci">Point myLower</div><div class="ttdoc">The lower point of the tight bounding box to the associated polytope.</div><div class="ttdef"><b>Definition</b> <a href="BoundedLatticePolytopeCounter_8h_source.html#l00208">BoundedLatticePolytopeCounter.h:208</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -895,9 +895,9 @@ template&lt;typename TSpace&gt; </div>
 </div><div class="memdoc">
 <dl class="section return"><dt>Returns</dt><dd>the upper point of the tight bounding box of the current polytope. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00198">198</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  198</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="#a76976396f8b229a1803bf85e5af02d79">myUpper</a>; }</div>
-<div class="ttc" id="aclassDGtal_1_1BoundedLatticePolytopeCounter_html_a76976396f8b229a1803bf85e5af02d79"><div class="ttname"><a href="#a76976396f8b229a1803bf85e5af02d79">DGtal::BoundedLatticePolytopeCounter::myUpper</a></div><div class="ttdeci">Point myUpper</div><div class="ttdoc">The upper point of the tight bounding box to the associated polytope.</div><div class="ttdef"><b>Definition</b> <a href="BoundedLatticePolytopeCounter_8h_source.html#l00207">BoundedLatticePolytopeCounter.h:207</a></div></div>
+<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00201">201</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  201</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="#a76976396f8b229a1803bf85e5af02d79">myUpper</a>; }</div>
+<div class="ttc" id="aclassDGtal_1_1BoundedLatticePolytopeCounter_html_a76976396f8b229a1803bf85e5af02d79"><div class="ttname"><a href="#a76976396f8b229a1803bf85e5af02d79">DGtal::BoundedLatticePolytopeCounter::myUpper</a></div><div class="ttdeci">Point myUpper</div><div class="ttdoc">The upper point of the tight bounding box to the associated polytope.</div><div class="ttdef"><b>Definition</b> <a href="BoundedLatticePolytopeCounter_8h_source.html#l00210">BoundedLatticePolytopeCounter.h:210</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -944,7 +944,7 @@ template&lt;typename TSpace&gt; </div>
 
 <p>The lower point of the tight bounding box to the associated polytope. </p>
 
-<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00205">205</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00208">208</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
 
 </div>
 </div>
@@ -964,7 +964,7 @@ template&lt;typename TSpace&gt; </div>
 
 <p>The associated polytope. </p>
 
-<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00203">203</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00206">206</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
 
 </div>
 </div>
@@ -984,7 +984,7 @@ template&lt;typename TSpace&gt; </div>
 
 <p>The upper point of the tight bounding box to the associated polytope. </p>
 
-<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00207">207</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html#l00210">210</a> of file <a class="el" href="BoundedLatticePolytopeCounter_8h_source.html">BoundedLatticePolytopeCounter.h</a>.</p>
 
 </div>
 </div>

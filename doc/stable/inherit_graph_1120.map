@@ -1,3 +1,19 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$structstd_1_1hash_3_01DGtal_1_1KhalimskyCell_3_01dim_00_01TInteger_01_4_01_4.html" title="Extend std namespace to define a std::hash function on DGtal::KhalimskyCell." alt="" coords="5,5,196,46"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,226,113,251"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1IsAPointVector_3_01PointVector_3_01dim_00_01TEuclideanRing_00_01TContainer_01_4_01_4.html" title="Specialization of IsAPointVector for a PointVector." alt="" coords="189,5,396,61"/>
+<area shape="poly" id="edge368_Node000000_Node000001" title=" " alt="" coords="73,211,120,127,159,70,187,53,190,58,162,74,125,130,77,213"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1IsArithmeticConversionValid_3_01T_00_01U_00_01typename_01std_1_1conditional_3_01f3d12afaad57391e67b8a4fff74de6483.html" title="Specialization when arithmetic operation between the two given type is valid." alt="" coords="161,84,424,155"/>
+<area shape="poly" id="edge369_Node000000_Node000003" title=" " alt="" coords="86,214,120,188,159,164,182,153,184,158,162,169,123,193,89,218"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1Shortcuts_1_1is__double__nested__container_3_01C_3_01D_3_01T_01_4_01_4_01_4.html" title=" " alt="" coords="191,179,394,234"/>
+<area shape="poly" id="edge370_Node000000_Node000004" title=" " alt="" coords="128,226,190,218,191,223,129,232"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1IsAPointVector.html" title="Type trait to check if a given type is a PointVector." alt="" coords="201,259,384,285"/>
+<area shape="poly" id="edge371_Node000000_Node000005" title=" " alt="" coords="129,246,201,256,200,261,128,251"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1IsArithmeticConversionValid.html" title="Helper to determine if an arithmetic operation between two given types has a valid result type (ie is..." alt="" coords="193,309,392,350"/>
+<area shape="poly" id="edge372_Node000000_Node000006" title=" " alt="" coords="94,258,126,277,162,295,193,306,192,311,160,300,123,282,91,263"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1Shortcuts_1_1is__double__nested__container.html" title=" " alt="" coords="175,374,410,415"/>
+<area shape="poly" id="edge373_Node000000_Node000007" title=" " alt="" coords="77,264,112,313,135,338,162,359,186,371,183,376,159,363,132,342,108,316,73,267"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="8,107,110,133"/>
+<area shape="poly" id="edge374_Node000002_Node000001" title=" " alt="" coords="98,97,160,69,189,59,190,64,162,74,100,102"/>
+<area shape="poly" id="edge375_Node000002_Node000003" title=" " alt="" coords="125,117,160,117,160,122,125,122"/>
+<area shape="poly" id="edge376_Node000002_Node000004" title=" " alt="" coords="101,138,162,164,194,176,192,181,160,169,99,142"/>
 </map>

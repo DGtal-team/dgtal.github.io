@@ -120,6 +120,7 @@ Public Types</h2></td></tr>
 <tr class="memitem:a35d7ac064ddf028b0d9eafd9832b5834" id="r_a35d7ac064ddf028b0d9eafd9832b5834"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="structDGtal_1_1SurfaceMesh.html#a701a64e59723a101bbacff26ee77d549">SurfaceMesh::Index</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a35d7ac064ddf028b0d9eafd9832b5834">Index</a></td></tr>
 <tr class="memitem:ad4cf8aa03ef3f0e1c7dae0f05ff46d02" id="r_ad4cf8aa03ef3f0e1c7dae0f05ff46d02"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="structDGtal_1_1SurfaceMesh.html#a26bfbda7e780e4104ac3781dfbc785df">SurfaceMesh::Vertices</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad4cf8aa03ef3f0e1c7dae0f05ff46d02">Vertices</a></td></tr>
 <tr class="memitem:a888fef59d5b0380a962e822072f35bfe" id="r_a888fef59d5b0380a962e822072f35bfe"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="structDGtal_1_1SurfaceMesh.html#ae42b49af6aec1eb7776581c5f5b2179e">SurfaceMesh::Faces</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a888fef59d5b0380a962e822072f35bfe">Faces</a></td></tr>
+<tr class="memitem:a364e7e0eb91edb23be4c38632be8f989" id="r_a364e7e0eb91edb23be4c38632be8f989"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a364e7e0eb91edb23be4c38632be8f989">Materials</a></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-pub-methods" class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -130,6 +131,7 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a1f0d104f1539232f914e838fcc9ae2a1" id="r_a1f0d104f1539232f914e838fcc9ae2a1"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1f0d104f1539232f914e838fcc9ae2a1">verifyIndicesUniqueness</a> (const std::vector&lt; <a class="el" href="#a35d7ac064ddf028b0d9eafd9832b5834">Index</a> &gt; &amp;indices)</td></tr>
 <tr class="memitem:af72938fe9e54b95dbd1c733985f56e78" id="r_af72938fe9e54b95dbd1c733985f56e78"><td class="memItemLeft" align="right" valign="top">static std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af72938fe9e54b95dbd1c733985f56e78">split</a> (const std::string &amp;str, char delim=' ')</td></tr>
 <tr class="memitem:a609dcf8e4bfb573e2b8c12b8beda388b" id="r_a609dcf8e4bfb573e2b8c12b8beda388b"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a609dcf8e4bfb573e2b8c12b8beda388b">readOBJ</a> (std::istream &amp;input, <a class="el" href="#af61cf9c5afb5447fe8047a2af270faed">SurfaceMesh</a> &amp;smesh)</td></tr>
+<tr class="memitem:a8ea59deebb24e7f25e0aed73ed33d212" id="r_a8ea59deebb24e7f25e0aed73ed33d212"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8ea59deebb24e7f25e0aed73ed33d212">readOBJ</a> (std::istream &amp;input, <a class="el" href="#af61cf9c5afb5447fe8047a2af270faed">SurfaceMesh</a> &amp;smesh, <a class="el" href="#a364e7e0eb91edb23be4c38632be8f989">Materials</a> &amp;materials)</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-pub-static-attribs" class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
@@ -184,6 +186,24 @@ template&lt;typename TRealPoint, typename TRealVector&gt; </div>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="SurfaceMeshReader_8h_source.html#l00073">73</a> of file <a class="el" href="SurfaceMeshReader_8h_source.html">SurfaceMeshReader.h</a>.</p>
+
+</div>
+</div>
+<a id="a364e7e0eb91edb23be4c38632be8f989" name="a364e7e0eb91edb23be4c38632be8f989"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a364e7e0eb91edb23be4c38632be8f989">&#9670;&#160;</a></span>Materials</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TRealPoint, typename TRealVector&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::vector&lt;int&gt; <a class="el" href="structDGtal_1_1SurfaceMeshReader.html">DGtal::SurfaceMeshReader</a>&lt; TRealPoint, TRealVector &gt;::Materials</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="SurfaceMeshReader_8h_source.html#l00076">76</a> of file <a class="el" href="SurfaceMeshReader_8h_source.html">SurfaceMeshReader.h</a>.</p>
 
 </div>
 </div>
@@ -316,7 +336,7 @@ template&lt;typename TRealPoint, typename TRealVector&gt; </div>
 </div>
 </div>
 <a id="a609dcf8e4bfb573e2b8c12b8beda388b" name="a609dcf8e4bfb573e2b8c12b8beda388b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a609dcf8e4bfb573e2b8c12b8beda388b">&#9670;&#160;</a></span>readOBJ()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a609dcf8e4bfb573e2b8c12b8beda388b">&#9670;&#160;</a></span>readOBJ() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -353,7 +373,53 @@ template&lt;typename TRealPoint, typename TRealVector&gt; </div>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>'true' if both reading the input stream was ok and the created mesh is ok. </dd></dl>
 
-<p class="reference">Referenced by <a class="el" href="digitalPolyhedronBuilder3D_8cpp_source.html#l00086">main()</a>, and <a class="el" href="Shortcuts_8h_source.html#l02417">DGtal::Shortcuts&lt; Z3i::KSpace &gt;::makeSurfaceMesh()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="digitalPolyhedronBuilder3D_8cpp_source.html#l00086">main()</a>, and <a class="el" href="Shortcuts_8h_source.html#l02677">DGtal::Shortcuts&lt; Z3i::KSpace &gt;::makeSurfaceMesh()</a>.</p>
+
+</div>
+</div>
+<a id="a8ea59deebb24e7f25e0aed73ed33d212" name="a8ea59deebb24e7f25e0aed73ed33d212"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ea59deebb24e7f25e0aed73ed33d212">&#9670;&#160;</a></span>readOBJ() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TRealPoint, typename TRealVector&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="structDGtal_1_1SurfaceMeshReader.html">DGtal::SurfaceMeshReader</a>&lt; TRealPoint, TRealVector &gt;::readOBJ </td>
+          <td>(</td>
+          <td class="paramtype">std::istream &amp;</td>          <td class="paramname"><span class="paramname"><em>input</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="#af61cf9c5afb5447fe8047a2af270faed">SurfaceMesh</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>smesh</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="#a364e7e0eb91edb23be4c38632be8f989">Materials</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>materials</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Reads an input file as an OBJ file format and outputs the corresponding surface mesh.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in,out]</td><td class="paramname">input</td><td>the input stream from which the OBJ file is read. </td></tr>
+    <tr><td class="paramdir">[out]</td><td class="paramname">smesh</td><td>the output surface mesh. </td></tr>
+    <tr><td class="paramdir">[out]</td><td class="paramname">materials</td><td>a vector containing the material of each face (an index), or an empty vector if there is no material in the OBJ file.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>'true' if both reading the input stream was ok and the created mesh is ok. </dd></dl>
 
 </div>
 </div>

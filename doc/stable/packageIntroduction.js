@@ -15,6 +15,7 @@ var packageIntroduction =
         [ "IO", "moduleIntroduction.html#dgtalintroPackagesIO", null ]
       ] ]
     ] ],
+    [ "DGtal python binding", "packagePython.html", "packagePython" ],
     [ "Building DGtal", "moduleBuildDGtal.html", [
       [ "Introduction and first build", "moduleBuildDGtal.html#intro", [
         [ "Build on Linux-based distributions", "moduleBuildDGtal.html#linux", null ],
@@ -26,6 +27,5 @@ var packageIntroduction =
     ] ],
     [ "How to use DGtal in my own project ?", "moduleHowToUseDGtal.html", [
       [ "Using cmake tools", "moduleHowToUseDGtal.html#HowToUseDGtal_CMAKE", null ]
-    ] ],
-    [ "DGtal python binding", "packagePython.html", null ]
+    ] ]
 ];

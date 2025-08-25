@@ -8,30 +8,30 @@
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,161,545,151,545,156,481,166"/>
 <area shape="rect" id="Node000004" href="$structDGtal_1_1concepts_1_1CBoundedNumber.html" title="Aim: The concept CBoundedNumber specifies what are the bounded numbers. Models of this concept should..." alt="" coords="802,5,987,46"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="677,118,792,62,836,44,838,49,794,67,679,122"/>
-<area shape="rect" id="Node000005" href="$structDGtal_1_1concepts_1_1CIntegralNumber.html" title="Aim: Concept checking for Integral Numbers. Models of this concept should be listed in NumberTraits c..." alt="" coords="1061,59,1238,99"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="710,121,793,106,934,90,1060,81,1061,86,934,95,794,111,711,126"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1concepts_1_1CIntegralNumber.html" title="Aim: Concept checking for Integral Numbers. Models of this concept should be listed in NumberTraits c..." alt="" coords="1061,60,1238,101"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="710,121,793,106,934,90,1060,82,1061,87,934,96,794,111,711,126"/>
 <area shape="rect" id="Node000007" href="$structDGtal_1_1concepts_1_1CSignedNumber.html" title="Aim: Concept checking for Signed Numbers. Models of this concept should be listed in NumberTraits cla..." alt="" coords="807,120,982,161"/>
 <area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="761,138,807,138,807,143,761,143"/>
 <area shape="rect" id="Node000010" href="$structDGtal_1_1concepts_1_1CUnsignedNumber.html" title="Aim: Concept checking for Unsigned numbers. Models of this concept should be listed in NumberTraits c..." alt="" coords="800,185,989,226"/>
 <area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="707,155,812,182,811,187,705,160"/>
-<area shape="rect" id="Node000006" href="$structDGtal_1_1concepts_1_1CInteger.html" title="Aim: Concept checking for Integer Numbers. More precisely, this concept is a refinement of both CEucl..." alt="" coords="1571,98,1777,124"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1254,83,1571,102,1570,107,1254,88"/>
-<area shape="rect" id="Node000008" href="$structDGtal_1_1concepts_1_1CCommutativeRing.html" title="Aim: Defines the mathematical concept equivalent to a unitary commutative ring." alt="" coords="1044,124,1256,165"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="997,139,1043,140,1043,145,997,145"/>
-<area shape="rect" id="Node000009" href="$structDGtal_1_1concepts_1_1CEuclideanRing.html" title="Aim: Defines the mathematical concept equivalent to a unitary commutative ring with a division operat..." alt="" coords="1311,121,1502,162"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1272,140,1310,140,1310,145,1272,146"/>
-<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="1518,126,1570,120,1571,125,1518,132"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1concepts_1_1CInteger.html" title="Aim: Concept checking for Integer Numbers. More precisely, this concept is a refinement of both CEucl..." alt="" coords="1571,101,1777,126"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1254,84,1571,104,1570,110,1254,90"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1concepts_1_1CCommutativeRing.html" title="Aim: Defines the mathematical concept equivalent to a unitary commutative ring." alt="" coords="1044,125,1256,166"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="997,140,1043,141,1043,146,997,145"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1concepts_1_1CEuclideanRing.html" title="Aim: Defines the mathematical concept equivalent to a unitary commutative ring with a division operat..." alt="" coords="1311,123,1502,163"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1272,142,1310,141,1310,147,1272,147"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="1518,128,1570,122,1571,128,1518,133"/>
 <area shape="rect" id="Node000012" href="$structDGtal_1_1concepts_1_1CSegmentFactory.html" title="Aim: Defines the concept describing a segment ie. a valid and not empty subrange, which can construct..." alt="" coords="544,213,731,254"/>
 <area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="497,229,544,230,544,235,497,234"/>
 <area shape="rect" id="Node000013" href="$structDGtal_1_1concepts_1_1CIncrementalSegmentComputer.html" title="Aim: Defines the concept describing an incremental segment computer, &#160;&#160;ie. a model of CSegmentFactory..." alt="" coords="793,251,996,291"/>
 <area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="747,247,793,254,793,259,746,252"/>
 <area shape="rect" id="Node000014" href="$structDGtal_1_1concepts_1_1CForwardSegmentComputer.html" title="Aim: Defines the concept describing a forward segment computer. Like any model of CIncrementalSegment..." alt="" coords="1059,251,1240,291"/>
 <area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1011,268,1059,268,1059,274,1011,274"/>
-<area shape="rect" id="Node000015" href="$structDGtal_1_1concepts_1_1CBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a bidirectional segment computer, &#160;&#160;ie. a model of concepts::CSeg..." alt="" coords="1304,219,1509,259"/>
-<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1256,255,1303,249,1304,254,1256,260"/>
-<area shape="rect" id="Node000017" href="$structDGtal_1_1concepts_1_1CDynamicSegmentComputer.html" title="Aim: Defines the concept describing a dynamic segment computer, &#160;&#160;ie. a model of CSegment that can ex..." alt="" coords="1314,284,1500,325"/>
-<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="1256,282,1313,290,1313,295,1256,287"/>
-<area shape="rect" id="Node000016" href="$structDGtal_1_1concepts_1_1CDynamicBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a dynamic and bidirectional segment computer, ie...." alt="" coords="1557,251,1791,291"/>
-<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="1525,250,1557,254,1557,260,1525,256"/>
-<area shape="poly" id="edge18_Node000017_Node000016" title=" " alt="" coords="1515,288,1557,283,1557,288,1515,293"/>
+<area shape="rect" id="Node000015" href="$structDGtal_1_1concepts_1_1CBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a bidirectional segment computer, &#160;&#160;ie. a model of concepts::CSeg..." alt="" coords="1304,189,1509,230"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1252,244,1318,228,1319,233,1253,249"/>
+<area shape="rect" id="Node000017" href="$structDGtal_1_1concepts_1_1CDynamicSegmentComputer.html" title="Aim: Defines the concept describing a dynamic segment computer, &#160;&#160;ie. a model of CSegment that can ex..." alt="" coords="1314,255,1500,295"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="1256,270,1313,271,1313,276,1256,275"/>
+<area shape="rect" id="Node000016" href="$structDGtal_1_1concepts_1_1CDynamicBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a dynamic and bidirectional segment computer, ie...." alt="" coords="1557,221,1791,262"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="1525,221,1557,225,1557,230,1525,226"/>
+<area shape="poly" id="edge18_Node000017_Node000016" title=" " alt="" coords="1515,259,1557,254,1557,259,1515,264"/>
 </map>

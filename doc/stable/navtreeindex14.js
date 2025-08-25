@@ -1,5 +1,13 @@
 var NAVTREEINDEX14 =
 {
+"classDGtal_1_1Color.html#adc0c09055f0e8817e1f2ede5abefcc0f":[3,0,2,86,53],
+"classDGtal_1_1Color.html#adc0c09055f0e8817e1f2ede5abefcc0f":[4,0,2,80,53],
+"classDGtal_1_1Color.html#ade4907a0fc5be692cba0dadf2c728193":[3,0,2,86,6],
+"classDGtal_1_1Color.html#ade4907a0fc5be692cba0dadf2c728193":[4,0,2,80,6],
+"classDGtal_1_1Color.html#adfe1bb2f4693d9f88635619273dee566":[3,0,2,86,57],
+"classDGtal_1_1Color.html#adfe1bb2f4693d9f88635619273dee566":[4,0,2,80,57],
+"classDGtal_1_1Color.html#ae0aeaefb5b70a61b475421c6394961e7":[3,0,2,86,43],
+"classDGtal_1_1Color.html#ae0aeaefb5b70a61b475421c6394961e7":[4,0,2,80,43],
 "classDGtal_1_1Color.html#ae52413c37b58ca78ac99f05f67c1be99":[3,0,2,86,54],
 "classDGtal_1_1Color.html#ae52413c37b58ca78ac99f05f67c1be99":[4,0,2,80,54],
 "classDGtal_1_1Color.html#aeceea777710a4dc184350c82d58cf79f":[3,0,2,86,31],
@@ -241,13 +249,5 @@ var NAVTREEINDEX14 =
 "classDGtal_1_1ConstRangeAdapter.html#af7a5c6e043396033ac510ad98c2af8a0":[3,0,2,93,21],
 "classDGtal_1_1ConstRangeAdapter.html#af7a5c6e043396033ac510ad98c2af8a0":[4,0,2,87,21],
 "classDGtal_1_1ConstRangeAdapter.html#af7f53b963598f200a370fb86d6ad09f3":[3,0,2,93,26],
-"classDGtal_1_1ConstRangeAdapter.html#af7f53b963598f200a370fb86d6ad09f3":[4,0,2,87,26],
-"classDGtal_1_1ConstRangeAdapter.html#afc4c20ebd1bfc30dcaea43527419e004":[3,0,2,93,10],
-"classDGtal_1_1ConstRangeAdapter.html#afc4c20ebd1bfc30dcaea43527419e004":[4,0,2,87,10],
-"classDGtal_1_1ConstRangeFromPointAdapter.html":[3,0,2,94],
-"classDGtal_1_1ConstRangeFromPointAdapter.html":[4,0,2,88],
-"classDGtal_1_1ConstRangeFromPointAdapter.html#a097cc46063d98e0e2cf001d2e899ac07":[3,0,2,94,11],
-"classDGtal_1_1ConstRangeFromPointAdapter.html#a097cc46063d98e0e2cf001d2e899ac07":[4,0,2,88,11],
-"classDGtal_1_1ConstRangeFromPointAdapter.html#a12efd2fe677bcdff624c0a69853de83c":[3,0,2,94,15],
-"classDGtal_1_1ConstRangeFromPointAdapter.html#a12efd2fe677bcdff624c0a69853de83c":[4,0,2,88,15]
+"classDGtal_1_1ConstRangeAdapter.html#af7f53b963598f200a370fb86d6ad09f3":[4,0,2,87,26]
 };

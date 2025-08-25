@@ -46,5 +46,6 @@ var searchData=
   ['vmap_43',['VMap',['../testVoronoiMapComplete_8cpp.html#ae8620d472683b0239b700f269fc66b6a',1,'testVoronoiMapComplete.cpp']]],
   ['volumefunctor_44',['VolumeFunctor',['../classDGtal_1_1IntegralInvariantVolumeEstimator.html#a0e3f4846ee02618a693466d7ace297a7',1,'DGtal::IntegralInvariantVolumeEstimator']]],
   ['voronoi_45',['Voronoi',['../classDGtal_1_1VoronoiCovarianceMeasure.html#a879ab99ed28ca53e4beaaeade9acee83',1,'DGtal::VoronoiCovarianceMeasure']]],
-  ['voxel_46',['voxel',['../structDGtal_1_1LongvolReader.html#ad26651305da1bcc52067dd25f66e3d07',1,'DGtal::LongvolReader::voxel'],['../structDGtal_1_1VolReader.html#aab13c29680eeb1c6fc46081c62774583',1,'DGtal::VolReader::voxel']]]
+  ['voronoipointpredicate_46',['VoronoiPointPredicate',['../classDGtal_1_1ShortcutsGeometry.html#aa51bbd698b05327ea9a3259e480d843d',1,'DGtal::ShortcutsGeometry']]],
+  ['voxel_47',['voxel',['../structDGtal_1_1LongvolReader.html#ad26651305da1bcc52067dd25f66e3d07',1,'DGtal::LongvolReader::voxel'],['../structDGtal_1_1VolReader.html#aab13c29680eeb1c6fc46081c62774583',1,'DGtal::VolReader::voxel']]]
 ];

@@ -1,5 +1,13 @@
 var NAVTREEINDEX15 =
 {
+"classDGtal_1_1ConstRangeAdapter.html#afc4c20ebd1bfc30dcaea43527419e004":[3,0,2,93,10],
+"classDGtal_1_1ConstRangeAdapter.html#afc4c20ebd1bfc30dcaea43527419e004":[4,0,2,87,10],
+"classDGtal_1_1ConstRangeFromPointAdapter.html":[3,0,2,94],
+"classDGtal_1_1ConstRangeFromPointAdapter.html":[4,0,2,88],
+"classDGtal_1_1ConstRangeFromPointAdapter.html#a097cc46063d98e0e2cf001d2e899ac07":[3,0,2,94,11],
+"classDGtal_1_1ConstRangeFromPointAdapter.html#a097cc46063d98e0e2cf001d2e899ac07":[4,0,2,88,11],
+"classDGtal_1_1ConstRangeFromPointAdapter.html#a12efd2fe677bcdff624c0a69853de83c":[3,0,2,94,15],
+"classDGtal_1_1ConstRangeFromPointAdapter.html#a12efd2fe677bcdff624c0a69853de83c":[4,0,2,88,15],
 "classDGtal_1_1ConstRangeFromPointAdapter.html#a1798f8fb47732296b1a7317453b1d509":[3,0,2,94,2],
 "classDGtal_1_1ConstRangeFromPointAdapter.html#a1798f8fb47732296b1a7317453b1d509":[4,0,2,88,2],
 "classDGtal_1_1ConstRangeFromPointAdapter.html#a254e94df236ef86d175255aaa206cde6":[3,0,2,94,8],
@@ -241,13 +249,5 @@ var NAVTREEINDEX15 =
 "classDGtal_1_1CowPtr.html#a9314467fd82dc090e5c2b8260b0fa30a":[3,0,2,126,0],
 "classDGtal_1_1CowPtr.html#a9314467fd82dc090e5c2b8260b0fa30a":[4,0,2,120,0],
 "classDGtal_1_1CowPtr.html#aaa7a5310c8a8ea7debbf5d7ec8a69cb1":[3,0,2,126,16],
-"classDGtal_1_1CowPtr.html#aaa7a5310c8a8ea7debbf5d7ec8a69cb1":[4,0,2,120,16],
-"classDGtal_1_1CowPtr.html#ac81123a6149a0b56396806e9012c3a64":[3,0,2,126,5],
-"classDGtal_1_1CowPtr.html#ac81123a6149a0b56396806e9012c3a64":[4,0,2,120,5],
-"classDGtal_1_1CowPtr.html#ad1fc80d8b2f9c788b39aa4993d440f41":[3,0,2,126,1],
-"classDGtal_1_1CowPtr.html#ad1fc80d8b2f9c788b39aa4993d440f41":[4,0,2,120,1],
-"classDGtal_1_1CowPtr.html#ad3439c368bfbe91d9c51745241a60515":[3,0,2,126,18],
-"classDGtal_1_1CowPtr.html#ad3439c368bfbe91d9c51745241a60515":[4,0,2,120,18],
-"classDGtal_1_1CowPtr.html#ad3ca8ff6c10b75f55944453528b7c961":[3,0,2,126,8],
-"classDGtal_1_1CowPtr.html#ad3ca8ff6c10b75f55944453528b7c961":[4,0,2,120,8]
+"classDGtal_1_1CowPtr.html#aaa7a5310c8a8ea7debbf5d7ec8a69cb1":[4,0,2,120,16]
 };
