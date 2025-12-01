@@ -3,7 +3,7 @@ layout: page
 title: For Users
 ---
 
-DGtal is a free-software (Lesser Gnu Privacy License - LGPL) so you can freely use it and distribute it. See the [documentation][1] for details. However, if you use DGtal in your own project, we would be pleased to be kept in touch. If you want to refer to DGtal in your publications, please use the following bibtex entry:
+DGtal is an open-source software (Lesser Gnu Privacy License - LGPL) so you can freely use it and distribute it. See the [documentation][1] for details. However, if you use DGtal in your own project, we would be pleased to be kept in touch. If you want to refer to DGtal in your publications, please use the following bibtex entry:
 
 ``` bibtex
 @Misc{DGtal,
