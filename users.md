@@ -38,7 +38,7 @@ TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)
 
 # Using CPM
 
-[CPM](https://github.com/cpm-cmake/CPM.cmake) is a script that adds dependency management to CMake. It allows to download the dependency and run its cmake script automatically with a few lines of cmake. DGtal is compatible with CPM. First, download `CPM.cmake` file [here](https://github.com/cpm-cmake/tree/master/cmake), inside your project directory. Afterward, you can write the following lines in your CMakeLists:
+[CPM](https://github.com/cpm-cmake/CPM.cmake) is a script that adds dependency management to CMake. It allows to download the dependency and run its cmake script automatically with a few lines of cmake. DGtal is compatible with CPM. First, download `CPM.cmake` file [here](https://github.com/cpm-cmake/CPM.cmake/releases), inside your project directory. Afterward, you can write the following lines in your CMakeLists:
 
 ```cmake
 PROJECT(Helloworld)
