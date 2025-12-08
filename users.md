@@ -48,7 +48,7 @@ INCLUDE(CPM.cmake) # Or any other path to the file, depending on your folder str
 # Downloads and build DGtal automatically
 SET(DGTAL_ENABLE_TARGET_INSTALL OFF) # Necessary for use with CPM
 CPMAddPackage(
-  URI "gh:DGtal-team/DGtal@main"
+  URI "gh:DGtal-team/DGtal@2.0"
   OPTIONS
     # Add options to DGtal, here the viewer. More in the [build page](https://www.dgtal.org/doc/stable/moduleBuildDGtal.html)
     "DGTAL_POLYSCOPE_VIEWER ON"
