@@ -58,12 +58,4 @@ ADD_EXECUTABLE(helloworld helloworld)
 TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)
 ```
 
-## Projects/Publications using DGtal
-
-*   ANR Grant [digitalSnow][2] (ANR-11-BS02-009) "Digital Geometry and Applied Mathematics for Snow Metamorphism"
-*   Longuetaud, F.; Mothe, F.; Kerautret, B.; Krähenbühl, A.; Hory, L.; Leban, J. &amp; Debled-Rennesson, I. Automatic knot detection and measurements from X-ray CT images of wood: A review and validation of an improved algorithm on softwood samples.
-*   Computers and Electronics in Agriculture, 2012, 85, 77-89
-*   Kowalczyk, M. K.; Kerautret, B.; Naegel, B. &amp; Weber, J.,Revisiting Component Tree Based Segmentation Using Meaningful Photometric Informations. *Proc of International Conference ICCVG, Springer, 2012, 7594, 475-482*
-
  [1]: http://dgtal.org/doc/stable/moduleHowToUseDGtal.html
- [2]: http://liris.cnrs.fr/dsnow
