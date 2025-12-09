@@ -14,6 +14,30 @@ DGtal is an open-source software (Lesser Gnu Privacy License - LGPL) so you can 
 
 To use DGtal in your own project, a very nice solution exists with *cmake*. There are two methods we recommend: either installing the library manually or using CPM. 
 
+
+# Using CPM
+
+[CPM](https://github.com/cpm-cmake/CPM.cmake) is a script that adds dependency management to CMake. It allows to download the dependency and run its cmake script automatically with a few lines of cmake. DGtal is compatible with CPM. First, download `CPM.cmake` file [here](https://github.com/cpm-cmake/CPM.cmake/releases), inside your project directory. Afterward, you can write the following lines in your CMakeLists:
+
+```cmake
+PROJECT(Helloworld)
+
+INCLUDE(CPM.cmake) # Or any other path to the file, depending on your folder structure
+
+# Downloads and build DGtal automatically
+SET(DGTAL_ENABLE_TARGET_INSTALL OFF) # Necessary for use with CPM
+CPMAddPackage(
+  URI "gh:DGtal-team/DGtal@2.1"
+  OPTIONS
+    # Add options to DGtal, here the viewer. More in the [build page](https://www.dgtal.org/doc/stable/moduleBuildDGtal.html)
+    "DGTAL_POLYSCOPE_VIEWER ON"
+)
+
+ADD_EXECUTABLE(helloworld helloworld)
+TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)
+```
+
+
 ## Manual installation
 
 First, download and build DGtal library. This requires a compiler, git and cmake installed. You can follow the instructions [here](https://www.dgtal.org/doc/stable/moduleBuildDGtal.html). Within the build directory, run the command:
@@ -31,28 +55,6 @@ PROJECT(Helloworld)
 ### Required in DGtal
 CMAKE_MINIMUM_REQUIRED(VERSION 3.11)
 FIND_PACKAGE(DGtal REQUIRED)
-
-ADD_EXECUTABLE(helloworld helloworld)
-TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)
-```
-
-# Using CPM
-
-[CPM](https://github.com/cpm-cmake/CPM.cmake) is a script that adds dependency management to CMake. It allows to download the dependency and run its cmake script automatically with a few lines of cmake. DGtal is compatible with CPM. First, download `CPM.cmake` file [here](https://github.com/cpm-cmake/CPM.cmake/releases), inside your project directory. Afterward, you can write the following lines in your CMakeLists:
-
-```cmake
-PROJECT(Helloworld)
-
-INCLUDE(CPM.cmake) # Or any other path to the file, depending on your folder structure
-
-# Downloads and build DGtal automatically
-SET(DGTAL_ENABLE_TARGET_INSTALL OFF) # Necessary for use with CPM
-CPMAddPackage(
-  URI "gh:DGtal-team/DGtal@2.0"
-  OPTIONS
-    # Add options to DGtal, here the viewer. More in the [build page](https://www.dgtal.org/doc/stable/moduleBuildDGtal.html)
-    "DGTAL_POLYSCOPE_VIEWER ON"
-)
 
 ADD_EXECUTABLE(helloworld helloworld)
 TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)
