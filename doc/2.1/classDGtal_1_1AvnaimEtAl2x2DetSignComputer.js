@@ -1,0 +1,25 @@
+var classDGtal_1_1AvnaimEtAl2x2DetSignComputer =
+[
+    [ "argument_type", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#ac9b579e0d0c200a05f157c5ec347c932", null ],
+    [ "ArgumentInteger", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a7da36e9b4288a1bf77f472630c837790", null ],
+    [ "Integer", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#af56a2547d51f25d450d3b6799946dea4", null ],
+    [ "result_type", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#af01433f0fe42f5e931ab1c3a8a1e54c8", null ],
+    [ "ResultInteger", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a7c60f5a0c7d4e21d5027df66423473c4", null ],
+    [ "Value", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#afa0822f1e670b3c513647b9c482f834e", null ],
+    [ "AvnaimEtAl2x2DetSignComputer", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#af5579754a1e2823dcbccbb8a39470592", null ],
+    [ "BOOST_CONCEPT_ASSERT", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a12852e505627766b19bc7bc9bf39fd20", null ],
+    [ "BOOST_CONCEPT_ASSERT", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#adf43acd3da988ea1d0976a49408fd571", null ],
+    [ "BOOST_STATIC_CONSTANT", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#afcdb519b47ff119f41b4e8ba77158728", null ],
+    [ "BOOST_STATIC_CONSTANT", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a5efc8f6bf7b2eb030d6b11f59eab64e1", null ],
+    [ "computation", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a14697b8ff08a36f367cc3faf8e2bb697", null ],
+    [ "init", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a642e3c6e9e916a1efec8b9a80e7b7559", null ],
+    [ "isValid", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a29f08016a94f9597179bdd3cee2f4fb7", null ],
+    [ "operator()", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a274a6c09379b00d78af51b0fe5a7d0e1", null ],
+    [ "operator()", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#af27d3240c6ee4a55014e8accfeeec55c", null ],
+    [ "quadrant", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#af4b1dd2e624bdf467acbbf2cdb706d5a", null ],
+    [ "recursiveComputation", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a248fbdd9f581a0598db22db04d59f402", null ],
+    [ "selfDisplay", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a7fcf21dfd44c83cf5c7bdc18be05f5b9", null ],
+    [ "myA", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#ac3a6d8d3dade1a706cf3c6745d9137fb", null ],
+    [ "myB", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#a2828654007361860b95933c1c46719f5", null ],
+    [ "myMax", "classDGtal_1_1AvnaimEtAl2x2DetSignComputer.html#aaf49e1c2359f71681a061592e7ccc5ed", null ]
+];

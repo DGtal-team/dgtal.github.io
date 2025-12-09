@@ -1,0 +1,27 @@
+var structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276 =
+[
+    [ "IsBounded", "structDGtal_1_1NumberTraitsImpl.html#a181716a772074fd19f5937ecec86eb4a", null ],
+    [ "IsIntegral", "structDGtal_1_1NumberTraitsImpl.html#ad5a982d2c4db9e10e535b5cd87b7abab", null ],
+    [ "IsSigned", "structDGtal_1_1NumberTraitsImpl.html#a48aca62c48d63667006bffb992171dc4", null ],
+    [ "IsSpecialized", "structDGtal_1_1NumberTraitsImpl.html#acc15bfebd06bde1062a689bb8097b101", null ],
+    [ "IsUnsigned", "structDGtal_1_1NumberTraitsImpl.html#a35f2dbae0fe1fdc4dad7e41f97d1fde0", null ],
+    [ "NTIF", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#ad8c81e775b62bc6ad34dcab65b70ab6b", null ],
+    [ "ParamType", "structDGtal_1_1NumberTraitsImpl.html#a9b1fb1ef2b68e5ba07d37f441121a974", null ],
+    [ "ReturnType", "structDGtal_1_1NumberTraitsImpl.html#af3408171920c7f85d2aefb46250309cc", null ],
+    [ "SignedVersion", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#a5c6cff34f730bc30ee1ecdd7fe16c5d5", null ],
+    [ "UnsignedVersion", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#ae5f3e133729f07500679678e411b3de4", null ],
+    [ "castToDouble", "structDGtal_1_1NumberTraitsImpl.html#af97eb78317d1fc1c6babd4dcc95ed336", null ],
+    [ "castToInt64_t", "structDGtal_1_1NumberTraitsImpl.html#a0104cb5103fc4596e3fe975a592cc87e", null ],
+    [ "castToUInt64_t", "structDGtal_1_1NumberTraitsImpl.html#ae2a7253ca5d304c75267d2c104916abe", null ],
+    [ "digits", "structDGtal_1_1NumberTraitsImpl.html#a7284505c930c8b5d16bc7d418da702fb", null ],
+    [ "even", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#a8ead6be47ac27607012fcea453d524ad", null ],
+    [ "isBounded", "structDGtal_1_1NumberTraitsImpl.html#a3825a73262b5b5c22ab4cb505da4eb8e", null ],
+    [ "isSigned", "structDGtal_1_1NumberTraitsImpl.html#a7ed023e71cfc45f3157d945bbe896202", null ],
+    [ "max", "structDGtal_1_1NumberTraitsImpl.html#a1d5705d696aaadf9ef825dd98f534796", null ],
+    [ "min", "structDGtal_1_1NumberTraitsImpl.html#a1065d81768cbbd3547d7c5d5cff31b0b", null ],
+    [ "odd", "structDGtal_1_1NumberTraitsImpl_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__integral_1ce5c08ef142b54c10962f6a14786276.html#a9bc7f41b9e4b57e60b4f1b595cfe3901", null ],
+    [ "one", "structDGtal_1_1NumberTraitsImpl.html#a2a0d2ca18a9a693e951c98ca19cfddb6", null ],
+    [ "zero", "structDGtal_1_1NumberTraitsImpl.html#a89233871d93912d41234f603f2a4a267", null ],
+    [ "ONE", "structDGtal_1_1NumberTraitsImpl.html#a107fde7e50bd7b72c26ef13786f5138d", null ],
+    [ "ZERO", "structDGtal_1_1NumberTraitsImpl.html#a2840477714e7e56e85afb1efa04f6a52", null ]
+];
