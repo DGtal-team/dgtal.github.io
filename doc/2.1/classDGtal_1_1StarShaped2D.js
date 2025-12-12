@@ -1,0 +1,28 @@
+var classDGtal_1_1StarShaped2D =
+[
+    [ "RealPoint", "classDGtal_1_1StarShaped2D.html#a6867a370510f21fb2e97db4561f0b36f", null ],
+    [ "Space", "classDGtal_1_1StarShaped2D.html#a4d2d41d6f6d07544450ac32d26a6abb8", null ],
+    [ "StarShaped2D", "classDGtal_1_1StarShaped2D.html#ad11e75f853340d3a64f9f65d7f76c36f", null ],
+    [ "StarShaped2D", "classDGtal_1_1StarShaped2D.html#a8bace4e0feb4f8968236008740ae2b9f", null ],
+    [ "~StarShaped2D", "classDGtal_1_1StarShaped2D.html#a6547706d9a57f752db0fe8d568cb634d", null ],
+    [ "arclength", "classDGtal_1_1StarShaped2D.html#ae79b2028f84b9b015c874da0beec69bf", null ],
+    [ "center", "classDGtal_1_1StarShaped2D.html#ad2290b83f1b29cb1c651518e794773c5", null ],
+    [ "closestPointWithWitnesses", "classDGtal_1_1StarShaped2D.html#a01130610d764dfaac0f8d8fa7ce6d11a", null ],
+    [ "curvature", "classDGtal_1_1StarShaped2D.html#af7efab647f1bc996d20ccc5120b02c65", null ],
+    [ "findIntersection", "classDGtal_1_1StarShaped2D.html#a5084b5a07cae6bc0b8cd6f4e84348f57", null ],
+    [ "getLowerBound", "classDGtal_1_1StarShaped2D.html#ac03182e3419111332eef6436735f7480", null ],
+    [ "getUpperBound", "classDGtal_1_1StarShaped2D.html#a9790e27dd5b75751ff6019d49581b367", null ],
+    [ "interiorPoint", "classDGtal_1_1StarShaped2D.html#a4afd3929b54d721a4129a6e75890d5ab", null ],
+    [ "isAlmostEqual", "classDGtal_1_1StarShaped2D.html#a8e64882428dfd8c0926edb24a5007a83", null ],
+    [ "isValid", "classDGtal_1_1StarShaped2D.html#a6620f1b44acbf9a5491a58e86be0c522", null ],
+    [ "moveTo", "classDGtal_1_1StarShaped2D.html#a666594ee4c376b08be0fd38c7c995e3c", null ],
+    [ "normal", "classDGtal_1_1StarShaped2D.html#a81cdb0a5897fdd5e391e1ddf8bff4adb", null ],
+    [ "operator=", "classDGtal_1_1StarShaped2D.html#adeb713cc43cf4d8cc5b729ab4d797c89", null ],
+    [ "orientation", "classDGtal_1_1StarShaped2D.html#a745446c84c529204987522d3b1b94400", null ],
+    [ "parameter", "classDGtal_1_1StarShaped2D.html#a9d87076e30318b190b3f3cc5aeb3d4cc", null ],
+    [ "selfDisplay", "classDGtal_1_1StarShaped2D.html#aa3822391a46a84c859fc3e3b8f267c8d", null ],
+    [ "tangent", "classDGtal_1_1StarShaped2D.html#a11997b6dd92a3082a8acdb18167dcdde", null ],
+    [ "x", "classDGtal_1_1StarShaped2D.html#aa7941e02fc02539751c033ef9dc0b862", null ],
+    [ "xp", "classDGtal_1_1StarShaped2D.html#af75a62e0953a2f42f058966c24d84e50", null ],
+    [ "xpp", "classDGtal_1_1StarShaped2D.html#aa79ff10fb8f1b4976856f63141107132", null ]
+];

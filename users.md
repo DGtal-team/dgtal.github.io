@@ -51,11 +51,34 @@ INCLUDE(CPM.cmake) # Or any other path to the file, depending on your folder str
 # Downloads and build DGtal automatically
 SET(DGTAL_ENABLE_TARGET_INSTALL OFF) # Necessary for use with CPM
 CPMAddPackage(
-  URI "gh:DGtal-team/DGtal@2.0"
+  URI "gh:DGtal-team/DGtal@2.1"
   OPTIONS
     # Add options to DGtal, here the viewer. More in the [build page](https://www.dgtal.org/doc/stable/moduleBuildDGtal.html)
     "DGTAL_POLYSCOPE_VIEWER ON"
 )
+
+ADD_EXECUTABLE(helloworld helloworld)
+TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)
+```
+
+
+## Manual installation
+
+First, download and build DGtal library. This requires a compiler, git and cmake installed. You can follow the instructions [here](https://www.dgtal.org/doc/stable/moduleBuildDGtal.html). Within the build directory, run the command:
+
+```bash
+cmake --build . --target install
+```
+
+This will build and install the library so that it is available throughout your system (Linux/MacOS). Afterward, in your project CMakeLists, you can add the `find_package` and `target_link_librairies` as:
+
+
+``` cmake
+PROJECT(Helloworld)
+
+### Required in DGtal
+CMAKE_MINIMUM_REQUIRED(VERSION 3.11)
+FIND_PACKAGE(DGtal REQUIRED)
 
 ADD_EXECUTABLE(helloworld helloworld)
 TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)

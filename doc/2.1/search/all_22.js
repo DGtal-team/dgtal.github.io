@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['y_0',['Y',['../classDGtal_1_1TangentFromDSS3DBy2DFunctor.html#aeaa5d6a79388f3d6a568a82ff8ef92efa3d147b3b77d334537f508f3c9dea1098',1,'DGtal::TangentFromDSS3DBy2DFunctor::Y'],['../classDynArrayLXY.html#a0c11cc5a4b14f7954947a5649a2a4507',1,'DynArrayLXY::Y'],['../classDynArrayXYOfMap.html#a040c02e63658121042eb94263333136c',1,'DynArrayXYOfMap::Y'],['../classDynArrayXYOfLabelledMap.html#ae26e0bc53bc41de6f5df587e9dfd23d7',1,'DynArrayXYOfLabelledMap::Y']]],
+  ['y_1',['y',['../classDGtal_1_1DSLSubsegment_1_1RayC.html#a6c29f55db134644f9b829cd0f9c9b444',1,'DGtal::DSLSubsegment::RayC::y'],['../structDGtal_1_1concepts_1_1C3DParametricCurve.html#a3e1d775190b3e60bb23ff435b18de4d1',1,'DGtal::concepts::C3DParametricCurve::y'],['../classDGtal_1_1ChordNaivePlaneComputer.html#a3b7803ef8983801401bc9800baef2a76',1,'DGtal::ChordNaivePlaneComputer::y'],['../structDGtal_1_1concepts_1_1CLinearAlgebra.html#a26b599c2c683df1c7d7d7b4e90d87a44',1,'DGtal::concepts::CLinearAlgebra::y'],['../structDGtal_1_1concepts_1_1CLinearAlgebraSolver.html#a55becceee38c5097a95b7479b2af0e7b',1,'DGtal::concepts::CLinearAlgebraSolver::y'],['../structDGtal_1_1concepts_1_1CVectorSpace.html#a61a2fcb914574918524ddafa098d8931',1,'DGtal::concepts::CVectorSpace::y'],['../structLibBoard_1_1Point.html#a59bbae6ebea99dc48393e4ed3e85da46',1,'LibBoard::Point::y'],['../structPoint3D.html#a31a676f6b89a294d92425cfdb0b9dbbf',1,'Point3D::y'],['../structLibBoard_1_1Rectangle.html#a8fc5e45792b18bc31db10c3fe03725f0',1,'LibBoard::Rectangle::y()']]],
+  ['y0_2',['y0',['../classDGtal_1_1FreemanChain.html#a84910ab9acf6ecfd564b7ad43e70e26a',1,'DGtal::FreemanChain']]],
+  ['yellow_3',['Yellow',['../classDGtal_1_1Color.html#ac7f86198a9c4d002e893267fd889803a',1,'DGtal::Color']]],
+  ['yes_4',['yes',['../structDGtal_1_1detail_1_1HasNestedTypeCategory.html#a6b8251e160eab0ce8ecf56f5c1ed3b52',1,'DGtal::detail::HasNestedTypeCategory::yes'],['../structDGtal_1_1detail_1_1HasNestedTypeType.html#af6cd5312bfe446d297d8dd10a09ebcf3',1,'DGtal::detail::HasNestedTypeType::yes']]],
+  ['yn_5',['yn',['../classDGtal_1_1FreemanChain.html#ac24380bf3a3370dcf04112e531f3ff5d',1,'DGtal::FreemanChain']]],
+  ['you_20do_20not_20know_20the_20main_20axis_20beforehands_6',['What if you do not know the main axis beforehands ?',['../moduleCOBANaivePlaneRecognition.html#moduleCOBANaivePlaneRecognition_sec6',1,'']]],
+  ['your_20account_20and_20working_20copy_7',['Setting up your account and working copy',['../moduleFAQGit.html#sectGIT1',1,'']]],
+  ['your_20challenge_8',['Your challenge',['../tutoFMMErosion.html#secttutoFMMErosion3',1,'Your challenge'],['../moduleDigitalSurfaceHelpers.html#dgtal_helpsurf_challenge',1,'Your challenge']]],
+  ['your_20integers_20for_20fractions_9',['Choosing your integers for fractions',['../moduleIrreducibleFraction.html#dgtal_irrfrac_sec3_1',1,'']]],
+  ['your_20own_20candidate_20set_10',['Implementing your own candidate set',['../modulePlaneProbing.html#subsectPlaneProbing31',1,'']]],
+  ['your_20own_20custom_20style_20class_20for_20displaying_20drawable_20elements_11',['Creating your own custom style class for displaying drawable elements.',['../moduleBoard2D.html#dgtal_dgtalboard_sec16',1,'']]],
+  ['your_20own_20integer_20type_12',['How to add your own integer type',['../moduleNumber.html#addinteger',1,'']]],
+  ['your_20project_13',['Set up your project',['../tutoPolyhedralisation.html#tutoPolyhedralisation_sec1',1,'']]]
+];

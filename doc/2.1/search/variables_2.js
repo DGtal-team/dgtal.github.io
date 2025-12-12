@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['b_0',['B',['../structDGtal_1_1ChordNaivePlaneComputer_1_1State.html#a501287f2dc21c6f386069e9eae682f16',1,'DGtal::ChordNaivePlaneComputer::State::B'],['../classDGtal_1_1BoundedLatticePolytope.html#af77e28759c572649b5cb92d7d1a7deac',1,'DGtal::BoundedLatticePolytope::B'],['../classDGtal_1_1BoundedRationalPolytope.html#a3a2112f63c478fa06910f890c0bfceb0',1,'DGtal::BoundedRationalPolytope::B']]],
+  ['b_1',['b',['../classDGtal_1_1EllipticHelix.html#ae80b2444dc975fc6861cfe9ae0c36ee1',1,'DGtal::EllipticHelix::b'],['../structDGtal_1_1ClippingPlane.html#a4792d8997353e29365fc32c594ee3988',1,'DGtal::ClippingPlane::b'],['../structDGtal_1_1concepts_1_1CCommutativeRing.html#af0b370877735b5e1b1f33f667d7b9002',1,'DGtal::concepts::CCommutativeRing::b'],['../structDGtal_1_1concepts_1_1CEuclideanRing.html#af4df443e751577d542c035602db45575',1,'DGtal::concepts::CEuclideanRing::b'],['../structDGtal_1_1concepts_1_1CLinearAlgebra.html#ade86fd334d09440421244408e258aadc',1,'DGtal::concepts::CLinearAlgebra::b'],['../structBenchDomain.html#a707f589b3692e1d07284e2eb7f59b464',1,'BenchDomain::b']]],
+  ['b1_2',['b1',['../structDGtal_1_1PlaneProbingDigitalSurfaceLocalEstimator_1_1ProbingFrame.html#ae01c4c20c060d6e3a2d607019c7febb0',1,'DGtal::PlaneProbingDigitalSurfaceLocalEstimator::ProbingFrame']]],
+  ['b2_3',['b2',['../structDGtal_1_1PlaneProbingDigitalSurfaceLocalEstimator_1_1ProbingFrame.html#a3563559a906e3f0ae8d350cee4d87249',1,'DGtal::PlaneProbingDigitalSurfaceLocalEstimator::ProbingFrame']]],
+  ['backwardtrans_4',['backwardTrans',['../classtestRigidTransformation2D.html#a76cf6bd19ddcd3c261a180afe496365d',1,'testRigidTransformation2D::backwardTrans'],['../classtestRigidTransformation3D.html#a5cc60a2a1a780f401eec6bc0d7bfe1e2',1,'testRigidTransformation3D::backwardTrans']]],
+  ['balltocuberatio_5',['BallToCubeRatio',['../classDGtal_1_1PolyscopeViewer.html#a8e8e356e7d050ccd19e4497aec32acfc',1,'DGtal::PolyscopeViewer']]],
+  ['base_6',['base',['../structDGtal_1_1DigitalSurface_1_1Arc.html#aa7ea3ca7e711f11e537cb1a3c3e3d5e9',1,'DGtal::DigitalSurface::Arc::base'],['../structConfigPointPredicate.html#a731424d803d0607b455231b05633bce4',1,'ConfigPointPredicate::base']]],
+  ['below_7',['below',['../structDGtal_1_1QuickHull_1_1Facet.html#a6b8bca97a4d5da10772255a15dd0b690',1,'DGtal::QuickHull::Facet']]],
+  ['best_8',['best',['../structTriangleContext.html#a404648f3f67d31b5b41faaf7efbe7e93',1,'TriangleContext']]],
+  ['big_5fds_9',['BIG_DS',['../namespaceDGtal.html#a0ccba88e9fe5ad2a06d331549330f73f',1,'DGtal']]],
+  ['binary_10',['binary',['../classtestRigidTransformation2D.html#a30384305838ccbd6fefb1607bb15ed13',1,'testRigidTransformation2D::binary'],['../classtestRigidTransformation3D.html#a59be67928c58321922ce510ed75bd378',1,'testRigidTransformation3D::binary']]],
+  ['binary_5fimage_11',['binary_image',['../dgtalCalculus-geodesic_8cpp.html#aa50a9c9e8c2b62bc7ff1c3c577d25ffd',1,'dgtalCalculus-geodesic.cpp']]],
+  ['bisvalid_12',['bIsValid',['../classDGtal_1_1DigitalShapesCSG.html#ae33277452099617072060a2c9f2ab069',1,'DGtal::DigitalShapesCSG::bIsValid'],['../classDGtal_1_1EuclideanShapesCSG.html#a0de204bbc31e21df62234bab2a9a0c82',1,'DGtal::EuclideanShapesCSG::bIsValid']]],
+  ['bit_13',['bit',['../structDGtal_1_1UnorderedSetByBlock_1_1const__iterator.html#aca16c580f64b91fb4935ccfc0b478256',1,'DGtal::UnorderedSetByBlock::const_iterator::bit'],['../structDGtal_1_1UnorderedSetByBlock_1_1iterator.html#a52f1d53100b77d0c162af87bb6167554',1,'DGtal::UnorderedSetByBlock::iterator::bit']]],
+  ['black_14',['Black',['../classDGtal_1_1Color.html#a9fa316fcfe4f1bfba4fb94b938dbaa91',1,'DGtal::Color']]],
+  ['blockxy_15',['blockXY',['../classDGtal_1_1Naive3DDSSComputer.html#af946bfaace7f8c616bb6a5bdb8d78f58',1,'DGtal::Naive3DDSSComputer']]],
+  ['blockxz_16',['blockXZ',['../classDGtal_1_1Naive3DDSSComputer.html#a4470eca02d1918283b81e7be18c620de',1,'DGtal::Naive3DDSSComputer']]],
+  ['blockyz_17',['blockYZ',['../classDGtal_1_1Naive3DDSSComputer.html#a92d43ab5d355a99421a63deb6c60f328',1,'DGtal::Naive3DDSSComputer']]],
+  ['blue_18',['Blue',['../classDGtal_1_1Color.html#aa42bc87bfec756eee51bc6bcdcf2d92e',1,'DGtal::Color']]],
+  ['buffer_5fsize_19',['BUFFER_SIZE',['../classDGtal_1_1NaiveParametricCurveDigitizer3D.html#abf9766ae57b5b9740a798793ed449e98',1,'DGtal::NaiveParametricCurveDigitizer3D']]]
+];
