@@ -30,6 +30,8 @@ PROJECT(Helloworld)
 
 ### Required in DGtal
 CMAKE_MINIMUM_REQUIRED(VERSION 3.11)
+set(CMAKE_CXX_STANDARD 20)
+
 FIND_PACKAGE(DGtal REQUIRED)
 
 ADD_EXECUTABLE(helloworld helloworld)
@@ -42,6 +44,7 @@ TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)
 
 ```cmake
 PROJECT(Helloworld)
+set(CMAKE_CXX_STANDARD 20)
 
 INCLUDE(CPM.cmake) # Or any other path to the file, depending on your folder structure
 
