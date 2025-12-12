@@ -10,7 +10,7 @@ We are happy to announce the major release 2.1 of DGtal. This release follows a 
 * Many improvements in the QuickHull implementation with application to lattice polytopes and convexity computations ([QuickHull](https://dgtal-team.github.io/doc-nightly/moduleQuickHull.html))
 * It is now easier to use DGtal in external projects (see [For users](https://www.dgtal.org/users/))
 * Better python bindings build  infrastructure (with python bindings available on linux, macos and windows)
-* ... and many bugfixes
+* ... and many bugfixes.
  
 
 ## Links
