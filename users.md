@@ -14,6 +14,29 @@ DGtal is an open-source software (Lesser Gnu Privacy License - LGPL) so you can 
 
 To use DGtal in your own project, a very nice solution exists with *cmake*. There are two methods we recommend: either installing the library manually or using CPM. 
 
+## Manual installation
+
+First, download and build DGtal library. This requires a compiler, git and cmake installed. You can follow the instructions [here](https://www.dgtal.org/doc/stable/moduleBuildDGtal.html). Within the build directory, run the command:
+
+```bash
+cmake --build . --target install
+```
+
+This will build and install the library so that it is available throughout your system (Linux/MacOS). Afterward, in your project CMakeLists, you can add the `find_package` and `target_link_librairies` as:
+
+
+``` cmake
+PROJECT(Helloworld)
+
+### Required in DGtal
+CMAKE_MINIMUM_REQUIRED(VERSION 3.11)
+set(CMAKE_CXX_STANDARD 20)
+
+FIND_PACKAGE(DGtal REQUIRED)
+
+ADD_EXECUTABLE(helloworld helloworld)
+TARGET_LINK_LIBRARIES(helloworld DGtal::DGtal)
+```
 
 # Using CPM
 
@@ -21,6 +44,7 @@ To use DGtal in your own project, a very nice solution exists with *cmake*. Ther
 
 ```cmake
 PROJECT(Helloworld)
+set(CMAKE_CXX_STANDARD 20)
 
 INCLUDE(CPM.cmake) # Or any other path to the file, depending on your folder structure
 
