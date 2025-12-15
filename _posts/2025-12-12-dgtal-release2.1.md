@@ -6,9 +6,9 @@ title: DGtal release 2.1
 
 We are happy to announce the release 2.1 of DGtal. This release follows a major update of the library with new contributions and improvements to the build system (see more details in the [Changelog](https://github.com/DGtal-team/DGtal/blob/master/ChangeLog.md) section):
 
-* New Sparse Voxel Octree and Direct Acyclic Sparse Voxel Octree data structure to represent large digital sets ([DigitalSetByOctree](https://dgtal-team.github.io/doc-nightly/moduleDigitalSets.html))
-* Many improvements in the QuickHull implementation with application to lattice polytopes and convexity computations ([QuickHull](https://dgtal-team.github.io/doc-nightly/moduleQuickHull.html))
-* It is now easier to use DGtal in external projects (see [For users](https://www.dgtal.org/users/))
+* New Sparse Voxel Octree and Direct Acyclic Sparse Voxel Octree data structure to represent large digital sets ([DigitalSetByOctree](https://dgtal-team.github.io/doc-nightly/moduleDigitalSets.html)).
+* Many improvements in the QuickHull implementation with application to lattice polytopes and convexity computations ([QuickHull](https://dgtal-team.github.io/doc-nightly/moduleQuickHull.html)).
+* It is now easier to use DGtal in external projects (see [For users](https://www.dgtal.org/users/)).
 * Better python  build infrastructure for the bindings available on linux and macos. Give it a try with `pip install dgtal`
 * ... and many bugfixes.
  
