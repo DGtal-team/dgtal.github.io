@@ -14,7 +14,7 @@ title: DGtalTools
 The source code of the tools can also be used to non DGtal familiar user to show how to include the DGtal library framework directly in their own source code (in complement of [ DGtal tutorial][4] ).
 
 ### DGtalTools content:
-At the moment the DGTalTools project is organized as follows (<span style="color: #8b0000;">new</span> or <span style="color: #008b00;">improved</span> in 1.4):
+At the moment the DGTalTools project is organized as follows (<span style="color: #8b0000;">new</span> or <span style="color: #008b00;">improved</span> in 2.0 and 2.1):
 (see also the nightly build doxygen [documentation of the tools](https://dgtal-team.github.io/doctools-nightly/))
 * **converters/**: utilities to convert various simple file formats:
   * <span style="color: #00008b;">convertVol</span>: a simple generic volume image converters (can process actually pgm3d, vol, longvol, raw (for writing)).
@@ -29,14 +29,14 @@ At the moment the DGTalTools project is organized as follows (<span style="color
   - <span style="color: #00008B;">itk2vol</span>: convert any image of itk format (mhd, mha, ...) to vol (available with the itk option in DGtal).
   - <span style="color: #00008b;">longvol2vol</span>: convert longvol to vol file using different conversion policies.
   - <span style="color: #00008b;">mesh2heightfield</span>: new tool to convert a mesh file into a 2D height map (from a normal direction N and from a starting point P).
-  - <span style="color: #008b00;">mesh2vol</span>: Convert a mesh file into a 26-separated or 6-separated voxelization in a given resolution grid.
+  - <span style="color: #00008b;">mesh2vol</span>: Convert a mesh file into a 26-separated or 6-separated voxelization in a given resolution grid.
   - <span style="color: #00008b;">ofs2off</span>: convert OFS mesh format towards a OFF variant.
   - <span style="color: #00008b;"> raw2HDF5</span>: convert raw image to HDF5.
   - <span style="color: #00008b;">raw2vol</span> and <span style="color: #00008b;">vol2raw</span>: transform 3D volumes files from (resp. to) raw to vol.
   - <span style="color: #00008b;"> sdp2vol</span>: a simple tool to create a 3d vol image from 3d digital points.
   - <span style="color: #00008b;">slice2vol</span>: tool to merge slices into one 3d volumic file.
   - <span style="color: #00008b;">vol2heightfield</span>: a new tool to transform volumetric file into 2D heightmap.
-  - <span style="color: #00008b;">vol2obj</span>: convert a volume file into OBJ format (all voxels belonging to threshold interval)
+  - <span style="color: #008b00;">vol2obj</span>: convert a volume file into OBJ format (all voxels belonging to threshold interval)
   - <span style="color: #00008b;">vol2raw</span>: convert a vol to a 8-bit raw file.
   - <span style="color: #00008b;">vol2sdp</span><span style="font-size: 16px;">: a simple tools to extract digital points from 3d vol files.</span></span>
   - <span style="color: #00008b;"> vol2slice</span>: tool to extract all slices from 3d volumic images.
@@ -55,7 +55,7 @@ At the moment the DGTalTools project is organized as follows (<span style="color
 
   - <span style="color: #00008b;">3dCurveTangentEstimator</span>: to estimate the tangent vector to a set of 3D integer points, which are supposed to approximate a 3D curve.
 
-  - <span style="color: #00008b;">3dLocalEstimators</span>: program to compare 3D local curvature estimators  (mean, gaussian and principal curvatures) on 3D implicit shapes  with integral invariant and monge via jet fitting (with also noise robustness measure).
+  - <span style="color: #008b00;">3dLocalEstimators</span>: program to compare 3D local curvature estimators  (mean, gaussian and principal curvatures) on 3D implicit shapes  with integral invariant and monge via jet fitting (with also noise robustness measure).
   - <span style="color: #00008b;">curvatureBC</span>: curvature estimator using the Binomial convolver.
   - <span style="color: #00008b;">curvatureMCMS</span>: curvature estimator using the maximal segments cover (to be updated for current DGtal version).
   - <span style="color: #00008b;">curvatureScaleSpaceBCC</span>: a tool to display the curvature scale space of a given contour with the Binomial Convolver Curvature Estimator.
@@ -87,38 +87,38 @@ At the moment the DGTalTools project is organized as follows (<span style="color
 * **visualization/**:
   - <span style="color: #00008b;"> 2dCompImage</span>: Computes and displays image comparisons (squared and absolute differences.
   - <span style="color: #00008b;">3dCompSurfelData</span>: a tool to compare generic surfel data informations given from two data files.
-  - <span style="color: #00008b;">3dCurvatureViewer</span>: permits to compute and visualize mean or gaussian curvature and principal curvature directions of  binary shape.
-  - <span style="color: #00008b;">3dCurvatureViewerNoise</span>: same as 3dCurvatureViewer, but allows to add some noise to objects.
-  - <span style="color: #00008b;">3dCurveViewer</span>: A tool for visualizing the tangential cover of 3d curves.
-  - <span style="color: #00008b;">3dDisplaySurfelData</span>: display surfel data from SDP file with color attributes given as scalar interpreted as color.
-  - <span style="color: #00008b;">3dHeightMapViewer</span>: display a 2D image as heightmap by using QGLviewer.
-  - <span style="color: #00008b;">3dImageViewer</span>: new tool to display slice image with interactive translatations or rotations (can open dicom format if WITH_ITK is set to true).
-  - <span style="color: #00008b;">3dImplicitSurfaceExtractorBy4DExtension</span>: a tool to visualize 3d polynomial implicit surface defined as some f(x,y,z)=0.
-  - <span style="color: #00008b;">3dImplicitSurfaceExtractorByThickening</span>: a tool to visualize 3d polynomial implicit surface defined as some f(x,y,z)=0.
+  - <span style="color: #008b00;">3dCurvatureViewer</span>: permits to compute and visualize mean or gaussian curvature and principal curvature directions of  binary shape.
+  - <span style="color: #008b00;">3dCurvatureViewerNoise</span>: same as 3dCurvatureViewer, but allows to add some noise to objects.
+  - <span style="color: #008b00;">3dCurveViewer</span>: A tool for visualizing the tangential cover of 3d curves.
+  - <span style="color: #008b00;">3dDisplaySurfelData</span>: display surfel data from SDP file with color attributes given as scalar interpreted as color.
+  - <span style="color: #008b00;">3dHeightMapViewer</span>: display a 2D image as heightmap by using QGLviewer.
+  - <span style="color: #008b00;">3dImageViewer</span>: new tool to display slice image with interactive translatations or rotations (can open dicom format if WITH_ITK is set to true).
+  - <span style="color: #008b00;">3dImplicitSurfaceExtractorBy4DExtension</span>: a tool to visualize 3d polynomial implicit surface defined as some f(x,y,z)=0.
+  - <span style="color: #008b00;">3dImplicitSurfaceExtractorByThickening</span>: a tool to visualize 3d polynomial implicit surface defined as some f(x,y,z)=0.
   - <span style="color: #008b00;">3dSDPViewer</span>: basic display of a sequence of 3d points (as voxel or sphere) and vectors by using QGLviewer.
-  - <span style="color: #00008B;">3dVolBoundaryViewer</span>: Display the boundary of a volume file by using QGLviewer.
-  - <span style="color: #00008B;">3dVolViewer</span>: volume file (.vol and .pgm3d) viewer with QGLViewer.
+  - <span style="color: #008b00;">3dVolBoundaryViewer</span>: Display the boundary of a volume file by using QGLviewer.
+  - <span style="color: #008b00;">3dVolViewer</span>: volume file (.vol and .pgm3d) viewer with QGLViewer.
   - <span style="color: #00008b;">displayContours</span>: display discrete contours from various format (.fc (freemanchain), .sdp).
   - <span style="color: #008b00;">meshViewer</span>: display 3D mesh from OFS or OFF format.
   - <span style="color: #00008b;">patternTriangulation</span>: a new tool that draws with Board2D the convex hull, the closest-point Delaunay triangulation or the farthest-point Delaunay triangulation of a pattern.
-  - <span style="color: #00008b;">sliceViewer</span>: a new 2D and 3D slice viewer from 3D volumic files ( pgm3d, vol, longvol, and DICOM with ITK).
-  - <span style="color: #8b0000;">sliceViewer</span>: vol visualization tool using <a href="https://github.com/nmwsharp/polyscope">polyscope</a> ( pgm3d, vol, longvol, and DICOM with ITK).
+  - <span style="color: #008b00;">sliceViewer</span>: a new 2D and 3D slice viewer from 3D volumic files ( pgm3d, vol, longvol, and DICOM with ITK).
+  - <span style="color: #00008b;">volscope</span>: vol visualization tool using <a href="https://github.com/nmwsharp/polyscope">polyscope</a> ( pgm3d, vol, longvol, and DICOM with ITK).
 
 * * * *
 
 * **volumetric/**:
   - <span style="color: #00008b;">3dVolMarchingCubes</span>: marching cubes form a Vol file
   - <span style="color: #00008b;">criticalKernelsThinning3D</span>: marching cubes form a Vol file
-  - <span style="color: #00008b;">homotopicThinning3D</span>: ultimate skeleton from vol file
+  - <span style="color: #008b00;">homotopicThinning3D</span>: ultimate skeleton from vol file
   - <span style="color: #00008b;">volAddBorder</span>: add a 1 voxel boundary with value 0 to a vol file.
   - <span style="color: #00008b;">volCComponentCounter</span>: a simple program to count the number of connected components in a 3D image.
   - <span style="color: #00008b;">volCrop</span>: crop an 3D vol image from to points.
-  - <span style="color: #008b00;">volFillInterior</span>: tool to fill the interior of a voxel set.
+  - <span style="color: #00008b;">volFillInterior</span>: tool to fill the interior of a voxel set.
   - <span style="color: #00008b;">volFlip</span>: tool to flip all volume slice images according a given dimension.
   - <span style="color: #00008b;">volImageMetrics</span>: apply basic measures from two volumetric images: RMSE and PSNR.
   - <span style="color: #00008b;">volInfo</span>: get information from a volumetric file.
   - <span style="color: #00008b;">volIntensityScale</span>: a simple tool to apply a linear scale of the intensity given in a volumetric file.
-  - <span style="color: #008b00;">volReSample</span>: apply a basic re sampling of a 3D volumetric image (.vol, .longvol, .pgm3d) with a given grid size.
+  - <span style="color: #00008b;">volReSample</span>: apply a basic re sampling of a 3D volumetric image (.vol, .longvol, .pgm3d) with a given grid size.
   - <span style="color: #00008b;">volSegment</span>: Segment volumetric file from a simple threshold which can be set automatically from the otsu estimation.
   - <span style="color: #00008b;">volShapeMetrics</span>: apply shape measures for comparing two volumetric images A and B (shape defined from thresholds).
   - <span style="color: #00008b;">volSubSample</span>: sub sample a vol file (division by 2 in each direction)
@@ -135,19 +135,20 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
   - **<span style="color: #00008b;">distanceTransform/</span>**:
     - <span style="color: #00008b;">LUTBasedNSDistanceTransform</span>: Compute the 2D translated neighborhood-sequence distance transform of a binary imag
     - <span style="color: #00008b;">CumulativeSequenceTest</span> and <span style="color: #00008b;">RationalBeattySequenceTest</span>: tests from LUTBasedNSDistanceTransform.
-  - <span style="color: #8b0000;">rotNmap</span>: tools to apply a rotation in the input normal map (it rotates both the position and normals orientation to be consistant). 
+  - <span style="color: #00008b;">rotNmap</span>: tools to apply a rotation in the input normal map (it rotates both the position and normals orientation to be consistant). 
   - <span style="color: #00008b;">thresholdRosin</span>: implementation of Rosin's algorithm to compute threshold of an unimodal intensity histogram
 
 * * * *
 
 * **Geometry3d/**:
-  - <span style="color: #008b00;">basicEditMesh</span>: to apply basic mesh edition (scale change, mesh face contraction, face filtering).
+  - <span style="color: #00008b;">basicEditMesh</span>: to apply basic mesh edition (scale change, mesh face contraction, face filtering).
   - <span style="color: #00008b;">basicMorphoFilter</span>: apply basic morpho filter from a ball structural element.
   - <span style="color: #00008b;">computeMeshDistances</span>: computes for each face of a mesh A the minimal distance to another mesh B.
   - <span style="color: #00008b;">obj2off</span>: tool to convert a mesh represented in obj format into off format.
   - <span style="color: #00008b;">off2obj</span>: tool to convert a mesh represented in off format into obj format.
   - <span style="color: #00008b;">off2sdp</span>: a tool to convert a mesh into a set of points (.sdp).
-  - <span style="color: #8b0000;">trunkMeshTransform</span>: tools to transform trunk mesh from input centerline and cylinder coordinates.
+  - <span style="color: #8b0000;">splitMeshFromCol</span>: simple tool to split mesh from its color face attributes.
+  - <span style="color: #00008b;">trunkMeshTransform</span>: tools to transform trunk mesh from input centerline and cylinder coordinates.
   - <span style="color: #00008b;">volLocalMax</span>: extract the local maximas of a vol image within a spherical kernel.
   - <span style="color: #00008b;">vol2meshAndNormals</span>: tool to estimate normal vectors (using VCM) from digital surface defined in 3D volume. It exports the mesh and the normal vectors.
   - <span style="color: #00008b;">volFillCCSize</span>: tool to fill each Connected Component with a value corresponding to the number of voxels of the CC.
@@ -159,10 +160,10 @@ At the moment the DFtalTools-contrib project is organized as follows (<span styl
   - <span style="color: #00008b;">displayLineSegments</span>: new tool allowing to display line segment in an output image.
   - <span style="color: #00008b;">displaySetOf2dPts</span>: tool to display sets of 2d points.
   - <span style="color: #00008b;">displayTgtCoverAlphaTS</span>: to display alpha-thick segment given on a simple contour.
-  - <span style="color: #008b00;">graphViewer</span>: add a new tool allowing to display graph from edges, vertex and radii.
-  - <span style="color: #00008b;">meshViewerEdit</span>: tool to visualize a mesh and to apply simple edits (face removal, color edits...).
-  - <span style="color: #8b0000;">polyMeshEdit</span>: tool to edit a mesh based on <a href="https://github.com/nmwsharp/polyscope">polyscope</a>.
-  - <span style="color: #8b0000;">polyMeshColorize</span>: tool to colorize a mesh based on <a href="https://github.com/nmwsharp/polyscope">polyscope</a>.
+  - <span style="color: #00008b;">graphViewer</span>: add a new tool allowing to display graph from edges, vertex and radii.
+  - <span style="color: #008b00;">meshViewerEdit</span>: tool to visualize a mesh and to apply simple edits (face removal, color edits...).
+  - <span style="color: #008b00;">polyMeshEdit</span>: tool to edit a mesh based on <a href="https://github.com/nmwsharp/polyscope">polyscope</a>.
+  - <span style="color: #00008b;">polyMeshColorize</span>: tool to colorize a mesh based on <a href="https://github.com/nmwsharp/polyscope">polyscope</a>.
 
 ### How to get and install DGtalTools (or DGtalTools-contrib)
 
