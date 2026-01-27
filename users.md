@@ -54,7 +54,7 @@ CPMAddPackage(
   URI "gh:DGtal-team/DGtal@2.1"
   OPTIONS
     # Add options to DGtal, here the viewer. More in the [build page](https://www.dgtal.org/doc/stable/moduleBuildDGtal.html)
-    "DGTAL_POLYSCOPE_VIEWER ON"
+    "DGTAL_WITH_POLYSCOPE_VIEWER ON"
 )
 
 ADD_EXECUTABLE(helloworld helloworld)
