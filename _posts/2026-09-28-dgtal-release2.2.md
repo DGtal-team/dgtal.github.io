@@ -10,7 +10,7 @@ WIP
 
 Mean curvature | Mean curvature in parallel
 -- | --
-![](../img/img/bunny_curvature_parallel.png) | ![](../img/bunny_curvature_parallel2.png) 
+ ![](../img/img/bunny_curvature_parallel2.png) | ![](../img/bunny_curvature_parallel.png) 
 
 
 
