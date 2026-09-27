@@ -8,11 +8,11 @@ We are happy to announce the release 2.2 of DGtal. This release is a minor updat
 
 WIP
 
+
+
 Mean curvature | Mean curvature in parallel
--- | --
- ![](../img/img/bunny_curvature_parallel2.png) | ![](../img/bunny_curvature_parallel.png) 
-
-
+--|--
+![](../img/bunny_curvature_parallel2.png) | ![](../img/bunny_curvature_parallel.png)  
 
 ## Links
 
