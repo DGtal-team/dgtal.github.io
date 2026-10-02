@@ -1,0 +1,9 @@
+<map id="DGtal::detail::AffineGeometryScalarOperations&lt; TScalar &gt;" name="DGtal::detail::AffineGeometryScalarOperations&lt; TScalar &gt;">
+<area shape="rect" id="Node000001" title="Aim: Internal class used by AffineGeometry to differentiate operations on point coordinates,..." alt="" coords="5,71,199,111"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1detail_1_1AffineGeometryScalarOperations.html" title=" " alt="" coords="317,5,510,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,64,222,60,318,43,314,45,223,66,206,69"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1detail_1_1AffineGeometryScalarOperations_3_01double_01_4.html" title="Aim: Internal class used by AffineGeometry to differentiate operations on lattice points and operatio..." alt="" coords="317,71,510,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,88,319,90,314,92,215,94"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1detail_1_1AffineGeometryScalarOperations_3_01float_01_4.html" title="Aim: Internal class used by AffineGeometry to differentiate operations on lattice points and operatio..." alt="" coords="317,136,510,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,113,223,117,319,138,313,139,222,122,204,118"/>
+</map>

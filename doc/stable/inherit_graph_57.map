@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,325,157,350"/>
+<area shape="rect" id="Node000001" href="$classDGtal_1_1ConstIteratorAdapter.html" title=" " alt="" coords="205,5,440,46"/>
+<area shape="poly" id="edge156_Node000000_Node000001" title=" " alt="" coords="84,309,95,255,117,187,152,116,175,84,203,56,222,44,219,49,206,60,179,87,157,119,122,189,101,257,89,310"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ConstIteratorAdapter.html" title=" " alt="" coords="209,70,436,126"/>
+<area shape="poly" id="edge157_Node000000_Node000002" title=" " alt="" coords="90,309,106,270,131,224,163,177,203,136,224,124,220,128,206,140,167,180,135,227,111,273,95,311"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1ConstIteratorAdapter.html" title=" " alt="" coords="229,150,416,206"/>
+<area shape="poly" id="edge158_Node000000_Node000003" title=" " alt="" coords="100,311,144,263,172,238,203,215,231,203,227,207,206,220,176,242,148,267,104,314"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1ConstIteratorAdapter.html" title=" " alt="" coords="209,230,436,286"/>
+<area shape="poly" id="edge159_Node000000_Node000004" title=" " alt="" coords="135,317,238,284,235,288,138,322"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1ConstIteratorAdapter.html" title=" " alt="" coords="214,310,431,366"/>
+<area shape="poly" id="edge160_Node000000_Node000005" title=" " alt="" coords="171,335,215,336,211,339,174,340"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1ReverseIterator.html" title=" " alt="" coords="246,389,399,430"/>
+<area shape="poly" id="edge161_Node000000_Node000006" title=" " alt="" coords="135,353,205,375,248,388,243,390,204,380,137,358"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1ReverseIterator.html" title=" " alt="" coords="246,455,399,495"/>
+<area shape="poly" id="edge162_Node000000_Node000007" title=" " alt="" coords="104,359,150,400,206,439,248,458,243,459,203,444,147,404,104,364"/>
+<area shape="rect" id="Node000008" href="$classDGtal_1_1ConstIteratorAdapter.html" title="This class adapts any iterator so that operator* returns another element than the one pointed to by t..." alt="" coords="230,519,414,575"/>
+<area shape="poly" id="edge163_Node000000_Node000008" title=" " alt="" coords="95,362,140,434,170,472,206,505,233,522,227,522,203,509,166,475,135,437,94,367"/>
+<area shape="rect" id="Node000009" href="$classDGtal_1_1ReverseIterator.html" title="This class adapts any bidirectional iterator so that operator++ calls operator&#45;&#45; and vice versa." alt="" coords="246,599,399,639"/>
+<area shape="poly" id="edge164_Node000000_Node000009" title=" " alt="" coords="88,363,104,413,127,473,160,533,182,561,206,585,225,597,248,608,242,608,223,602,203,589,178,564,156,536,122,475,99,415,88,368"/>
+</map>

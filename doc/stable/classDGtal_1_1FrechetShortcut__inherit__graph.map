@@ -1,0 +1,7 @@
+<map id="DGtal::FrechetShortcut&lt; TIterator, TInteger &gt;" name="DGtal::FrechetShortcut&lt; TIterator, TInteger &gt;">
+<area shape="rect" id="Node000001" title="Aim: On&#45;line computation Computation of the longest shortcut according to the Fréchet distance for a ..." alt="" coords="5,43,162,83"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1FrechetShortcut.html" title=" " alt="" coords="392,5,560,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,52,393,31,391,36,178,57"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1FrechetShortcut.html" title=" " alt="" coords="386,72,567,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,87,186,98,237,105,289,108,388,109,383,109,289,113,236,110,185,104,144,92"/>
+</map>

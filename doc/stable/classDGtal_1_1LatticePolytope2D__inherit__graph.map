@@ -1,0 +1,7 @@
+<map id="DGtal::LatticePolytope2D&lt; TSpace, TSequence &gt;" name="DGtal::LatticePolytope2D&lt; TSpace, TSequence &gt;">
+<area shape="rect" id="Node000001" title="Aim: Represents a 2D polytope, i.e. a convex polygon, in the two&#45;dimensional digital plane...." alt="" coords="5,5,176,46"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="191,20,202,26,177,33,175,28,197,25,191,25"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="191,13,299,14,337,18,353,26,335,34,293,38,177,38,176,32,292,32,334,29,348,26,336,23,299,19,192,19"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1LatticePolytope2D.html" title=" " alt="" coords="5,117,176,158"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="93,60,93,117,88,116,88,63"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="DGtal::CountedConstPtrOrConstPtr&lt; T &gt;" name="DGtal::CountedConstPtrOrConstPtr&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Smart or simple const pointer on T. It can be a smart pointer based on reference counts or a sim..." alt="" coords="5,553,184,594"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="467,33,646,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,537,107,431,128,294,142,225,160,164,181,114,206,81,234,60,266,45,299,35,334,29,403,26,469,33,464,36,403,31,335,34,301,40,268,50,237,65,210,84,186,117,165,166,148,227,133,295,112,432,101,538"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="422,111,691,166"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,537,113,451,136,343,167,243,186,205,206,179,235,169,286,159,423,146,419,150,287,165,236,174,209,183,190,208,172,245,141,345,118,452,104,538"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="467,190,646,231"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,537,99,472,116,392,131,350,150,310,175,274,206,243,225,232,251,224,318,213,394,208,469,207,464,210,394,213,318,218,252,229,227,237,209,247,179,277,155,313,136,352,121,393,105,473,99,537"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="467,256,646,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="97,537,106,483,125,419,140,386,157,355,180,327,206,303,226,293,252,285,318,275,394,271,469,272,464,275,394,276,319,281,253,290,228,298,209,307,183,331,162,358,144,389,130,421,111,485,102,538"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="467,321,646,362"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,537,117,499,138,455,168,412,206,378,237,361,269,348,337,332,405,326,469,329,464,332,406,332,338,337,271,353,239,366,209,382,172,416,143,457,122,501,108,539"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="461,386,652,427"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="115,539,154,493,179,471,206,454,269,428,335,413,401,404,462,402,458,405,401,409,336,418,271,433,209,458,182,476,158,497,120,541"/>
+<area shape="rect" id="Node000008" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="439,452,674,492"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="145,544,207,519,325,492,440,478,436,482,326,497,208,524,149,547"/>
+<area shape="rect" id="Node000009" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="465,517,648,558"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="198,563,466,542,463,546,200,568"/>
+<area shape="rect" id="Node000010" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="452,581,661,637"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="157,597,208,610,270,618,334,621,453,618,449,621,334,626,270,623,207,615,159,602"/>
+<area shape="rect" id="Node000011" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="467,661,646,702"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="128,601,167,628,209,650,274,668,342,679,408,683,469,685,464,688,408,689,341,684,273,673,207,655,164,633,130,607"/>
+<area shape="rect" id="Node000012" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="451,726,662,767"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="112,604,152,662,178,690,209,711,268,735,330,749,393,755,453,756,448,758,393,760,330,754,266,740,206,716,175,694,148,666,113,610"/>
+<area shape="rect" id="Node000013" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="467,792,646,832"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="103,606,119,650,139,699,169,746,188,766,209,783,228,792,254,799,320,808,395,812,469,814,464,816,395,817,319,813,252,804,226,797,206,788,184,770,165,749,134,701,114,652,103,611"/>
+<area shape="rect" id="Node000014" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="467,857,646,898"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="99,607,111,662,130,726,144,759,162,789,183,817,209,841,228,850,253,858,319,869,394,874,469,878,464,879,394,880,318,874,252,863,226,855,206,845,180,821,157,792,140,761,125,728,106,664,99,612"/>
+<area shape="rect" id="Node000015" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="424,927,688,998"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="101,606,117,696,140,804,154,857,171,904,189,941,209,965,234,980,260,991,317,1003,376,1003,435,998,430,999,376,1009,316,1008,258,996,231,985,206,969,185,944,166,906,149,858,134,805,112,696,100,612"/>
+<area shape="rect" id="Node000016" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="461,1022,652,1063"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="99,606,113,709,134,838,149,902,166,959,186,1004,209,1033,227,1042,251,1049,315,1055,388,1055,463,1053,458,1053,389,1060,315,1061,250,1054,225,1047,206,1037,182,1007,161,960,144,903,129,839,108,710,99,612"/>
+<area shape="rect" id="Node000017" href="$classDGtal_1_1CountedConstPtrOrConstPtr.html" title=" " alt="" coords="443,1088,670,1128"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="99,607,111,719,131,864,145,936,163,1000,185,1052,197,1071,209,1085,238,1105,269,1119,302,1128,337,1133,406,1134,468,1129,473,1129,407,1139,336,1139,301,1133,267,1124,235,1109,206,1089,192,1074,180,1054,158,1002,140,937,126,865,106,720,98,612"/>
+</map>

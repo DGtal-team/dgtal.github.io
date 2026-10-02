@@ -1,0 +1,15 @@
+<map id="DGtal::Shortcuts&lt; TKSpace &gt;" name="DGtal::Shortcuts&lt; TKSpace &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class is used to simplify shape and surface creation. With it, you can create new shapes an..." alt="" coords="5,81,203,106"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ShortcutsGeometry.html" title="Aim: This class is used to simplify shape and surface creation. With it, you can create new shapes an..." alt="" coords="361,73,538,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,91,363,93,358,95,218,96"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1Shortcuts.html" title=" " alt="" coords="375,5,524,46"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="187,75,376,38,373,42,188,80"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1Shortcuts.html" title=" " alt="" coords="355,142,544,168"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="174,108,227,119,357,142,351,143,226,125,174,113"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1ShortcutsGeometry.html" title=" " alt="" coords="696,32,872,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="553,81,672,67,698,66,693,67,672,73,554,86"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1ShortcutsGeometry.html" title=" " alt="" coords="696,113,872,154"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="553,113,568,115,698,130,693,130,568,121,552,118"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="539,29,672,39,698,44,693,44,672,44,540,34"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="559,148,672,142,693,143,698,142,672,147,560,153"/>
+</map>

@@ -1,0 +1,26 @@
+var structDGtal_1_1NumberTraitsImpl =
+[
+    [ "IsBounded", "structDGtal_1_1NumberTraitsImpl.html#a181716a772074fd19f5937ecec86eb4a", null ],
+    [ "IsIntegral", "structDGtal_1_1NumberTraitsImpl.html#ad5a982d2c4db9e10e535b5cd87b7abab", null ],
+    [ "IsSigned", "structDGtal_1_1NumberTraitsImpl.html#a48aca62c48d63667006bffb992171dc4", null ],
+    [ "IsSpecialized", "structDGtal_1_1NumberTraitsImpl.html#acc15bfebd06bde1062a689bb8097b101", null ],
+    [ "IsUnsigned", "structDGtal_1_1NumberTraitsImpl.html#a35f2dbae0fe1fdc4dad7e41f97d1fde0", null ],
+    [ "ParamType", "structDGtal_1_1NumberTraitsImpl.html#a9b1fb1ef2b68e5ba07d37f441121a974", null ],
+    [ "ReturnType", "structDGtal_1_1NumberTraitsImpl.html#af3408171920c7f85d2aefb46250309cc", null ],
+    [ "SignedVersion", "structDGtal_1_1NumberTraitsImpl.html#a312da4ca9e987e5e9d07a5510a466509", null ],
+    [ "UnsignedVersion", "structDGtal_1_1NumberTraitsImpl.html#a001c1bdadeac15abf267eb8aa97be74d", null ],
+    [ "castToDouble", "structDGtal_1_1NumberTraitsImpl.html#af97eb78317d1fc1c6babd4dcc95ed336", null ],
+    [ "castToInt64_t", "structDGtal_1_1NumberTraitsImpl.html#a0104cb5103fc4596e3fe975a592cc87e", null ],
+    [ "castToUInt64_t", "structDGtal_1_1NumberTraitsImpl.html#ae2a7253ca5d304c75267d2c104916abe", null ],
+    [ "digits", "structDGtal_1_1NumberTraitsImpl.html#a7284505c930c8b5d16bc7d418da702fb", null ],
+    [ "even", "structDGtal_1_1NumberTraitsImpl.html#a25687bcf799405b79957de98d4e2f39f", null ],
+    [ "isBounded", "structDGtal_1_1NumberTraitsImpl.html#a3825a73262b5b5c22ab4cb505da4eb8e", null ],
+    [ "isSigned", "structDGtal_1_1NumberTraitsImpl.html#a7ed023e71cfc45f3157d945bbe896202", null ],
+    [ "max", "structDGtal_1_1NumberTraitsImpl.html#a1d5705d696aaadf9ef825dd98f534796", null ],
+    [ "min", "structDGtal_1_1NumberTraitsImpl.html#a1065d81768cbbd3547d7c5d5cff31b0b", null ],
+    [ "odd", "structDGtal_1_1NumberTraitsImpl.html#ae16963a1c70d5bb3fab64edb5fd8c2c2", null ],
+    [ "one", "structDGtal_1_1NumberTraitsImpl.html#a2a0d2ca18a9a693e951c98ca19cfddb6", null ],
+    [ "zero", "structDGtal_1_1NumberTraitsImpl.html#a89233871d93912d41234f603f2a4a267", null ],
+    [ "ONE", "structDGtal_1_1NumberTraitsImpl.html#a107fde7e50bd7b72c26ef13786f5138d", null ],
+    [ "ZERO", "structDGtal_1_1NumberTraitsImpl.html#a2840477714e7e56e85afb1efa04f6a52", null ]
+];

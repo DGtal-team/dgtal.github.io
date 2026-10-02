@@ -1,0 +1,8 @@
+<map id="DGtal::ImplicitFunctionDiff1LinearCellEmbedder&lt; TKSpace, TImplicitFunctionDiff1, TEmbedder &gt;" name="DGtal::ImplicitFunctionDiff1LinearCellEmbedder&lt; TKSpace, TImplicitFunctionDiff1, TEmbedder &gt;">
+<area shape="rect" id="Node000001" title="Aim: a cellular embedder for implicit functions, (default constructible, copy constructible,..." alt="" coords="5,14,246,70"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ImplicitFunctionDiff1LinearCellEmbedderGradientMap.html" title=" " alt="" coords="736,5,949,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,29,295,27,504,16,595,15,713,21,738,25,733,25,712,26,595,21,504,21,295,33,262,35"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1ImplicitFunctionDiff1LinearCellEmbedderGradientMap.html" title="Forward declaration." alt="" coords="295,43,522,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,57,297,63,292,64,261,62"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="538,75,624,72,712,64,733,64,739,63,713,69,624,77,538,80"/>
+</map>
