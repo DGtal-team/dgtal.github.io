@@ -12,7 +12,7 @@ Mean curvature | Split domains for parallel curvature computation
 --|--
 ![](../img/bunny_curvature_parallel2.png) | ![](../img/bunny_curvature_parallel.png)  
 
-* We have upgraded the internal viewer to support the latest version of `polyscope` (2.6.1) allowing efficent vizualization of voxel sets (`SparseVolumeGrid`).
+* We have upgraded the internal viewer to support the latest version of [polyscope](https://polyscope.run) (2.6.1) allowing efficent vizualization of voxel sets (`SparseVolumeGrid`).
 
 ![](../img/sparsepoly.png)
 
