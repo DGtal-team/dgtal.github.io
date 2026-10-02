@@ -1,7 +1,0 @@
-<map id="DGtal::LightImplicitDigitalSurface&lt; TKSpace, TPointPredicate &gt;" name="DGtal::LightImplicitDigitalSurface&lt; TKSpace, TPointPredicate &gt;">
-<area shape="rect" id="Node000001" title="Aim: A model of CDigitalSurfaceContainer which defines the digital surface as the boundary of an impl..." alt="" coords="5,39,251,79"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1LightImplicitDigitalSurface.html" title=" " alt="" coords="470,5,699,46"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,46,472,33,467,35,266,52"/>
-<area shape="rect" id="Node000003" href="$classDGtal_1_1LightImplicitDigitalSurface.html" title=" " alt="" coords="476,71,693,111"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,75,275,75,478,88,473,89,274,81,266,80"/>
-</map>

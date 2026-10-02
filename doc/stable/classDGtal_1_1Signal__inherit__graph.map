@@ -1,5 +1,0 @@
-<map id="DGtal::Signal&lt; TValue &gt;" name="DGtal::Signal&lt; TValue &gt;">
-<area shape="rect" id="Node000001" title="Aim: Represents a discrete signal, periodic or not. The signal can be passed by value since it is onl..." alt="" coords="5,5,169,31"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1Signal.html" title=" " alt="" coords="9,102,165,128"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,45,90,102,84,101,85,48"/>
-</map>

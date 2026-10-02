@@ -1,9 +1,0 @@
-<map id="DGtal::DigitalSurfaceConvolver&lt; TFunctor, TKernelFunctor, TKSpace, TDigitalKernel, dimension &gt;" name="DGtal::DigitalSurfaceConvolver&lt; TFunctor, TKernelFunctor, TKSpace, TDigitalKernel, dimension &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,115,254,171"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1DigitalSurfaceConvolver.html" title=" " alt="" coords="499,35,756,91"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,107,277,91,390,73,501,66,496,68,391,79,278,96,220,112"/>
-<area shape="rect" id="Node000003" href="$classDGtal_1_1DigitalSurfaceConvolver_3_01TFunctor_00_01TKernelFunctor_00_01TKSpace_00_01TDigitalKernel_00_012_01_4.html" title=" " alt="" coords="525,115,730,171"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,140,527,141,523,145,269,146"/>
-<area shape="rect" id="Node000004" href="$classDGtal_1_1DigitalSurfaceConvolver_3_01TFunctor_00_01TKernelFunctor_00_01TKSpace_00_01TDigitalKernel_00_013_01_4.html" title=" " alt="" coords="525,195,730,251"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,173,278,189,406,208,528,220,522,220,406,213,277,194,219,179"/>
-</map>

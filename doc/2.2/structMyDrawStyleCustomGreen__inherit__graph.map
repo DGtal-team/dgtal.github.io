@@ -1,6 +1,0 @@
-<map id="MyDrawStyleCustomGreen" name="MyDrawStyleCustomGreen">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,79,194,105"/>
-<area shape="rect" id="Node000002" href="$structDGtal_1_1DrawableWithBoard2D.html" title=" " alt="" coords="5,5,202,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,44,99,79,94,78,93,48"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="114,44,113,80,108,77,110,48"/>
-</map>

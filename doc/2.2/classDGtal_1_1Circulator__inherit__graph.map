@@ -1,9 +1,0 @@
-<map id="DGtal::Circulator&lt; TIterator &gt;" name="DGtal::Circulator&lt; TIterator &gt;">
-<area shape="rect" id="Node000001" title="Aim: Provides an adapter for classical iterators that can iterate through the underlying data structu..." alt="" coords="5,71,133,111"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1Circulator.html" title=" " alt="" coords="355,5,482,46"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,64,156,60,260,41,357,31,352,33,261,46,157,66,146,68"/>
-<area shape="rect" id="Node000003" href="$classDGtal_1_1Circulator.html" title=" " alt="" coords="355,71,482,111"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,88,356,89,353,93,149,94"/>
-<area shape="rect" id="Node000004" href="$classDGtal_1_1Circulator.html" title=" " alt="" coords="338,136,500,177"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,113,157,117,250,134,340,148,335,149,250,140,156,122,144,119"/>
-</map>

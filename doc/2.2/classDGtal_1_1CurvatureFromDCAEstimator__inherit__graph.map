@@ -1,7 +1,0 @@
-<map id="DGtal::CurvatureFromDCAEstimator&lt; DCAComputer, isCCW &gt;" name="DGtal::CurvatureFromDCAEstimator&lt; DCAComputer, isCCW &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="774,28,1010,69"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1detail_1_1PosIndepScaleDepSCEstimator.html" title=" " alt="" coords="504,13,725,84"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="740,46,776,49,771,49,741,51"/>
-<area shape="rect" id="Node000003" href="$classDGtal_1_1detail_1_1PosIndepScaleDepSCEstimator.html" title=" " alt="" coords="5,21,258,76"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,46,506,48,501,50,273,51"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="DGtal::IndexedDigitalSurface&lt; TDigitalSurfaceContainer &gt;" name="DGtal::IndexedDigitalSurface&lt; TDigitalSurfaceContainer &gt;">
-<area shape="rect" id="Node000001" title="Aim: Represents a digital surface with the topology of its dual surface. Its aim is to mimic the stan..." alt="" coords="5,39,197,79"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1IndexedDigitalSurface.html" title=" " alt="" coords="421,5,612,46"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,47,422,31,418,35,213,53"/>
-<area shape="rect" id="Node000003" href="$classDGtal_1_1IndexedDigitalSurface.html" title=" " alt="" coords="421,71,612,111"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,74,221,75,324,83,423,89,417,90,323,88,220,81,212,80"/>
-</map>

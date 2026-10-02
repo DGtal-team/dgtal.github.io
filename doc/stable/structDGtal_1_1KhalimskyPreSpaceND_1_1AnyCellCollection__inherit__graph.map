@@ -1,9 +1,0 @@
-<map id="DGtal::KhalimskyPreSpaceND&lt; dim, TInteger &gt;::AnyCellCollection&lt; CellType &gt;" name="DGtal::KhalimskyPreSpaceND&lt; dim, TInteger &gt;::AnyCellCollection&lt; CellType &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="169,45,365,101"/>
-<area shape="rect" id="Node000003" href="$structDGtal_1_1KhalimskyPreSpaceND_1_1AnyCellCollection.html" title=" " alt="" coords="477,5,674,61"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="380,56,479,45,474,46,381,61"/>
-<area shape="rect" id="Node000004" href="$structDGtal_1_1KhalimskyPreSpaceND_1_1AnyCellCollection.html" title=" " alt="" coords="477,85,674,141"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="381,85,479,100,474,101,381,91"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,60,120,86"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,71,171,72,166,74,136,76"/>
-</map>

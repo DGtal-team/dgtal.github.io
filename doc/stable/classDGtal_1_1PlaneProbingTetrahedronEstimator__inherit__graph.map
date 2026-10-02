@@ -1,9 +1,0 @@
-<map id="DGtal::PlaneProbingTetrahedronEstimator&lt; TPredicate, mode &gt;" name="DGtal::PlaneProbingTetrahedronEstimator&lt; TPredicate, mode &gt;">
-<area shape="rect" id="Node000001" title="Aim: A class that locally estimates a normal on a digital set using only a predicate &quot;does a point x ..." alt="" coords="5,99,214,140"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="91,82,98,75,109,73,120,75,128,81,130,100,125,98,123,84,118,80,110,78,100,80,95,86"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="71,85,70,72,76,60,90,52,110,49,133,53,147,65,149,82,140,100,136,97,144,81,142,68,131,58,109,54,91,57,80,64,75,73,76,86"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1PlaneProbingTetrahedronEstimator.html" title=" " alt="" coords="405,56,614,112"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="229,106,407,92,402,94,230,112"/>
-<area shape="rect" id="Node000003" href="$classDGtal_1_1PlaneProbingTetrahedronEstimator.html" title=" " alt="" coords="404,135,615,176"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="229,132,238,133,406,149,401,150,237,139,229,138"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="DGtal::HyperRectDomain_ReverseIterator&lt; TIterator &gt;" name="DGtal::HyperRectDomain_ReverseIterator&lt; TIterator &gt;">
-<area shape="rect" id="Node000001" title="Reverse iterator for HyperRectDomain." alt="" coords="342,39,533,79"/>
-<area shape="rect" id="Node000003" href="$classDGtal_1_1HyperRectDomain__ReverseIterator.html" title=" " alt="" coords="707,5,890,46"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="548,46,709,34,704,34,549,51"/>
-<area shape="rect" id="Node000004" href="$classDGtal_1_1HyperRectDomain__ReverseIterator.html" title=" " alt="" coords="689,71,908,111"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="549,74,558,75,692,88,686,88,557,81,549,80"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,9,293,109"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,56,344,59,339,59,309,62"/>
-</map>

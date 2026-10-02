@@ -1,7 +1,0 @@
-<map id="DGtal::DepthFirstVisitor&lt; TGraph, TMarkSet &gt;" name="DGtal::DepthFirstVisitor&lt; TGraph, TMarkSet &gt;">
-<area shape="rect" id="Node000001" title="Aim: This class is useful to perform a depth&#45;first exploration of a graph given a starting point or s..." alt="" coords="5,5,167,46"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="182,19,193,26,168,33,166,28,188,25,182,25"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="181,13,283,14,318,18,333,26,316,34,276,38,167,38,166,32,276,32,315,29,328,26,317,23,282,19,182,18"/>
-<area shape="rect" id="Node000002" href="$classDGtal_1_1DepthFirstVisitor.html" title=" " alt="" coords="5,117,167,158"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="88,60,89,117,83,116,84,63"/>
-</map>
