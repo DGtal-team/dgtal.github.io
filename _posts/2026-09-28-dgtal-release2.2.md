@@ -6,14 +6,14 @@ title: DGtal release 2.2
 
 We are happy to announce the release 2.2 of DGtal. This release is a minor update of the c++ and python library with new contributions and improvements to the build system:
 
-* A new parallel version of the Integral Invariant curvature estimator has been added to the library (multihreading support using `OpenMP`). In addition to recent Sparse Voxel Octree (SVO) support, this new version allows to compute differential quantities on large voxel sets in a reasonable time.
+* A new parallel version of the Integral Invariant curvature estimator has been added to the library (multithreading support using `OpenMP`). In addition to recent Sparse Voxel Octree (SVO) support, this new version allows computing differential quantities on large voxel sets in a reasonable time.
 
 
 Mean curvature | Split domains for parallel curvature computation
 --|--
 ![](../img/bunny_curvature_parallel2.png) | ![](../img/bunny_curvature_parallel.png)  
 
-* We have upgraded the internal viewer to support the latest version of [polyscope](https://polyscope.run) (2.6.1) allowing efficent vizualization of voxel sets (`SparseVolumeGrid`).
+* We have upgraded the internal viewer to support the latest version of [polyscope](https://polyscope.run) (2.6.1) allowing efficient visualization of voxel sets (`SparseVolumeGrid`).
 
 ![](../img/sparsepoly.png)
 
