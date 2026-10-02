@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,39,138,79"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1CConstBidirectionalIteratorArchetype.html" title=" " alt="" coords="186,5,365,46"/>
+<area shape="poly" id="edge149_Node000000_Node000001" title=" " alt="" coords="153,43,188,40,183,41,154,48"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1CConstBidirectionalIteratorArchetype.html" title="An archetype of ConstBidirectionalIterator." alt="" coords="186,71,365,111"/>
+<area shape="poly" id="edge150_Node000000_Node000002" title=" " alt="" coords="153,69,188,77,183,77,153,74"/>
+</map>

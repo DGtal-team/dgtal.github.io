@@ -1,0 +1,16 @@
+<map id="DGtal::PowerMap&lt; TWeightImage, TPowerSeparableMetric, TImageContainer &gt;" name="DGtal::PowerMap&lt; TWeightImage, TPowerSeparableMetric, TImageContainer &gt;">
+<area shape="rect" id="Node000001" title="Aim: Implementation of the linear in time Power map construction." alt="" coords="9,140,217,196"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="88,123,98,116,113,113,126,115,136,121,141,130,141,140,136,139,135,131,132,125,124,120,113,119,100,121,93,126"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="62,126,59,106,67,88,85,75,113,70,145,77,163,94,167,117,156,141,151,138,161,116,158,96,142,81,113,75,87,80,71,91,64,107,67,126"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ReverseDistanceTransformation.html" title=" " alt="" coords="1049,37,1301,93"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="159,129,198,105,240,85,347,55,458,36,570,24,680,20,786,21,885,26,1051,45,1046,46,884,31,786,26,680,25,570,29,458,41,348,61,242,90,200,109,163,133"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1ReverseDistanceTransformation.html" title="Aim: Implementation of the linear in time reverse distance transformation for separable metrics." alt="" coords="560,71,812,126"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="190,132,240,117,323,104,407,96,562,93,558,95,407,101,323,109,242,122,193,136"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1PowerMap.html" title=" " alt="" coords="592,150,780,191"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="232,166,593,168,590,172,233,171"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1PowerMap.html" title=" " alt="" coords="558,242,814,283"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="167,202,204,221,242,236,322,253,405,264,485,268,560,270,555,271,485,273,404,269,321,259,240,241,202,226,168,207"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1PowerMap.html" title=" " alt="" coords="566,339,806,455"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="127,208,145,252,168,299,201,343,220,362,242,378,280,397,320,410,362,420,405,425,489,426,563,422,569,422,489,432,404,430,361,425,319,416,278,402,240,382,217,366,197,347,164,302,140,254,126,213"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="827,100,925,99,1025,93,1051,92,1046,93,1026,98,925,104,828,106"/>
+</map>

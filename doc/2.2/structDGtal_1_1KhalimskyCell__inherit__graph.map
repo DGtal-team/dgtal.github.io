@@ -1,0 +1,5 @@
+<map id="DGtal::KhalimskyCell&lt; dim, TInteger &gt;" name="DGtal::KhalimskyCell&lt; dim, TInteger &gt;">
+<area shape="rect" id="Node000001" title="Represents an (unsigned) cell in a cellular grid space by its Khalimsky coordinates." alt="" coords="5,5,153,46"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1KhalimskyCell.html" title=" " alt="" coords="5,117,153,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,60,82,117,76,116,77,63"/>
+</map>

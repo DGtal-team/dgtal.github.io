@@ -1,0 +1,27 @@
+<map id="DGtal::SimpleMatrix&lt; TComponent, TM, TN &gt;" name="DGtal::SimpleMatrix&lt; TComponent, TM, TN &gt;">
+<area shape="rect" id="Node000001" title="Aim: implements basic MxN Matrix services (M,N&gt;=1)." alt="" coords="5,443,179,484"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="452,41,592,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,427,111,346,134,247,164,155,182,119,201,96,229,77,260,63,293,54,326,48,393,46,454,53,449,56,393,52,327,54,294,59,262,68,232,82,204,100,186,122,169,157,139,248,116,347,101,428"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="452,120,592,161"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="92,427,100,369,117,298,131,261,150,226,173,195,201,168,230,150,261,137,327,122,393,120,454,126,449,129,393,125,328,127,263,142,232,154,204,172,177,198,154,229,136,263,123,299,105,370,98,428"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="446,185,598,240"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="98,427,110,384,131,335,160,286,179,265,201,246,220,237,245,230,308,219,448,211,444,215,308,224,246,235,222,242,204,251,183,268,165,289,135,337,115,386,103,429"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="451,265,593,320"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="113,429,151,385,175,364,201,346,264,320,330,303,394,294,452,291,448,294,394,299,331,309,266,325,204,351,178,368,155,389,118,432"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="452,344,592,385"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="143,434,202,410,267,393,334,381,454,368,450,371,334,386,268,399,203,415,147,438"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="452,410,592,450"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="193,453,453,433,450,437,195,458"/>
+<area shape="rect" id="Node000008" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="452,475,592,516"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="193,479,203,480,335,489,454,494,450,496,335,494,202,485,196,484"/>
+<area shape="rect" id="Node000009" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="452,540,592,581"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="136,489,170,506,203,520,268,536,334,547,454,558,450,561,334,553,267,542,202,525,168,511,138,494"/>
+<area shape="rect" id="Node000010" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="452,606,592,646"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="113,494,153,541,177,563,204,581,266,606,332,620,396,626,454,629,449,631,395,632,331,625,264,611,201,586,174,568,149,545,114,499"/>
+<area shape="rect" id="Node000011" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="429,670,614,726"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="100,496,115,541,135,590,164,637,183,658,204,675,230,689,257,700,315,712,374,715,431,714,426,716,374,721,315,718,256,705,227,694,201,679,179,662,160,641,130,592,110,543,100,502"/>
+<area shape="rect" id="Node000012" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="439,750,604,790"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="96,496,106,555,124,623,138,657,155,690,177,719,204,744,221,753,244,759,304,768,373,771,441,773,436,774,372,776,303,773,243,765,219,758,201,748,173,723,151,693,133,659,119,624,101,556,95,502"/>
+<area shape="rect" id="Node000013" href="$classDGtal_1_1SimpleMatrix.html" title=" " alt="" coords="412,840,632,911"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="98,496,114,586,135,697,150,751,166,798,184,837,204,861,227,876,251,887,304,900,358,903,408,901,414,901,358,908,303,905,249,892,224,881,201,865,180,840,161,800,145,752,130,698,108,587,97,501"/>
+</map>

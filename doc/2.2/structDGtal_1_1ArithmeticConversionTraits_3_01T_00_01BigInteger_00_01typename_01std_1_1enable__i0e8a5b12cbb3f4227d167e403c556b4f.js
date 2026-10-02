@@ -1,0 +1,4 @@
+var structDGtal_1_1ArithmeticConversionTraits_3_01T_00_01BigInteger_00_01typename_01std_1_1enable__i0e8a5b12cbb3f4227d167e403c556b4f =
+[
+    [ "type", "structDGtal_1_1ArithmeticConversionTraits_3_01T_00_01BigInteger_00_01typename_01std_1_1enable__i0e8a5b12cbb3f4227d167e403c556b4f.html#abe8e6b77d167810bb80c92fab92c6977", null ]
+];

@@ -1,0 +1,4 @@
+var structDGtal_1_1ITKReader_1_1Aux_3_01ImageContainerByITKImage_3_01Domain_00_01Value_01_4_00_01Dom5214b37485c2468f2418dadbe6e45333 =
+[
+    [ "readDGtalImageFromITKtypes", "structDGtal_1_1ITKReader_1_1Aux_3_01ImageContainerByITKImage_3_01Domain_00_01Value_01_4_00_01Dom5214b37485c2468f2418dadbe6e45333.html#a5e4d4db5331974e4cef8ad615826fc6e", null ]
+];

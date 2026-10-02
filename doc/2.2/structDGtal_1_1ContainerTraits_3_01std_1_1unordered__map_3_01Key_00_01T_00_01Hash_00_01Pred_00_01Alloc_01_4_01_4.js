@@ -1,0 +1,4 @@
+var structDGtal_1_1ContainerTraits_3_01std_1_1unordered__map_3_01Key_00_01T_00_01Hash_00_01Pred_00_01Alloc_01_4_01_4 =
+[
+    [ "Category", "structDGtal_1_1ContainerTraits_3_01std_1_1unordered__map_3_01Key_00_01T_00_01Hash_00_01Pred_00_01Alloc_01_4_01_4.html#a07e27ff9fa5c0fb08a3b3dbf441ee3ce", null ]
+];

@@ -1,0 +1,15 @@
+<map id="DGtal::VoronoiMap&lt; TSpace, TPointPredicate, TSeparableMetric, TImageContainer &gt;" name="DGtal::VoronoiMap&lt; TSpace, TPointPredicate, TSeparableMetric, TImageContainer &gt;">
+<area shape="rect" id="Node000001" title="Aim: Implementation of the linear in time Voronoi map construction." alt="" coords="5,167,253,222"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="104,150,114,143,129,140,143,142,152,148,157,156,158,167,152,166,152,158,148,152,141,147,129,145,116,148,108,153"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="77,153,74,133,82,114,100,101,129,97,162,103,180,120,184,143,173,167,169,165,179,143,176,123,159,108,129,102,102,106,86,118,79,134,82,153"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1DistanceTransformation.html" title="Aim: Implementation of the linear in time distance transformation for separable metrics." alt="" coords="583,5,830,61"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="156,153,207,96,239,70,276,49,352,25,433,13,511,10,585,15,580,17,511,15,433,18,353,30,278,54,242,74,210,100,160,156"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1VoronoiMap.html" title=" " alt="" coords="611,87,803,142"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="219,159,276,144,364,130,453,120,613,114,608,116,453,126,365,135,277,149,221,164"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1VoronoiMap.html" title=" " alt="" coords="632,167,782,222"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="268,192,633,192,630,197,268,197"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1VoronoiMap.html" title=" " alt="" coords="628,247,786,302"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="218,225,277,241,371,255,465,265,630,274,625,275,465,270,370,261,276,246,218,230"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1VoronoiMap.html" title=" " alt="" coords="570,344,844,429"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="153,233,177,266,205,301,239,334,278,359,349,385,424,399,499,404,572,404,567,405,499,409,424,404,347,390,275,364,236,338,201,305,173,270,152,238"/>
+</map>

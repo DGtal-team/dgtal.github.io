@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['3_20variate_20polynomials_0',['Displaying implicit 3-variate polynomials',['../modulePolynomial.html#dgtal_mpolynomial_sec4',1,'']]],
+  ['3d_1',['3D',['../moduleDisplay3D.html#DGtalGLV_Images',1,'Adding 2D image visualization in 3D'],['../moduleDisplay3D.html#DGtalGLV_ModeEx',1,'Drawmode selection: the example of digital objects in 3D'],['../moduleQuickHull.html#dgtal_quickhull_sec32',1,'Get boundary surface of lattice convex hull (3D)'],['../moduleQuickHull.html#dgtal_quickhull_sec36',1,'Get boundary surface of rational convex hull (3D)'],['../moduleIntegralInvariant.html',1,'Integral invariant curvature estimator 2D/3D']]],
+  ['3d_20boundary_20to_20build_20a_20surface_2',['Tracking a 3D boundary to build a surface.',['../moduleDigitalSurfaceHelpers.html#dgtal_helpsurf_sec2',1,'']]],
+  ['3d_20dgtal_20objects_3',['Display3D: a stream mechanism for displaying 3D DGtal objects',['../moduleDisplay3D.html',1,'packageIO']]],
+  ['3d_20digital_20set_20from_20volume_20file_3a_4',['Importing a 3D digital set from volume file:',['../moduleIO.html#importDigitalSet',1,'']]],
+  ['3d_20digital_20surface_20with_20indexeddigitalsurface_5',['Precomputed 3D digital surface with IndexedDigitalSurface',['../moduleDigitalSurfaces.html#dgtal_digsurf_sec5',1,'']]],
+  ['3d_20discrete_20space_6',['Rigid transformations in 3D discrete space',['../moduleGeometricTransform.html#secRigid3D',1,'']]],
+  ['3d_20drawable_20elements_7',['Useful modes for several 3D drawable elements',['../moduleDisplay3D.html#DGtalGLV_Mode',1,'']]],
+  ['3d_20examples_8',['Short 3D examples',['../moduleShortcuts.html#dgtal_shortcuts_sec2',1,'']]],
+  ['3d_20helmoltz_20decomposition_9',['3D Helmoltz decomposition',['../moduleDECHelmoltz.html#sectDECHelmoltz3D',1,'']]],
+  ['3d_20image_20visualization_10',['Adding 3D image visualization',['../moduleDisplay3D.html#DGtalGLV_Images3D',1,'']]],
+  ['3d_20mesh_20from_20off_20file_11',['Import 3D mesh from OFF file',['../moduleIO.html#importMesh3D',1,'']]],
+  ['3d_20parametric_20curves_12',['3D Parametric Curves',['../moduleParametricCurves.html#paramCurves',1,'3D Parametric Curves'],['../moduleParametricCurves.html#transCurves',1,'Geometric Transformations of 3D Parametric Curves']]],
+  ['3d_20parametric_20curves_13',['Digitization of 3D parametric curves',['../moduleParametricCurves.html',1,'packageGeometry']]],
+  ['3d_20point_20list_20from_20file_14',['Import 3D point list from file',['../moduleIO.html#importPointList',1,'']]],
+  ['3d_20surface_15',['Other constructions by tracking: 2D contours, surface connected components, 2D slices in 3D surface',['../moduleDigitalSurfaces.html#dgtal_digsurf_sec2_3',1,'']]],
+  ['3d_20surface_20mesh_16',['3D Surface Mesh',['../moduleIO.html#mesh3D',1,'']]],
+  ['3d_20volume_17',['3D volume',['../tutoImageManipulations.html#subsect2DImageExtractionIntroTutoImageManipulations',1,'2D Image extraction from 3D volume'],['../tutoImageManipulations.html#subsect2DSliceImageExtractionIntroTutoImageManipulations',1,'2D slice image extraction from 3D volume']]],
+  ['3d_20volume_20by_20the_20fast_20marching_20method_18',['Tutorial: Local morphological opening of a 3d volume by the Fast Marching Method',['../tutoFMMErosion.html',1,'packageTutorials']]],
+  ['3d_20volume_20viewer_20in_20less_20than_2050_20lines_19',['Tutorial &quot;Image -&amp;gt; Region -&amp;gt; Volume -&amp;gt;  3dVolViewer : a simple 3D volume viewer in less than 50 lines&quot;',['../tutoImageGridVolume3dVolViewer.html',1,'packageTutorials']]],
+  ['3dparametriccurve_20',['Refinement of 3DParametricCurve',['../structDGtal_1_1concepts_1_1C3DParametricCurveDecorator.html#autotoc_md255',1,'']]],
+  ['3dvolviewer_20_3a_20a_20simple_203d_20volume_20viewer_20in_20less_20than_2050_20lines_21',['Tutorial &quot;Image -&amp;gt; Region -&amp;gt; Volume -&amp;gt;  3dVolViewer : a simple 3D volume viewer in less than 50 lines&quot;',['../tutoImageGridVolume3dVolViewer.html',1,'packageTutorials']]]
+];

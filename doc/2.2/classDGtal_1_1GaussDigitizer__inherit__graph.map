@@ -1,0 +1,13 @@
+<map id="DGtal::GaussDigitizer&lt; TSpace, TEuclideanShape &gt;" name="DGtal::GaussDigitizer&lt; TSpace, TEuclideanShape &gt;">
+<area shape="rect" id="Node000001" title="Aim: A class for computing the Gauss digitization of some Euclidean shape, i.e. its intersection with..." alt="" coords="5,136,206,177"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1GaussDigitizer.html" title=" " alt="" coords="458,5,630,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,124,182,96,229,73,287,54,347,41,460,28,455,31,347,46,288,59,231,77,185,101,145,128"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1GaussDigitizer.html" title=" " alt="" coords="453,71,635,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,130,229,126,345,109,455,98,450,100,346,114,230,131,209,135"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1GaussDigitizer.html" title=" " alt="" coords="451,136,637,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,154,452,154,448,158,221,159"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1GaussDigitizer.html" title=" " alt="" coords="459,201,628,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="206,178,230,182,350,200,462,214,457,215,349,205,229,187,207,183"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1GaussDigitizer.html" title=" " alt="" coords="443,267,645,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="143,184,185,212,231,236,283,253,338,265,445,282,439,282,337,271,282,258,229,240,182,217,143,189"/>
+</map>

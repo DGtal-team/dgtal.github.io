@@ -1,0 +1,4 @@
+var structDGtal_1_1ContainerTraits_3_01boost_1_1unordered__set_3_01Value_00_01Hash_00_01Pred_00_01Alloc_01_4_01_4 =
+[
+    [ "Category", "structDGtal_1_1ContainerTraits_3_01boost_1_1unordered__set_3_01Value_00_01Hash_00_01Pred_00_01Alloc_01_4_01_4.html#ac603c430d8ddd7f17ba9ecd03d57e0e2", null ]
+];

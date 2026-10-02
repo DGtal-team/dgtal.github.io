@@ -1,0 +1,9 @@
+<map id="DGtal::ArrayImageIterator&lt; TIterableClass &gt;" name="DGtal::ArrayImageIterator&lt; TIterableClass &gt;">
+<area shape="rect" id="Node000001" title="Aim: Random access iterator over an image given his definition domain and viewable domain." alt="" coords="291,50,462,91"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1ArrayImageIterator.html" title=" " alt="" coords="601,17,773,58"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="478,57,604,46,598,47,478,62"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1ArrayImageIterator.html" title=" " alt="" coords="601,82,773,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="478,86,487,87,604,99,598,99,486,92,477,91"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,242,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,68,293,70,288,71,258,73"/>
+</map>

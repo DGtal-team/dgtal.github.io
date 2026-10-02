@@ -1,0 +1,7 @@
+<map id="DGtal::Flower2D&lt; TSpace &gt;" name="DGtal::Flower2D&lt; TSpace &gt;">
+<area shape="rect" id="Node000001" title="Aim: Model of the concept StarShaped represents any flower with k&#45;petals in the plane." alt="" coords="5,95,194,121"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1Flower2D.html" title=" " alt="" coords="9,192,190,218"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,135,102,192,97,191,97,138"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1StarShaped2D.html" title=" " alt="" coords="25,5,174,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,59,102,95,97,94,98,64"/>
+</map>
