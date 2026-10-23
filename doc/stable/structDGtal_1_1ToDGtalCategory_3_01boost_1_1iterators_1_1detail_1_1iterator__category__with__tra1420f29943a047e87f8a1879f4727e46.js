@@ -1,0 +1,4 @@
+var structDGtal_1_1ToDGtalCategory_3_01boost_1_1iterators_1_1detail_1_1iterator__category__with__tra1420f29943a047e87f8a1879f4727e46 =
+[
+    [ "Category", "structDGtal_1_1ToDGtalCategory_3_01boost_1_1iterators_1_1detail_1_1iterator__category__with__tra1420f29943a047e87f8a1879f4727e46.html#ad3124c1e1ee19eeaedb680b881947848", null ]
+];

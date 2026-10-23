@@ -1,0 +1,7 @@
+<map id="DGtal::ImageSelector&lt; Domain, Value, Preferences &gt;" name="DGtal::ImageSelector&lt; Domain, Value, Preferences &gt;">
+<area shape="rect" id="Node000001" title="Aim: Automatically defines an adequate image type according to the hints given by the user." alt="" coords="71,5,279,46"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ImageSelector.html" title=" " alt="" coords="5,137,158,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,57,92,72,85,87,81,104,81,137,76,136,76,103,80,85,88,68,106,53"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1ImageSelector.html" title=" " alt="" coords="182,137,357,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,53,242,68,260,103,269,138,264,136,255,105,238,72,225,58"/>
+</map>

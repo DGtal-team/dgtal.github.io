@@ -1,0 +1,27 @@
+var structLibBoard_1_1Dot =
+[
+    [ "Dot", "structLibBoard_1_1Dot.html#a16ae31693f212211a5ca04d9ffb7155e", null ],
+    [ "boundingBox", "structLibBoard_1_1Dot.html#a9a1e7a5807f557596d96d687ecbad7d6", null ],
+    [ "center", "structLibBoard_1_1Dot.html#a87210f7e3de330e021069d6bd59d45b5", null ],
+    [ "clone", "structLibBoard_1_1Dot.html#a669919c86a8606104ee905a77a30a9b2", null ],
+    [ "flushCairo", "structLibBoard_1_1Dot.html#a756bd41541c3b6aabdebca7d4d48c601", null ],
+    [ "flushFIG", "structLibBoard_1_1Dot.html#a0ef7c7ceaf1c667a2fe6274aab2fb5ac", null ],
+    [ "flushPostscript", "structLibBoard_1_1Dot.html#a68b2e07d776e787ec63bf6df653a9f6d", null ],
+    [ "flushSVG", "structLibBoard_1_1Dot.html#ab69c93c88c7832f7661c518c4268fc91", null ],
+    [ "flushTikZ", "structLibBoard_1_1Dot.html#aa1da360535bbb591ac7ab75e7f098164", null ],
+    [ "name", "structLibBoard_1_1Dot.html#ac09fac857119f438f8e3279a5a101016", null ],
+    [ "rotate", "structLibBoard_1_1Dot.html#afe1a0d4cf79834b537bbfbd19c29898f", null ],
+    [ "rotate", "structLibBoard_1_1Dot.html#a2d7130a0723e0f281178cd0ea9c24d4b", null ],
+    [ "rotated", "structLibBoard_1_1Dot.html#a27887cdb5eba7e72f7e72429d3080b2d", null ],
+    [ "rotated", "structLibBoard_1_1Dot.html#ac38615c89aca8b24d29089fbcd232dbe", null ],
+    [ "scale", "structLibBoard_1_1Dot.html#a3d383c067cc4990da47fd87520af5ece", null ],
+    [ "scale", "structLibBoard_1_1Dot.html#ab3453f3fc4dd7af152bf97ff9bf542cc", null ],
+    [ "scaleAll", "structLibBoard_1_1Dot.html#affe0290632fc1b0e3b9694832d52cb64", null ],
+    [ "scaled", "structLibBoard_1_1Dot.html#ac5430c0fde97f666f46dd05834c0d3ac", null ],
+    [ "scaled", "structLibBoard_1_1Dot.html#a249d67295a4f82f86eb5b4dbed1a8800", null ],
+    [ "translate", "structLibBoard_1_1Dot.html#aa59be93851c2959f4d4ad05480c5f44d", null ],
+    [ "translated", "structLibBoard_1_1Dot.html#a8e82c734faef40c8b0cc938b478cb13e", null ],
+    [ "_name", "structLibBoard_1_1Dot.html#aa04982864cbe738d431416ef30a4a439", null ],
+    [ "_x", "structLibBoard_1_1Dot.html#ab4b82380a423f287c8ab1bef3318d398", null ],
+    [ "_y", "structLibBoard_1_1Dot.html#a5b24868a4d2daa85ae8df69dedbda0b4", null ]
+];

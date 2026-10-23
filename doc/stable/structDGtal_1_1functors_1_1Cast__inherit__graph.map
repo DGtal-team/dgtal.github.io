@@ -1,0 +1,11 @@
+<map id="DGtal::functors::Cast&lt; TOutput &gt;" name="DGtal::functors::Cast&lt; TOutput &gt;">
+<area shape="rect" id="Node000001" title="Aim: Define a simple functor using the static cast operator." alt="" coords="5,104,152,145"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1functors_1_1Cast.html" title=" " alt="" coords="313,5,459,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,94,175,71,244,50,314,36,310,39,246,55,177,76,129,98"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1functors_1_1Cast.html" title=" " alt="" coords="313,71,459,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,112,314,97,310,101,168,117"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1functors_1_1Cast.html" title=" " alt="" coords="313,136,459,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,139,176,141,314,153,310,156,175,146,167,145"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1functors_1_1Cast.html" title=" " alt="" coords="313,201,459,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="122,151,177,178,246,199,315,213,310,214,244,204,175,183,122,156"/>
+</map>

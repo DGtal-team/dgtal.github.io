@@ -1,0 +1,9 @@
+<map id="DGtal::IntegerSequenceIterator&lt; TInteger &gt;" name="DGtal::IntegerSequenceIterator&lt; TInteger &gt;">
+<area shape="rect" id="Node000001" title="Aim: It is a simple class that mimics a (non mutable) iterator over integers. You can increment it,..." alt="" coords="306,39,508,79"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1IntegerSequenceIterator.html" title=" " alt="" coords="658,5,861,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="524,45,661,35,655,36,524,51"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1IntegerSequenceIterator.html" title=" " alt="" coords="658,71,861,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="524,74,533,75,661,87,655,87,532,81,524,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,24,257,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,56,308,59,303,59,273,62"/>
+</map>

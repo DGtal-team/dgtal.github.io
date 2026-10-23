@@ -1,0 +1,7 @@
+<map id="DGtal::GradientColorMap&lt; PValue, PDefaultPreset, PDefaultFirstColor, PDefaultLastColor &gt;" name="DGtal::GradientColorMap&lt; PValue, PDefaultPreset, PDefaultFirstColor, PDefaultLastColor &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class template may be used to (linearly) convert scalar values in a given range into a colo..." alt="" coords="77,5,294,76"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1GradientColorMap.html" title=" " alt="" coords="5,147,174,188"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,88,106,149,103,145,147,89"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1GradientColorMap.html" title=" " alt="" coords="197,147,366,188"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,86,269,147,264,146,220,91"/>
+</map>

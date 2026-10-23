@@ -1,0 +1,23 @@
+<map id="DGtal::NumberTraits&lt; T &gt;" name="DGtal::NumberTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: The traits class for all models of Cinteger." alt="" coords="562,247,737,273"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="1015,22,1162,63"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="656,231,669,194,690,150,720,106,738,87,759,71,789,55,822,43,889,29,956,26,1017,31,1012,32,956,31,890,34,823,48,792,60,762,76,742,91,724,110,695,152,674,196,660,234"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="992,87,1186,113"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="663,232,700,177,728,149,759,127,801,114,860,105,994,100,989,101,860,111,802,119,762,132,731,153,705,180,666,236"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="1008,137,1170,178"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="676,234,714,207,760,184,823,167,889,157,951,152,1010,153,1005,154,952,157,889,162,824,172,762,189,716,212,679,239"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="991,202,1187,243"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="752,249,993,230,988,232,752,254"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="1008,268,1170,308"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="716,274,761,282,891,290,1010,291,1005,292,890,295,760,287,716,279"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="1008,333,1170,374"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="682,279,720,301,762,319,825,335,889,345,1010,355,1004,355,889,350,823,340,760,324,717,306,681,285"/>
+<area shape="rect" id="Node000010" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="994,398,1184,423"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="667,284,706,335,732,360,762,379,819,401,879,413,939,418,997,420,991,420,939,423,878,418,817,406,759,384,729,364,702,339,665,289"/>
+<area shape="rect" id="Node000011" href="$structDGtal_1_1NumberTraits.html" title=" " alt="" coords="1018,448,1160,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="659,285,673,324,694,369,723,412,741,431,762,446,792,461,824,473,892,484,958,485,1015,482,1020,482,959,490,892,489,823,478,790,466,759,451,738,435,719,415,689,371,668,326,656,290"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1NumberTraitsImpl.html" title=" " alt="" coords="342,240,513,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="528,257,564,259,559,261,529,263"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1NumberTraitsImpl.html" title="Aim: The traits class for all models of Cinteger (implementation)." alt="" coords="5,240,173,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,257,343,258,339,262,189,263"/>
+</map>

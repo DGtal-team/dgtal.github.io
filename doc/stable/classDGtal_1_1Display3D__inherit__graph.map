@@ -1,0 +1,17 @@
+<map id="DGtal::Display3D&lt; Space, KSpace &gt;" name="DGtal::Display3D&lt; Space, KSpace &gt;">
+<area shape="rect" id="Node000001" title="Base class for viewing DGtal objects." alt="" coords="5,145,183,185"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1PolyscopeViewer.html" title=" " alt="" coords="1094,25,1274,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,132,158,98,181,82,206,69,309,33,398,13,479,4,557,4,719,15,813,20,924,20,997,16,1070,20,1096,26,1090,27,1069,25,997,21,924,25,813,26,718,21,556,9,480,9,399,18,310,38,208,74,184,86,162,102,124,135"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1PolyscopeViewer.html" title=" " alt="" coords="1102,117,1266,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,160,1101,137,1101,142,198,165"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1Display3D.html" title=" " alt="" coords="494,87,652,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,145,206,144,494,112,492,117,207,149,199,150"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1Display3D.html" title=" " alt="" coords="460,226,686,312"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="120,195,159,235,182,252,208,265,270,283,335,291,399,291,462,289,456,290,400,297,335,296,269,288,206,270,179,257,155,239,119,200"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1Display3D.html" title=" " alt="" coords="495,335,651,376"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="110,197,127,229,148,263,175,295,208,321,242,337,279,350,355,364,429,367,492,367,497,367,429,373,354,369,277,355,240,342,205,325,172,299,144,266,122,232,109,202"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1PolyscopeViewer.html" title=" " alt="" coords="735,87,900,128"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="667,105,737,107,732,108,668,110"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="914,91,1096,66,1091,67,915,96"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="915,117,924,117,1104,133,1099,133,923,123,916,122"/>
+</map>

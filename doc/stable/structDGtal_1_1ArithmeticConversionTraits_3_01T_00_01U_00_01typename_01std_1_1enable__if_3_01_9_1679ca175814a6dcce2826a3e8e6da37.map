@@ -1,0 +1,8 @@
+<map id="DGtal::ArithmeticConversionTraits&lt; T, U, typename std::enable_if&lt; ! std::is_same&lt; T, typename std::remove_cv&lt; typename std::remove_reference&lt; T &gt;::type &gt;::type &gt;::value||! std::is_same&lt; U, typename std::remove_cv&lt; typename std::remove_reference&lt; U &gt;::type &gt;::type &gt;::value &gt;::type &gt;" name="DGtal::ArithmeticConversionTraits&lt; T, U, typename std::enable_if&lt; ! std::is_same&lt; T, typename std::remove_cv&lt; typename std::remove_reference&lt; T &gt;::type &gt;::type &gt;::value||! std::is_same&lt; U, typename std::remove_cv&lt; typename std::remove_reference&lt; U &gt;::type &gt;::type &gt;::value &gt;::type &gt;">
+<area shape="rect" id="Node000001" title="Specialization in order to remove const specifiers and references from given types." alt="" coords="732,171,992,317"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1ArithmeticConversionTraits.html" title=" " alt="" coords="460,248,666,349"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="681,274,729,268,734,267,682,280"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1ArithmeticConversionTraits.html" title="Aim: Trait class to get result type of arithmetic binary operators between two given types." alt="" coords="5,230,194,271"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,222,217,204,285,194,354,189,492,190,621,201,734,218,729,219,621,206,492,195,354,195,285,200,218,209,160,227"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,277,180,295,218,308,279,319,342,322,403,320,456,317,462,317,404,325,342,327,279,324,217,314,178,300,144,282"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,226,113,251"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1IsAPointVector_3_01PointVector_3_01dim_00_01TEuclideanRing_00_01TContainer_01_4_01_4.html" title="Specialization of IsAPointVector for a PointVector." alt="" coords="189,5,396,61"/>
+<area shape="poly" id="edge379_Node000000_Node000001" title=" " alt="" coords="73,211,120,127,159,70,190,53,187,57,162,74,125,130,77,213"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1IsArithmeticConversionValid_3_01T_00_01U_00_01typename_01std_1_1conditional_3_01f3d12afaad57391e67b8a4fff74de6483.html" title="Specialization when arithmetic operation between the two given type is valid." alt="" coords="161,84,424,155"/>
+<area shape="poly" id="edge380_Node000000_Node000003" title=" " alt="" coords="85,214,120,188,159,164,185,154,181,158,162,169,123,193,89,218"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1Shortcuts_1_1is__double__nested__container_3_01C_3_01D_3_01T_01_4_01_4_01_4.html" title=" " alt="" coords="191,179,394,234"/>
+<area shape="poly" id="edge381_Node000000_Node000004" title=" " alt="" coords="127,227,193,219,189,222,129,232"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1IsAPointVector.html" title="Type trait to check if a given type is a PointVector." alt="" coords="201,259,384,285"/>
+<area shape="poly" id="edge382_Node000000_Node000005" title=" " alt="" coords="128,246,203,257,198,260,129,251"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1IsArithmeticConversionValid.html" title="Helper to determine if an arithmetic operation between two given types has a valid result type (ie is..." alt="" coords="193,309,392,350"/>
+<area shape="poly" id="edge383_Node000000_Node000006" title=" " alt="" coords="92,258,126,277,162,295,195,308,190,309,160,300,123,282,92,263"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1Shortcuts_1_1is__double__nested__container.html" title=" " alt="" coords="175,374,410,415"/>
+<area shape="poly" id="edge384_Node000000_Node000007" title=" " alt="" coords="76,263,112,313,135,338,162,359,187,374,182,374,159,363,132,342,108,316,74,268"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="8,107,110,133"/>
+<area shape="poly" id="edge385_Node000002_Node000001" title=" " alt="" coords="97,98,160,69,191,60,188,63,162,74,100,102"/>
+<area shape="poly" id="edge386_Node000002_Node000003" title=" " alt="" coords="124,117,162,118,158,121,126,122"/>
+<area shape="poly" id="edge387_Node000002_Node000004" title=" " alt="" coords="100,137,162,164,195,177,191,179,160,169,101,143"/>
+</map>

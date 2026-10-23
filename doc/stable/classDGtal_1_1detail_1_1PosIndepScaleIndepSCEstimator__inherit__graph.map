@@ -1,0 +1,15 @@
+<map id="DGtal::detail::PosIndepScaleIndepSCEstimator&lt; TSegmentComputer, Functor, ReturnType &gt;" name="DGtal::detail::PosIndepScaleIndepSCEstimator&lt; TSegmentComputer, Functor, ReturnType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,134,266,189"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1detail_1_1PosIndepScaleIndepSCEstimator.html" title=" " alt="" coords="518,39,802,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,124,245,107,289,94,405,74,520,67,515,68,405,79,290,99,247,112,206,129"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1detail_1_1PosIndepScaleIndepSCEstimator.html" title=" " alt="" coords="546,122,774,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,159,494,157,548,159,542,160,494,163,281,164"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1detail_1_1PosIndepScaleIndepSCEstimator.html" title=" " alt="" coords="546,216,774,272"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="229,192,290,208,422,228,548,240,543,240,421,233,289,213,229,197"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1TangentFromDSSEstimator.html" title=" " alt="" coords="868,47,1091,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="817,64,870,67,865,67,818,70"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1TangentVectorFromDSSEstimator.html" title=" " alt="" coords="872,137,1087,178"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="789,155,875,157,869,158,790,160"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1TangentAngleFromDSSEstimator.html" title=" " alt="" coords="851,224,1108,265"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="790,242,854,244,848,244,790,247"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DGtal::GenericLatticeConvexHull&lt; dim, TCoordinateInteger, TInternalInteger &gt;" name="DGtal::GenericLatticeConvexHull&lt; dim, TCoordinateInteger, TInternalInteger &gt;">
+<area shape="rect" id="Node000001" title="Aim: Implements the quickhull algorithm by Barber et al. barber1996, a famous arbitrary dimensional c..." alt="" coords="5,5,205,61"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="220,27,231,33,205,40,205,35,226,33,220,33"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="220,21,336,22,377,25,394,33,375,42,330,45,205,45,205,40,330,40,374,36,389,33,376,30,336,27,220,26"/>
+</map>

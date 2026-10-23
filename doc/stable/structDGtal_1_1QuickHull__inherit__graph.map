@@ -1,0 +1,7 @@
+<map id="DGtal::QuickHull&lt; TKernel &gt;" name="DGtal::QuickHull&lt; TKernel &gt;">
+<area shape="rect" id="Node000001" title="Aim: Implements the quickhull algorithm by Barber et al. barber1996, a famous arbitrary dimensional c..." alt="" coords="108,5,297,31"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1QuickHull.html" title=" " alt="" coords="5,102,187,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,41,111,104,108,99,175,41"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1QuickHull.html" title=" " alt="" coords="210,102,408,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,39,298,101,293,101,226,44"/>
+</map>

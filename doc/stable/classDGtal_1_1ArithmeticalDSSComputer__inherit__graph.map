@@ -1,0 +1,27 @@
+<map id="DGtal::ArithmeticalDSSComputer&lt; TIterator, TInteger, adjacency &gt;" name="DGtal::ArithmeticalDSSComputer&lt; TIterator, TInteger, adjacency &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class is a wrapper around ArithmeticalDSS that is devoted to the dynamic recognition of dig..." alt="" coords="5,455,223,496"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,38,660,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,439,120,365,139,270,156,220,178,173,208,130,245,93,290,67,340,52,392,46,444,48,439,51,392,52,341,58,292,72,248,97,212,133,183,176,161,222,144,271,125,365,118,440"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,125,660,180"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,439,132,384,156,317,172,283,193,251,217,221,245,196,279,181,327,169,444,156,440,160,328,174,280,186,248,200,221,225,197,254,177,286,161,319,137,385,124,440"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,204,660,245"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,440,139,395,164,344,199,294,221,272,245,253,279,240,328,231,444,224,440,227,329,236,281,245,248,258,224,276,203,297,169,346,144,397,128,441"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,270,660,310"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="132,440,151,410,177,377,209,346,245,321,293,301,343,289,394,283,444,282,439,284,394,288,344,294,295,306,248,326,212,350,181,381,156,413,136,443"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,335,660,376"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="146,443,191,407,218,391,246,378,294,364,345,355,444,349,440,352,346,360,296,369,248,383,220,396,194,412,150,446"/>
+<area shape="rect" id="Node000007" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,410,660,466"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="237,462,444,445,440,449,239,467"/>
+<area shape="rect" id="Node000008" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="438,491,664,532"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="194,498,247,508,344,515,440,517,435,519,344,521,246,513,195,503"/>
+<area shape="rect" id="Node000009" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,555,660,611"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="147,503,194,538,220,553,248,565,296,578,346,586,444,591,439,593,345,591,295,584,246,570,218,558,191,542,148,509"/>
+<area shape="rect" id="Node000010" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,635,660,676"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="135,506,183,566,213,595,248,619,295,638,344,650,394,656,444,661,439,662,394,662,344,655,293,643,245,623,210,600,179,570,135,511"/>
+<area shape="rect" id="Node000011" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,700,660,741"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="124,508,141,557,166,612,201,665,223,688,248,707,294,727,343,738,393,741,444,741,439,742,393,746,342,743,292,733,245,712,219,692,197,669,161,615,136,559,123,513"/>
+<area shape="rect" id="Node000012" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,785,660,840"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="117,508,128,578,148,662,165,704,187,745,214,781,248,810,280,821,328,826,444,824,439,826,328,832,279,827,245,815,210,784,182,747,160,706,143,663,122,579,116,514"/>
+<area shape="rect" id="Node000013" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="442,867,660,908"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="115,509,121,590,128,639,139,691,156,743,179,793,209,838,248,875,273,890,299,901,356,912,414,912,465,908,470,908,414,918,355,917,298,906,270,895,245,879,205,841,174,795,151,745,134,692,123,640,116,590,114,514"/>
+</map>

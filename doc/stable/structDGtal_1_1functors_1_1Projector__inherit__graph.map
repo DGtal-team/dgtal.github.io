@@ -1,0 +1,11 @@
+<map id="DGtal::functors::Projector&lt; S &gt;" name="DGtal::functors::Projector&lt; S &gt;">
+<area shape="rect" id="Node000001" title="Aim: Functor that maps a point P of dimension i to a point Q of dimension j. The member myDims is an ..." alt="" coords="5,112,209,137"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1functors_1_1Projector.html" title=" " alt="" coords="479,5,649,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,102,232,71,361,44,481,31,476,33,361,50,233,76,151,107"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1functors_1_1Projector.html" title=" " alt="" coords="462,71,666,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,113,463,96,460,101,225,118"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1functors_1_1Projector.html" title=" " alt="" coords="469,136,658,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,137,233,141,356,149,471,155,466,156,356,154,232,146,203,143"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1functors_1_1Projector.html" title=" " alt="" coords="448,202,680,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="136,144,181,175,234,200,287,214,342,223,450,233,445,234,341,229,286,219,232,205,178,179,135,150"/>
+</map>

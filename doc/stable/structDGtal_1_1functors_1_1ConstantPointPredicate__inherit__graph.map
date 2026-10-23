@@ -1,0 +1,11 @@
+<map id="DGtal::functors::ConstantPointPredicate&lt; TPoint, boolCst &gt;" name="DGtal::functors::ConstantPointPredicate&lt; TPoint, boolCst &gt;">
+<area shape="rect" id="Node000001" title="Aim: The predicate that returns always the same value boolCst." alt="" coords="5,45,177,101"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1functors_1_1ConstantPointPredicate.html" title=" " alt="" coords="331,5,502,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,58,333,42,328,45,192,63"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1functors_1_1ConstantPointPredicate.html" title=" " alt="" coords="331,85,502,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,83,201,84,333,102,328,104,200,89,192,88"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1functors_1_1FalsePointPredicate.html" title="Aim: The predicate that returns always false." alt="" coords="551,13,732,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,31,553,33,548,33,518,36"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1functors_1_1TruePointPredicate.html" title="Aim: The predicate that returns always true." alt="" coords="554,93,729,134"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="518,111,556,113,551,113,518,116"/>
+</map>
