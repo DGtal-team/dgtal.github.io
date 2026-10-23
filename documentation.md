@@ -4,10 +4,9 @@ title: Documentation & Help
 ---
 
 ### Documentation
-* [User guide and stable API documentation][1] (2.1)
+* [User guide and stable API documentation][1] (2.2)
 * [Nightly build doxygen documentation][2]
 * [Nightly build doxygen documentation of DGtalTools][22]
-* [Documentation docset URL][3] (1.0, for [Dash][4] or [Zeal][5] tools)
 
 ### Materials for the DGtal tutorial at DGMM 2022
 
